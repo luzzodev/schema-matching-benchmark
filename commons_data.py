@@ -8,10 +8,13 @@ N_OF_SEGMENT=8
 DIRTY_SEGMENTS_DICT="./../../common_corpus/dirty_segments/"
 CLEAN_SEGMENTS_DICT= "./../../common_corpus/clean_segments/"
 
-LOG_SEGMENTS_DICT="./../../common_corpus/logs_segments/"
+LOG_DICT="./../../common_corpus/logs/"
 
 SCHEMAS_DICT = "./../../common_corpus/schemas/"
 
 DEFAULT_ENCODING = "utf8"
 
 DEBUG_MODE=True
+
+MIN_ROW_X_SCHEMA = 10
+MIN_VALUES_X_COL_PCT = 20

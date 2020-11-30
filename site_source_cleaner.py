@@ -4,7 +4,10 @@ import json
 from commons_data import *
 from common_utilities import *
 from urllib.parse import urlparse
+from schemaLogger import SchemaLogger
 
+####This module will provide a cleaned mapping between sources and id.
+#### Sources with less then 3 record will be dropped out
 
 class SiteSourceCleaner:
 

@@ -12,13 +12,13 @@ class SegmentsCleaner:
 	
 	def __init__(self, input_dir=DIRTY_SEGMENTS_DICT, output_dir=CLEAN_SEGMENTS_DICT):
 
-		self.dirty_segments_dir= input_dir
-		self.clean_segments_dir= output_dir
+		self.dirty_segments_dir = input_dir
+		self.clean_segments_dir = output_dir
 
 		self.site_sources = SiteSourceCleaner()
 
-		self.object_counter=0
-		self.object_valid_counter=0
+		self.object_counter = 0
+		self.object_valid_counter = 0
 
 
 	def clearSegments(self):
