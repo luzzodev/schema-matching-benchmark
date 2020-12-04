@@ -11,8 +11,11 @@ CLEAN_SEGMENTS_DICT= "./../../common_corpus/clean_segments/"
 LOG_DICT="./../../common_corpus/logs/"
 
 SCHEMAS_DICT = "./../../common_corpus/schemas/"
+SCHEMAS_DIRTY_DICT = "./../../common_corpus/schemas_dirty/"
 
 DEFAULT_ENCODING = "utf8"
+
+EMPTY_LABEL_PLACEHOLDER = "PlaceHolderA"
 
 DEBUG_MODE=True
 
