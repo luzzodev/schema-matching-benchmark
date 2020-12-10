@@ -24,8 +24,8 @@ class SchemaAggragator:
 	def startAggregation(self):
 
 		for category in os.listdir(self.input_folder):
-			if not category == "Computers_and_Accessories":
-				continue
+			#if not category == "Computers_and_Accessories":
+				#continue
 			counter_aggregation = 0
 			for source in os.listdir(self.input_folder+category):
 				self.__aggregateSourceSchema(category, source)
@@ -53,7 +53,7 @@ class SchemaAggragator:
 		schema_headers = sorted(set(jsonDirtySchema['schema_header']))
 
 		sourceSchema = SchemaBuilder(schema_headers, jsonDirtySchema['schemas']).BuildSchema()
-		sourceSchema.changeHeader("/n", EMPTY_LABEL_PLACEHOLDER)
+		sourceSchema.changeHeader("\n", EMPTY_LABEL_PLACEHOLDER)
 		sourceSchema.changeHeader("", EMPTY_LABEL_PLACEHOLDER)
 
 		###Removing Column With Low Value %
