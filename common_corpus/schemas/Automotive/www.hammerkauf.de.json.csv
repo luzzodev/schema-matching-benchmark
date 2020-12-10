@@ -1,0 +1,16 @@
+KeyCol;+ pol:;- pol:;breite in mm:;enthält säurepack:;herst.:;höhe in mm:;kaltstartstrom cca:;kapazität ah:;kettengliedstärke in mm:;ladestrom a:;länge in mm:;säure-volumen ml:;typ:;volt:
+1;li.;re.;87;ja;yuasa;130;180;10;4.2;1.2;150;600;mfa;12
+2;;;;;ngk;;;;;;;;;
+3;li.;re.;87;ja;yuasa;93;105;6;2.6;0.7;150;330;mfa;12
+4;li.;re.;87;-;yuasa;95;190;8.6;3.2;0.9;150;;mfa sla;12
+5;li.;re.;87;-;yuasa;105;175;10;3.5;1;150;500;mfa sla;12
+6;;;;;;;;;;;180;;;
+7;li.;re.;87;-;yuasa;95;190;8.6;3.2;0.9;150;;mfa sla;12
+8;li.;re.;87;ja;yuasa;146;200;12;4.6;1.4;151;690;mfa;12
+9;li.;re.;87;ja;yuasa;146;200;12;4.6;1.4;151;690;mfa;12
+10;li.;re.;87;ja;yuasa;161;230;14;5.3;1.4;150;780;mfa;12
+11;li.;re.;87;ja;yuasa;161;230;14;5.3;1.4;150;780;mfa;12
+12;li.;re.;87;ja;yuasa;93;105;6;2.6;0.7;150;330;mfa;12
+13;li.;re.;87;ja;yuasa;105;135;8;3;0.9;150;400;mfa;12
+14;li.;re.;69;ja;yuasa;130;175;10;3.5;1;150;500;mfa;12
+15;li.;re.;87;-;yuasa;105;175;10;3.5;1;150;500;mfa sla;12
