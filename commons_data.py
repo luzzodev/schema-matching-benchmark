@@ -13,6 +13,8 @@ STATS_DICT="./../../common_corpus/stats/"
 SCHEMAS_DICT = "./../../common_corpus/schemas/"
 SCHEMAS_DIRTY_DICT = "./../../common_corpus/schemas_dirty/"
 
+JACCARD_MATCH_RESULT_DIR = "./../../common_corpus/match_result/"
+
 
 DEFAULT_ENCODING = "utf8"
 
@@ -23,4 +25,4 @@ DEBUG_MODE=True
 MIN_ROW_X_SCHEMA = 10
 MIN_VALUES_X_COL_PCT = 20
 
-JACCARD_MIN_SCORE = 0.5
+JACCARD_MIN_SCORE = 0.1

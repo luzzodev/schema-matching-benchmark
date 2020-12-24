@@ -28,11 +28,13 @@ class SchemaAggragator:
 				#continue
 			counter_aggregation = 0
 			for source in os.listdir(self.input_folder+category):
-				self.__aggregateSourceSchema(category, source)
 
 				if DEBUG_MODE:
 					counter_aggregation += 1
 					progressBar(counter_aggregation, len(os.listdir(self.input_folder+category)), f"Schema sources {source} {counter_aggregation} of {len(os.listdir(self.input_folder+category))}")
+
+				self.__aggregateSourceSchema(category, source)
+		self.logger.Flush()
 				
 
 
@@ -44,8 +46,8 @@ class SchemaAggragator:
 		###Dropping Schemas With Low Record
 
 		record_number = len(jsonDirtySchema['schemas'])		
-		if record_number < MIN_ROW_X_SCHEMA + 1:
-			self.logger.Log(self.__class__.__name__, f"Dropped Schema {source} For Category {category} - Founded: ({record_number -1})")
+		if record_number < MIN_ROW_X_SCHEMA:
+			self.logger.Log(self.__class__.__name__, f"Dropped Schema {source} For Category {category} - Founded: ({record_number})")
 			return 
 
 
@@ -61,12 +63,24 @@ class SchemaAggragator:
 		totalColumnValue = sourceSchema.getRowsNumber()
 		minValidValueRequired = (totalColumnValue/100) * MIN_VALUES_X_COL_PCT
 		headers = list(sourceSchema.getHeaders())
-		for header in headers:
-			validColumnValue = totalColumnValue - sourceSchema.countEmptyValueOf(header)
 
+		header_counter = 0
+		header_total = len(headers)
+
+		for header in headers:
+			#Old With no metadata usage
+			#validColumnValue = totalColumnValue - sourceSchema.countEmptyValueOf(header)
+
+			#if DEBUG_MODE:
+				#header_counter += 1
+				#progressBar(header_counter, header_total, f"Schema Building1 {header_counter} of {header_total}")
+
+			validColumnValue = totalColumnValue - sourceSchema.getEmptyValuCounteOf(header)
 			if not validColumnValue >= minValidValueRequired:
-				if sourceSchema.removeHeader(header):
-					self.logger.Log(self.__class__.__name__, f" - [Schema: {source}] Dropping Column {header} ({validColumnValue} of {minValidValueRequired})")
+				sourceSchema.addRemoveQuequeHeader(header)
+				self.logger.Log(self.__class__.__name__, f"{category} - [Schema: {source}] Dropping Column {header} ({validColumnValue} of {minValidValueRequired})")
+		sourceSchema.removeHeaders()
+			
 
 		###Once all process of filtering is ended if schema is still valid header >= 1 then write with keyPos
 

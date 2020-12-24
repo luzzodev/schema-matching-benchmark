@@ -13,6 +13,18 @@ def progressBar(count, total, status=''):
 
 #define Jaccard Similarity function
 def jaccard(list1, list2):
-    intersection = len(list(set(list1).intersection(list2)))
-    union = (len(list1) + len(list2)) - intersection
+    set1 = set(list1)
+    set2 = set(list2)
+    set1.discard("")
+    set2.discard("")
+    intersection = len(set1.intersection(set2))
+    union = (len(set1) + len(set2)) - intersection
     return float(intersection) / union
+
+#input url format *.hostname.root.json.csv
+def getHostName(urlSite):
+    urltoken = urlSite.split(".")
+    try:
+        return urltoken[-4]
+    except:
+        return urltoken[-3]

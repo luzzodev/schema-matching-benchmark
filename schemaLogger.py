@@ -16,7 +16,7 @@ class SchemaLogger:
 			dt_string = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 			self.logLine.append(f"[{modName}][{dt_string}] - {logline}")
 
-			if len(self.logLine) > 20:
+			if len(self.logLine) > 200:
 				self.Save()
 
 		def Save(self):
