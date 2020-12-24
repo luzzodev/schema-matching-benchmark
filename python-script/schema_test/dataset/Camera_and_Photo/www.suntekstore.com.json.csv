@@ -1,0 +1,7 @@
+KeyCol;agc;backlight compensation;cmos;color;effective pixels;electronic shutter;exposure mode;gamma correction;horizontal resolution;lens;material;minimum illumination;power supply;signal system;synchronization;white balance mode;working temperature
+1;;;;clear white;;;;;;;soft plastic;;;;;;
+2;auto;auto;1/3cmos;white;pal:510h×492v ;pal:1/50-1/100000sec ;auto;0.45;600tvl;3.6mm;plastic;0.001(lux);dc 12v;pal ;internal synchronization;auto;-20℃~50℃
+3;auto;auto;1/3 cmos;white;pal: 510h x 492v ;pal: 1/50 - 1/100000sec ;auto;0.45;600tvl;3.6mm;plastic;0.001(lux);dc 12v;pal;internal synchronization;auto;-20℃～50℃
+4;auto;auto;1/3 cmos;white;pal: 510h x 492v ;pal: 1/50 - 1/100000sec ;auto;0.45;600tvl;3.6mm;plastic;0.001(lux);dc 12v;pal;internal synchronization;auto;-20℃～50℃
+5;auto;auto;1/3 cmos;black;pal: 510h x 492v  ;pal: 1/50 - 1/100000sec  ;auto;0.45;600tvl;3.6mm;metal;0.001(lux);dc 12v;pal;internal synchronization;auto;-20℃～50℃
+6;auto;auto;1/3cmos;silvery;pal:510h×492v ;pal:1/50-1/100000sec ;auto;0.45;600tvl;3.6mm;plastic;0.001(lux);dc 12v;pal;internal synchronization;auto;-20℃~50℃

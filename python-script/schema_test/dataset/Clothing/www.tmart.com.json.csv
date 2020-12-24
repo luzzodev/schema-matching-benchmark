@@ -1,0 +1,539 @@
+KeyCol;applicable gender;bust;chest;color;gender;hip;material;size;sleeve style;waist;weight
+1;;(23.62 - 25.20)" / (60 - 64)cm;;as shown in pictures;female;(28.35 - 29.92)" / (72 - 76)cm;elastane / terylene;m;;(26.77- 28.35)" / (68 - 72)cm;4.94oz / 140g
+2;female;;(29.92 - 31.5)" / (76 - 80)cm;blue;;(31.5 - 33.07)" / (80 - 84)cm;elastane & terylene;xl;;(27.56 - 29.13)" / (70 - 74)cm;4.94oz / 140g
+3;;;;milky;;;modal cotton;l;short sleeve;;4.83oz / 137g
+4;male;;35.43" / 90cm;light gray;;;all cotton;m;;;14.11oz / 400g
+5;;;;milky;;;cotton;l;short sleeve;;5.64oz / 160g
+6;;;;sky blue;;  29.13" / 74cm;95% polyester, 5% spandex;free size;;  26.77" / 68cm; 5.11 oz / 122 g
+7;;;;black;;;  cotton stretch pants;free size;;60cm;49g /1.73oz
+8;;;;yellow;female;;cotton,lace;;;;7.02 oz / 199 g
+9;;36.22"/92 cm;;white & light green;;;chiffon;l;short sleeve;; 7.97 oz/ 226 g
+10;female;32.68-33.86" / 83-86cm;;wine-red;;;cotton;m;long sleeve;;10.3oz / 292g
+11;;;35.43" / 90cm;yellow;;;chiffon;free size;sleeveless;35.43" / 90cm;11.99oz / 340g
+12;;;;black;;;lace;us size(s ~ m);;;1.55oz / 44g
+13;woman;;;;;;;s;short sleeve;;15.87oz / 450g
+14;;34.65" / 88cm(can stretch up to 112cm);;red;;35.43" / 90cm(can stretch up to 115cm);100%polyester;free size;long sleeve;27.56" / 70cm(can stretch up to 100cm);5.64oz / 160g
+15;;;;black;;;nylon;us size s to m (suitable for height about 150-170cm);;;5.22oz / 148g
+16;female;;(28.34~29.92)" / (72~76)cm;pink;;(28.34~29.92)" / (72~76)cm;16%polyester & 84%acrylic;m;;(24.41~25.98)" / (62~66)cm;6.35oz / 180g
+17;;31.89" / 81cm;;red;;33.86" / 86cm;chiffon;s;;;29.63oz / 840g
+18;;;;black;;;nylon & elastic fabric;us size s to m (suitable for height about 150-170cm);;;4.30oz / 122g
+19;female;;(28.34~29.92)" / (72~76)cm;as shown in pictures;;(28.34~29.92)" / (72~76)cm;16%polyester & 84%acrylic;m;;(24.41~25.98)" / (62~66)cm;6.35oz / 180g
+20;;;;;;;nylon & elastic fabric;us size(s ~ m);;;3.32oz / 94g
+21;;;;black & white & silver;;;nylon & elastic fabric;us size s to m (suitable for height about 150-170cm);;;7.69oz / 218g
+22;;;;blue;;;net yarn & lace;us size(s ~ m);;;0.88oz / 25g
+23;;;;black;;;65% polyester , 35% viscose;free size;;;0.35 oz / 10 g
+24;;;;black;;;nylon & elastic fabric;us size(s ~ m);;;5.29oz / 150g
+25;;;;zebra-stripe + rose red lace;women;;80% polyamide / 20% spandex;s;;;4.94 oz / 140 g
+26;female;;34.65" / 88cm;red;;;hemp blended;m;;;14.11oz / 400g
+27;;;;white;;;nylon & elastic fabric;us size(s ~ m);;;2.72oz / 77g
+28;;35.43"/90 cm;;red rose;;;lace & flax;l;short sleeve;; 10.72 oz/ 304 g 
+29;female;;(23.62~25.19)" / (60~64)cm;as shown in pictures;;(28.35~29.92)" / (72~76)cm;polyester 16% acrylic 84%;m;;(26.77~28.35)" / (68~72)cm;6.35oz / 180g
+30;neutral / both men and women;;;grey;;;cotton;;;;0.63oz / 18g
+31;;34.65" / 88cm(can stretch up to 112cm);;leopard grain;;35.43" / 90cm(can stretch up to 115cm);tapestry;free size;sleeveless;27.56" / 70cm(can stretch up to 100cm);9.52oz / 270g
+32;;;;black;;;lace;us size(s ~ m);;;3.17oz / 90g
+33;;;;black;;;gauze;;;;0.71oz / 20g
+34;;33.86"/86 cm;;nude pink;;;chiffon & lace;m; half sleeve;; 10.58 oz/ 300 g
+35;;;;mustard yellow4. neckline style: v-neck;;;mercerized cotton;free size;;;5.33oz / 151g
+36;;;;black;;;leather;us size(s ~ m);;;2.82oz / 80g
+37;;;;yellow;female;;silk;free size (look at the size guide chart below);;;5.64oz / 160g
+38;;;;red;;;lace;us size s to m (suitable for height about 150-170cm);;;2.12oz / 60g
+39;;;;black;;;net yarn & lace;us size s to m (suitable for height about 150-170cm);;;0.88oz / 25g
+40;women;;33.07" / 84cm;royal blue;;;cotton & lycra;s;;;150oz / 5.29g
+41;;;;beige;;;lace;free size;sleeveless;;2.82oz / 80g
+42;;;;light purple;;;net yarn & lace;;;;2.47oz / 70g
+43;female;;(35.83-39.76)" / (91-101)cm;multicolor;;(38.19-42.13)" / (97-107)cm;polyester 16% & acrylic 84%;l / xl;;(25.98-29.92)" / (66-76)cm;150g / 5.29oz
+44;;;;black; female;; 82% nylon 18% spandex;l;;; 4.87 oz / 138 g
+45;;;;white;;;net yarn & spandex;us size s to m;;;0.71oz / 20g
+46;; 47.24 " / 120 cm;; peacock blue;;;cotton;free size;sleeveless;;5.22oz / 148g
+47;;;;green, black;;;polyester, foam;xl;;;19.05 oz / 540 g
+48;;;;beach white;;;cotton blended;free size;sleeveless;;7.76oz / 220g 
+49;;;;black & rose red;;;net yarn & lace;us size(s ~ m);;;3.21oz / 91g
+50;;;;light pink;;;nylon & elastic fabric;us size s to m (suitable for height about 150-170cm);;;3.46oz / 98g
+51;female;;(31.89-36.22)" / (81-92)cm;as shown in the pictures;;(34.25-38.19)" / (87-97)cm;polyester 16% & acrylic 84%;s / m;;(22.05-25.98)" / (56-66)cm;150g / 5.29oz
+52;;;;dark purple; female;; 82% nylon 18% spandex;m;;; 4.3 oz / 122 g
+53;;;;purple;;;nylon & elastic fabric;us size(s ~ m);;;2.08oz / 59g
+54;;;;purplish red;;;net yarn & lace;us size(s ~ m);;;5.93oz / 168g
+55;;;;;;;net yarn & lace;us size(s ~ m);;;3.21oz / 91g
+56;;;;light purple;;;net yarn & lace;us size(s ~ m);;;6.98oz / 198g
+57;;;;black & white;;;lace & spandex;us size(s ~ m);;;3.84oz / 109g
+58;female;;;skin color;;;60%cotton fiber, 40%spandex;free size;;;2.47oz / 70g
+59;female;;(23.62-25.2)" / (60-64)cm;blue;;(28.35-29.92)" / (72-76)cm;polyester 16% & acrylic 84%;m;;(26.77-28.35)" / (68-72)cm;150g / 5.29oz
+60;;;33.07" / 84cm;as shown in pitures;;;indiana cotton & kegen yarn;m;;;10.58oz / 300g
+61;female;13.39-14.17" / 34-36cm;;purple;;;polyamide, nylon, lace;free size;;13.78-17.72" / 35-45cm;4.23oz / 120g
+62;;;35.1" / 80cm;black;;;blend + lace;s;;27.56" / 70cm;8.82 / 250g
+63;;;; white; female;; polyester + nylon lace;one size;;; 3.53oz/100g
+64;woman;;39.37" / 100cm;white, yellow;;;cotton,organza;l;short sleeve;34.65" / 88cm;8.82oz / 250g
+65;;38.59" / 98cm;;orange;;;lycra cotton;free size;;;5.04oz / 143g
+66;;;;digital floral print;women;;80% polyamide / 20% spandex;m;;;5.11 oz / 145 g
+67;;;;solid black + fluorescent green lace;women;;80% polyamide / 20% spandex;s;;;4.94 oz / 140 g
+68;;30.71" / 78cm(can stretch up to 96cm);;black;;32.28" / 82cm(can stretch up to 100cm);tapestry;m;sleeveless;25.98" / 66cm(can stretch up to 80cm);10.23oz / 290g
+69;;29.13-40.94 " / 74 -140 cm;;red;female;31.49-39.37 " / 80-100 cm;cotton;free size;;25.95-32.67 " - 65-80 cm;4.58 oz / 130 g
+70;;;(23.62 ~ 39.37)" / (60 ~ 100)cm;dark blue;;;bright silk;free size;sleeveless;;8.11oz / 230g
+71;;41.73" / 106cm;;blue;male;;cotton;free size;;;
+72;;;;black;;;65% polyester , 35% viscose;free size;;;0.46 oz / 13 g 
+73;;;;grey;;;cotton;60 x 28.5 cm / 23.62" x 11.22" (l x w);;;78g / 2.75 oz
+74;;;;white;;;chiffon;s;;(25.98 ~ 27.55)" / (66 ~ 70)cm;8.82oz / 250g
+75;;29.92" / 76cm;;white;;;cotton blended;free size;;;6oz / 170g
+76;female;;(31.89-33.86)" / (81-86) cm;as shown in pictures;;(33.86-35.83)" / (86-91) cm;elastane & terylene;s;;(22.05-24.02)" / (56-61) cm;4.94oz / 140g
+77;;;;white & black;;;nylon;us size s to m (suitable for height about 150-170cm);;;4.76oz / 135g
+78;;;;blue;;;net yarn & lace;;;;2.47oz / 70g
+79;female;;(31.89-35.83)" / (81-91)cm;multicolor;;(34.25-38.19)" / (87-97)cm;polyester 16% & acrylic 84%;s / m;;(22.05-25.98)" / (56-66)cm;150g / 5.29oz
+80;;(31.89 - 33.86)" / (81 - 86)cm;;as shown in pictures;female;(33.86 - 35.83)" / (86 - 91)cm;elastane / terylene;s;;(22.05 - 24.02)" / (56 - 61)cm;4.94oz / 140g
+81;;;;black;;;net yarn & lace;us size(s ~ m);;;1.31oz / 37g
+82;;;;black ;female;;90% polyamide, 10% elastane;unlimited;;;2.19 oz / 62 g
+83;;;;dark blue;;;wool;free size;;; 4.94oz / 140g
+84;;;(32.28~35.43)" / (82~90)cm;as shown in pictures;;;cotton;free size;;;10.58oz / 300g
+85;;;;black;;;net yarn & spandex;us size s to m;;;2.82oz / 80g
+86;woman;;;;;;blended;s;long sleeve;;10.58oz / 300g
+87;woman;;;;;;cotton kind of blended;s;half sleeve;;15.87oz / 450g
+88;female;;;blue;;;60%cotton fiber, 40%spandex;free size;;;3.74oz / 106g
+89;;;;;;;;m;;;48.76g / 1.72oz
+90;;32.28" / 82cm(can stretch up to 100cm);;yellow;;34.65" / 88cm(can stretch up to 106cm);tapestry;free size;long sleeve;26.77" / 68cm(can stretch up to 82cm);10.23oz / 290g
+91;female;;(31.89 - 33.86)" / (81 - 86)cm;as shown in the picture;;(33.86 - 35.83)" / (86 - 91)cm;elastane & terylene;s;;(22.05 - 24.02)" / (56 - 61)cm;4.94oz / 140g
+92;;;;fluorescent red;women;;80% polyamide / 20% spandex;l;;;5.29 oz / 150 g
+93;;;;black;;;net yarn;us size s to m (suitable for height about 150-170cm);;;3.81oz / 106g
+94;;;;purple;;;net yarn & lace;one size fits us size s to m (suitable for height about 150-170, this item only have one size, but fabric is flexible);;;3.07oz / 87g
+95;female;;(28.35-29.92)" / (72-76) cm;as shown in picture;;(28.35-29.92)" / (72-76) cm;polyester 16% & acrylic 84%;m;;(24.41-25.98)" / (62-66)cm;6.35oz / 180g
+96;;;;green, black;;;polyester, foam;xxl;;;20.46 oz / 580 g
+97;;;;black;female;;satin & floral trimings;l size;;;220g / 7.76oz
+98;;;;nude pink;;;chiffon;xl; short sleeve;; 12.8 oz/363 g  
+99;female;40.16" / 102cm(can stretch up to 106cm);;red;;42.91" / 109cm(can stretch up to 112cm);lace;xl;;31.5" / 80cm(can stretch up to 81cm);4.58oz / 130g
+100;;;(27.55~36.22)" / (70~92)cm;white;;;chiffon;m;sleeveless;40.15" / 102cm;11.99oz / 340g
+101;;;;red;female;;silk;free size (look at the size guide chart below);;;140g / 4.94oz
+102;;;(27.56 - 39.37)" / (70 - 100)cm;green;;;milk silk;free size;sleeveless;(31.50 - 39.37)" / (80 - 100)cm;13.40 oz / 380 g
+103;;;(35.43 - 39.37)" / (90 - 100)cm;pink;;(43.30 - 47.24)" / (110 - 120)cm;meryl;m;short sleeve;(20.47 - 35.43)" / (52 - 90)cm;13.05 oz / 370 g
+104;;;;black;;;polyester,spandex;;;;4.2oz / 119g
+105;;;;yellow;female;;cotton,lace;;;;4.3 oz / 122 g
+106;female;;31.49 " / 80 cm;;;;silver+polyester;s;;;12.35 oz / 350 g
+107;;;;black;female;;silk;free size (look at the size guide chart below);;;4.23oz / 120g
+108;;31.49-35.43 " / 80-90 cm;;pink white;;32.67-35.03 " / 83-89 cm;polyester;m;short sleeve;;10.58 oz / 300 g
+109;male;;35.43" / 90cm;white;;;all cotton;m;;;14.11oz / 400g
+110;;;;red & black;;;lace;one size fits us size s to m (suitable for height about 150-170, this item only have one size, but fabric is flexible);;;1.20oz / 34g
+111;;;;black;female;;silk;free size (look at the size guide chart below);;;160g / 5.64oz
+112;female;;(23.62 - 25.19)" / (60 - 64)cm;as shown in pictures;;(28.34 - 29.92)" / (72 - 76)cm;polyester 16%, acrylic 84%;m;;(26.77 - 28.34)" / (68 - 72)cm;6.35oz / 180g
+113;;;;black;female;;lace + silk;free size (look at the size guide chart below);;;120g / 4.23oz
+114;;;;rose red;;;mercerized cotton;free size;;;5.78oz / 164g
+115;;;;black;female;;silk;free size (look at the size guide chart below);;;280g / 9.88oz
+116;;25.59"-33.46" / 65cm-85cm;;pink;women' s;;;;;27.56"-35.43" / 70cm-90cm;400 g /14.1 oz
+117;;;;black;;;lace;us size(s ~ m);;;1.27oz / 36g
+118;;66-70cm;;orange; female;68-72cm; 82% nylon 18% spandex;m;;54-58cm; 4.27 oz / 121 g
+119;;;;pink;women;;pu leather;7.28" x 3.46" x 1.02";;;182g
+120;;;;colorful doodle;women;;80% polyamide / 20% spandex;m;;;5.11 oz / 145 g
+121;;(31.89 - 33.86)" / (81 - 86)cm;;as shown in pictures;female;(33.86 - 35.83)" / (86 - 91)cm;elastane / terylene;s;;(22.05 - 24.02)" / (56 - 61)cm;4.94oz / 140g
+122;;;;black;;;net yarn & lace;us size(s ~ m);;;2.61z / 74g
+123;female;;(31.88-33.85)" / (81-86)cm;as shown in pictures;;(33.85-35.82)" / (86-91)cm;material: polyester 36% & cotton 64%;s;;(22.05-24.02)" / (56-61)cm;4.94oz / 140g
+124;female;;(31.89-33.86)" / (81-86) cm;as shown in pictures;;(33.86-35.83)" / (86-91) cm;elastane & terylene;s;;(22.05-24.02)" / (56-61) cm;4.94oz / 140g
+125;;;;zebra-stripe, green;women;;80% polyamide / 20% spandex;m;;;4.94 oz / 140 g
+126;;;;rose red;;;net yarn & lace;us size(s ~ m);;;3.42oz / 97g
+127;;;;black;;;nylon & elastic fabric;us size s to m (suitable for height about 150-170cm);;;4.59oz / 130g
+128;;;;wine red;;;chiffon;free size ;;22.83-33.16 " / 58-85 cm;5.04 oz / 143 g
+129;;;;black;;;net yarn & lace;;;;2.47oz / 70g
+130;;;;pink;;;65% polyester , 35% viscose;free size;;;0.53 oz / 15 g
+131;;;;red  ;female;;nylon+ cottons;one size;;;10.58oz/ 300g
+132;;62-66cm;;orange brown; female;64-68cm; 82% nylon 18% spandex;m;;50-54cm; 5.04 oz / 143 g
+133;female;;;army green;;31.5" / 80cm;100% cotton;28 yards;;27.95" / 71cm;15.87oz / 450g
+134;female;;(28.34-29.92)" / (72-76)cm;as shown in pictures;;(33.07-34.64)" / (84-88)cm;polyester 16% + acrylic 84%;xxl;;(31.49-33.07)" / (80-84)cm;6.35oz / 180g
+135;female;;(23.62-27.55)" / (60-64)cm;as shown in pictures;;(28.34-29.92)" / (72-76)cm;polyester 16% + acrylic 84%;m;;(26.77-228.34)" / (68-72)cm;6.35oz / 180g
+136;female;;(28.35 - 29.92)" / (72 - 76)cm;light blue;;(29.92 - 31.5)" / (76 - 80)cm;elastane & terylene;l;;(25.2 - 27.56)" / (64 - 70)cm;4.94oz / 140g
+137;;;37.40" / 95cm;orange;;;meryl;free size;sleeveless;;11.64oz / 330g
+138;;37.4 " / 95 cm;;azure;;35.43 " / 90 cm;lace & cotton;l;short sleeve;;10.58 oz / 300 g
+139;;29.92" / 76cm;;white;;;cotton;free size;sleeveless;;
+140;;;;black;;;chiffon;s;;;7.05oz / 200g
+141;female;31.89" / 81cm(can stretch up to 86cm);;black;;33.86" / 86cm(can stretch up to 91cm);100% polyester;s;long sleeve;22.83" / 58cm(can stretch up to 64cm);19.75oz / 560g
+142;female;33.07" / 84cm;;white;;;cotton+lace;m;;;7.48oz / 212g
+143;;;;neon green;women;;80% polyamide / 20% spandex;m;;;5.11 oz / 145 g
+144;;;;black;female;;satin & floral trimings;xxl;;;180g / 6.35oz
+145;female;;(28.34 - 29.92)" / (72 - 76)cm;as shown in pictures;;(28.34 - 29.92)" / (72 - 76)cm;polyester 16%, acrylic 84%;m;;(23.62 - 25.98)" / (60 - 66)cm;6.35oz / 180g
+146;;;;black;;;cotton;free size;;; 5.36oz / 152g
+147;;36.22"/92 cm;;white;;;lace;l; short sleeve;; 7.48 oz/ 212 g  
+148;;;;red;;;polyester;;;;
+149;;;;khaki;;;cotton blended;s;;25.2 " / 64 cm;8.82 oz / 250 g
+150;female;;(31.89 - 33.86)" / (81 - 86)cm;as shown in the picture;;(33.86 - 35.83)" / (86 - 91)cm;elastane & terylene;s;;(22.05 - 24.02)" / (56 - 61)cm;4.94oz / 140g
+151;;(31.89 - 33.86)" / (81 - 86)cm;;as shown in pictures;female;(33.86 - 35.83)" / (86 - 91)cm;elastane / terylene;s;;(22.05 - 24.02)" / (56 - 61)cm;4.94oz / 140g
+152;;33.86"/86 cm;;white;;;chiffon & lace;m; half sleeve;; 10.58 oz/ 300 g
+153;female;;(28.35-29.92)" / (72-76) cm;green;;(28.35-29.92)" / (72-76) cm;material: polyester 36% & cotton 64%;m;;(24.41-25.98)" / (62-66)cm;6.35oz / 180g
+154;;;;navy;;;bamboo charcoal fiber and cotton velvet;free size;;;
+155;;33.86"/86 cm;;red rose;;;lace & flax;m;short sleeve;; 10.72 oz/ 304 g
+156;female;;(35.83-39.76)" / (91-101)cm;as shown in the pictures;;(38.19-42.13)" / (97-107)cm;polyester 16% & acrylic 84%;l / xl;;(25.98-29.92)" / (66-76)cm;150g / 5.29oz
+157;;;;white and red floral pattern;women;;88% polyamide / 12% spandex;xs;;;4.59 oz / 130 g
+158;female;;32.28-34.65" / 82-88cm;black;;;75% cotton + 22.7% nylon + 2.3% spandex;l;;;9.88oz / 280.1g
+159;;;;black;;;pu leather;;;;3.88 oz / 110 g
+160;;;;blue+white;;;chiffon;l;short sleeve;; 8.04 oz / 228 g   
+161;;;(31.50 ~ 39.37)" / (80 ~ 100)cm;orange;;;meryl crystal cotton;free size;sleeveless;;10.58oz / 300g
+162;female;;72-100cm;rose red;;;nylon;free size;;76-100cm;4.59oz / 130g
+163;;64-68cm;;purple; female;72-76cm; 82% nylon 18% spandex; m;;; 4.69 oz / 133 g
+164;female;37.01" / 94cm(can stretch up to 102cm);;white;;38.98" / 99cm(can stretch up to 104cm);90% polyester, 10% spandex;l;;27.95" / 71cm(can stretch up to 79cm);8.46oz / 240g
+165;;;;white;female;;velvet;free size;;;
+166;female;;(31.89-33.86)" / (81-86) cm;as shown in pictures;;(33.86-35.83)" / (86-91) cm;elastane & terylene;s;;(22.05-24.02)" / (56-61) cm;4.94oz / 140g
+167;;;;white;;;cup: cotton blended cup lining: 100% cotton;34b;;;1.48oz / 42g
+168;;25.59"-33.46" / 65cm-85cm;;purple;women' s;;;;;27.56"-35.43" / 70cm-90cm;400 g /14.1 oz
+169;;75-80;;leopard; female;; 82% nylon 18% spandex;xl;;; 5.54 oz / 157 g
+170;;;;black;;;net yarn & lace;us size(s ~ m);;;2.64oz / 64g
+171;female;;(31.88-33.85)" / (81-86)cm;as shown in pictures;;(33.85-35.82)" / (86-91)cm;material: polyester 36% & cotton 64%;s;;(22.05-24.02)" / (56-61)cm;4.94oz / 140g
+172;female;;(28.35-29.92)" / (72-76) cm;as shown in picture;;(28.35-29.92)" / (72-76) cm;material: polyester 36% & cotton 64%;m;;(24.41-25.98)" / (62-66)cm;6.35oz / 180g
+173;;;32.28" / 82cm;white;;;cotton;s;sleeveless;27.56" / 70cm;8.82oz / 250g
+174;female;;(31.88-33.85)" / (81-86)cm;as shown in pictures;;(33.85-35.82)" / (86-91)cm;material: polyester 36% & cotton 64%;s;;(22.05-24.02)" / (56-61)cm;4.94oz / 140g
+175;;32-34" / 81-86cm;;purple (bra);women;;polyester, spandex;s;;24-26" / 61-66cm;7.05oz / 200g
+176;;;;black;;;net yarn & lace;us size s to m (suitable for height about 150-170cm);;;1.02oz / 29g
+177;;25.59"-33.46" / 65cm-85cm;;red;women’s;;;;;27.56"-35.43" / 70cm-90cm;400 g /14.1 oz
+178;;35.83-38.19"/91-97 cm;;blue flag;;38.19-40.16"/97-102cm;80% nylon, 20% spandex;l;;;5.4 oz/ 153 g
+179;;;(34.64~44.09)" / (88~112)cm;leopard print;;(35.43~45.27)" / (90~115)cm;brocade;free size;sleeveless;(27.55~39.37)" / (70~100)cm;4.59 oz / 130 g
+180;;;;purple;;;wool;free size;;; 4.94oz / 140g
+181;;;; apricot black; female;; 82% nylon 18% spandex;xl;;; 4.48 oz / 127 g
+182;;;;black;;;net yarn & lace;us size(s ~ m);;;1.69oz / 48g
+183;;;;purple;;;net yarn;us size s to m (suitable for height about 150-170cm);;;2.79oz / 79g
+184;female;;(31.89-33.86)" / (81-86)cm;as shown in pictures;;(33.86-35.83)" / (86-91)cm;elastane / terylene;s;;(22.05-24.02)" / (56-61)cm;4.94oz / 140g
+185;female;;(28.34~29.92)" / (72~76)cm;as shown in pictures;;(28.34~29.92)" / (72~76)cm;16%polyester & 84%acrylic;m;;(24.41~25.98)" / (62~66)cm;6.35oz / 180g
+186;;;;black;female;;satin & floral trimings;m size;;;220g / 7.76oz
+187;;;;black;female;;spandex;free size;;; 9.31 oz / 264 g
+188;female;42.52" / 108cm(can stretch up to 112cm);;black;;44.88" / 114cm(can stretch up to 117cm);satin;xxl;;33.07" / 84cm(can stretch up to 85cm);4.58oz / 130g
+189;;;;black;;;nylon ,elastane;free size;;;48 g /1.69 oz
+190;;82 cm/ 32.28";;red;;;cotton;free size;long sleeve;;485 g / 17.11 oz
+191;female;42.52" / 108cm;;white;;;cotton;l;long sleeve;;13.02oz / 369g
+192;;;(25.59 ~ 39.37)" / (65 ~ 100)cm;white;;;ice cotton;m;sleeveless;;10.58oz / 300g
+193;;37.01"/94 cm;;violet blue;;;flax;l;sleeveless;; 8.99 oz/ 255 g  
+194;;;;coffee;;;;;;;2.12oz / 60g
+195;female;;34.65" / 88cm;sapphire blue;;;woollen,acrylic;free size;;;7.34oz / 208g
+196;;;(36.22 ~ 39.37)" / (92 ~ 100)cm;cream-colored;;;cotton;free size;short;;4.94oz / 140g
+197;;31.5" / 80cm(can stretch up to 84cm);;black;;33.46" / 85cm(can stretch up to 88cm);tapestry;s;long sleeve;23.62" / 60cm(can stretch up to 64cm);7.41oz / 210g
+198;;;; black;;;lace;l;short sleeve;; 8.04 oz / 228g
+199;;;;fluorescent green and colorful doodle print;women;;80% polyamide / 20% spandex;l;;;5.29 oz / 150 g
+200;female;;(23.62~25.19)" / (60~64)cm;as shown in pictures;;(28.35~29.92)" / (72~76)cm;polyester 16% acrylic 84%;m;;(26.77~28.35)" / (68~72)cm;6.35oz / 180g
+201;;;;red;female;;satin & floral trimings;s size;;;220g / 7.76oz
+202;;;;black;female;;satin & floral trimings;m size;;;200g / 7.05oz
+203;female;;;black;;31.10-33.86" / 79-86cm;80.1% viscose fiber + 16.3% polyester + 3.6% spandex;s;;24.41-28.35" / 62-72cm;8.82oz / 250g
+204;;;;black;;;nylon & elastic fabric;us size s to m (suitable for height about 150-170cm);;;1.41oz / 40g
+205;;104cm (40.94")  ;;light green;;;chiffon ;;sleeveless size;60cm-118cm (23.62"-46.46") ;273g / 9.63oz
+206;;;;black;;;velvet;free size;;; 2.82oz / 80g
+207;female;;72-100cm;blue;;;nylon;free size;;76-100cm;4.59oz / 130g
+208;;;34.65" / 88cm;as shown in picture;;;chiffon;s;;25.98" / 66cm;12.35oz / 350g
+209;;;;purple;;;lace;us size s to m (suitable for height about 150-170cm);;;3.84oz / 109g
+210;;;;purple;;;net yarn & lace;;;;2.47oz / 70g
+211;;;;coffee;;;velvet;free size;;; 2.82oz / 80g
+212;;;;lavender;;;net yarn & lace;us size s to m (suitable for height about 150-170cm);;;2.12oz / 60g
+213;;;;purple;;;lace;one size fits us size s to m (suitable for height about 150-170, this item only have one size, but fabric is flexible);;;2.96oz / 84g
+214;;;;white;female;;silk;free size (look at the size guide chart below);;;5.64oz / 160g
+215;;;;white;;;net yarn & spandex;us size s to m;;;0.71oz / 20g
+216;;;34.65" / 88cm;navy blue;;;chiffon;m;;29.92" / 76m;10.58oz / 250g
+217;;;;white;;;cotton stretch pants;free size;;23.62" / 60cm;49g /1.73oz
+218;female;36.22-37.4" / 92-95cm;;blue;;;cotton;l;long sleeve;;10.72oz / 304g
+219;;;(26.77 ~ 35.43)" / (68 ~ 90)cm;;;;milk silk;free size;sleeveless;;11.29oz / 320g
+220;;29.13 " / 74 cm;;black;;;chiffon;free size;sleeveless;;5.57 oz / 158 g
+221;;;;black;female;;silk;free size (look at the size guide chart below);;;3.53oz / 100g
+222;;;;black;; 30.71-45.67 " / 78-116 cm;cotton;free size;;; 9.88 oz / 280 g
+223;;;;black;;;nylon ,elastane;free size;;;26 g / 0.91 oz
+224;;52.76" / 135cm;;rose;;;cotton blended;free size;bat-wing seeve;;9.45oz / 246g
+225;;35.83-38.19"/91-97 cm;;orange;;38.19-40.16"/97-102cm;88% nylon, 12% spandex;l;;; 4.83 oz/ 137 g
+226;;;;black+apricot;;;chiffon+lace;l;sleeveless;; 10.65 oz / 302 g   
+227;;;33.07" / 84cm;black;;;lace & mercerized;m;short;31.49" / 80cm;7.76oz / 220g
+228;;;;black;;;nylon;us size s to m (suitable for height about 150-170cm);;;5.22oz / 148g
+229;;;;blue;;;ice silk;free size;;;6.53oz / 185g
+230;;;;petunia;female;;sequins;free size (look at the size guide chart below);;;160g / 5.64oz
+231;;;;black;;;mesh with lace;us size(s ~ m);;;5.14oz / 146g
+232;;;;blue, black;;;polyester, foam;xxl;;;19.4 oz / 550 g
+233;;28.58" / 98cm;;white;;;imitated silk;free size;;;5.78oz / 164g
+234;female;;(23.62-27.55)" / (60-64)cm;as shown in pictures;;(28.34-29.92)" / (72-76)cm;polyester 16% + acrylic 84%;m;;(26.77-228.34)" / (68-72)cm;6.35oz / 180g
+235;;;;pink;;;lace;us size(s ~ m);;;5.57oz / 158g
+236;female;53.15" / 135cm;;black;;;cotton;free size;;;6.38oz / 181g
+237;;31.89" / 81cm;;pink;;33.86" / 86cm;chiffon;s;;;17.64oz / 500g
+238;;;;black;;;nylon & elastic fabric;us size s to m (suitable for height about 150-170cm);;;6.21oz / 176g
+239;female;38.58" / 98cm;;black and white;;;cotton;free size;long sleeve;;6.1oz / 173g
+240;;33.07" / 84cm(can stretch up to 94cm);;black;;35.43" / 90cm(can stretch up to 104cm);100% polyester;free size;long sleeve;25.98" / 66cm(can stretch up to 78cm);10.23oz / 290g
+241;;;;black;female;;silk;free size (look at the size guide chart below);;;240g / 8.47oz
+242;;;;pink;;;net yarn;us size s to m (suitable for height about 150-170cm);;;2.05oz / 58g
+243;;;;fluorescent green and colorful doodle print;women;;80% polyamide / 20% spandex;s;;;4.94 oz / 140 g
+244;;33.07" / 84cm(can stretch up to 96cm);;black;;33.07" / 84cm(can stretch up to 94cm);100% polyester;m;sleeveless;30.71" / 78cm(can stretch up to 80cm);8.29oz / 235g
+245;;;;shown figure;female;;silk;free size;;;160g / 5.384oz
+246;;;;solid black + fluorescent green lace;women;;80% polyamide / 20% spandex;m;;;5.11 oz / 145 g
+247;;37" / 94cm;;rose;;;chiffon;free size;sleeveless;;2.22oz / 63g
+248;;;;red;;;;xl;;;
+249;;;;as picture shown;female;;chiffon;free size (look at the size guide chart below);;;9.88oz / 280g
+250;female;;(23.62-25.2)" / (60-64)cm;rose red;;(28.35-29.92)" / (72-76)cm;polyester 16% & acrylic 84%;m;;(26.77-28.35)" / (68-72)cm;150g / 5.29oz
+251;female;31.89" / 81cm(can stretch up to 86cm);;black;;33.86" / 86cm(can stretch up to 91cm);90% polyester, 10% spandex;s;;22.83" / 58cm(can stretch up to 64cm);8.46oz / 240g
+252;female;;;black;;27.17-40.55" / 69-103cm;100% polyester;free size;;22.44-33.46" / 57-85cm;6.35oz / 180g
+253;;34.65" / 88cm(can stretch up to 112cm);;black;;35.43" / 90cm(can stretch up to 115cm);100%polyester;free size;long sleeve;27.56" / 70cm(can stretch up to 100cm);5.29oz / 150g
+254;;;;black;;;ice silk;free size;;;6.49oz / 184g
+255;;;;black;female;;satin & floral trimings;s size;;;220g / 7.76oz
+256;;;;dark blue;female;;satin & floral trimings;m size;;;240g / 8.47oz
+257;women;;37.80" / 96cm;white;;;cotton;l;;;8.11 oz / 230 g
+258;;;;gray;female;;velvet;free size;;;3oz / 85g
+259;women;;32.28" / 82cm;rose red;;;lace;s;;25.98" / 66cm;7.76oz / 220g
+260;;70.87" / 180cm;;khaki;;;cotton;free size;bat-wing sleeve;;4.87oz /138g
+261;;84-95cm;;pure pink;;;cotton blended 2. size: free size;;;68-85cm;
+262;woman;;36.22" / 92cm;white;;;cotton;l;;;15.87oz / 450g
+263;;;;purple;;;nylon;free size;sleeveless;;7.34oz / 208g
+264;;;;sapphire;;;nylon + spandex;free size;;;0.63 oz / 18 g
+265;female;;(33.07~34.65)" / (84~88)cm;as shown in pictures;;(33.07~34.65)" / (84~88)cm;16%polyester & 84%acrylic;xxl;;(29.13~30.71)" / (74~78)cm;6.35oz / 180g
+266;;;;black;;;net yarn & lace;us size s to m (suitable for height about 150-170cm);;;4.16oz / 118g
+267;female;;(23.62-27.55)" / (60-64)cm;as shown in pictures;;(28.34-29.92)" / (72-76)cm;polyester 16% + acrylic 84%;m;;(26.77-228.34)" / (68-72)cm;6.35oz / 180g
+268;female;;(27.55-28.34)" / (70-72)cm;as shown in pictures;;(31.49-33.07)" / (80-84)cm;polyester 16% + acrylic 84%;xl;;(29.92-31.49)" / (76-80)cm;6.35oz / 180g
+269;female;;(31.89-33.86)" / (81-86) cm;as shown in pictures;;(33.86-35.83)" / (86-91) cm;elastane & terylene;s;;(22.05-24.02)" / (56-61) cm;4.94oz / 140g
+270;;;;dark purple;;;net yarn & lace;us size(s ~ m);;;2.01oz / 57g
+271;;;;black;;;spandex;us size s to m (suitable for height about 150-170cm);;;1.94oz / 55g
+272;;;;rose red;;;spandex;us size s to m (suitable for height about 150-170cm);;;2.08oz / 59g
+273;female;;(39.76-41.73)" / (101-106) cm;as shown in pictures;;(41.73-43.7)" / (106-111) cm;elastane & terylene;2xl;;(29.92-31.89)" / (76-81) cm;4.94oz / 140g
+274;;;;red;;;net yarn & lace;us size s to m (suitable for height about 150-170cm);;;7.34oz / 208g
+275;;;;red;;;net yarn & lace;us size s to m (suitable for height about 150-170cm);;;5.64oz / 160g
+276;;;;wine red;female;;velvet;free size;;;1.8oz / 51g
+277;;;(27.55~36.22)" / (70~92)cm;brown leopard;;;meryl;m;sleeveless;;12.34oz / 350g
+278;;;;solid black + red lace;women;;80% polyamide / 20% spandex;m;;;5.11 oz / 145 g
+279;female;;36.61" / 93cm;nude;;;90.8% polyester + 9.2% spandex;l;;;8.82oz / 250g
+280;;36.61"/93 cm;;aqua blue;;;chiffon;l;sleeveless;; 9.24 oz/ 262 g
+281;;;;fluorescent orange;women;;80% polyamide / 20% spandex;l;;;5.29 oz / 150 g
+282;;;;black;female;;satin & floral trimings;m size;;;220g / 7.76oz
+283;female;34.65" / 88cm;;white;;;cotton+lace;l;;;7.37oz / 209g
+284;;40.55 " / 103cm;;orange;;;wool blend;free size;bat-wing sleeve;;13.09oz / 371g
+285;;;36.22" / 92cm (can stretch up to 7.40" / 95cm);white;women;;polyester & wool;;regular;;6.35oz / 180g
+286;;;;;;;60% cotton + 40% chemical fibre;xl;;;
+287;;;(33.07~40.94)" / (84~104)cm;as shown in pictures;;(34.64~41.73)" / (88~106)cm;brocade;xl;short sleeve;(26.77~33.07)" / (68~84)cm;7.41 oz / 210 g
+288;;;;white;;;;34c;;;
+289;;;;pink;;;65% polyester , 35% viscose;free size;;;0.6 oz / 17 g
+290;female;;(28.35-29.92)" / (72-76) cm;blue;;(28.35-29.92)" / (72-76) cm;material: polyester 36% & cotton 64%;m;;(24.41-25.98)" / (62-66)cm;6.35oz / 180g
+291;;34.64 " / 88 cm;;blue;;;chiffon;m;half sleeve;;11.78 oz / 334 g  
+292;female;40.16" / 102cm(can stretch up to 106cm);;khaki;;42.91" / 109cm(can stretch up to 112cm);lace;xl;;31.5" / 80cm(can stretch up to 81cm);4.58oz / 130g
+293;;;;orange-red;;;cotton;l;;;3.81oz / 108g
+294;;;;white;;; polyester + viscose;free size;;;0.25 oz / 7 g
+295;;;;zebra-stripe, green;women;;80% polyamide / 20% spandex;l;;;5.11 oz / 145 g
+296;;36.22" / 92cm;;black;;;cotton blended;m;short sleeve;;3.67oz / 104g
+297;;32.28" / 82cm(can stretch up to 116cm);;black;;33.07" / 84cm(can stretch up to 102cm);100% polyester;free size;long sleeve;26.77" / 68cm(can stretch up to 90cm);7.76oz / 220g
+298;;;;black;;;ice silk;free size;;;7.2oz / 204g 
+299;;35.43"/90 cm;;nude pink;;;chiffon & lace;l; half sleeve;; 10.58 oz/ 300 g
+300;;;;digital exotic print;women;;80% polyamide / 20% spandex;m;;;5.11 oz / 145 g
+301;;;;black;female;;98% poylyester 2% spandex;s;;;128g / 4.52oz
+302;;;;apricot;;;cotton;free size;;21.26 " / 54 cm;4.51 oz / 128 g
+303;female;;(31.89-35.83)" / (81-91)cm;red;;(34.25-38.19)" / (87-97)cm;polyester 16% & acrylic 84%;s / m;;(22.05-25.98)" / (56-66)cm;150g / 5.29oz
+304;;;;as picture shown (random color);;;chiffon;;;;0.71oz / 20g
+305;;;;pink & black;;;nylon & elastic fabric;us size(s ~ m);;;2.4oz / 68g
+306;female;31.89" / 81cm(can stretch up to 86cm);;blue;;33.86" / 86cm(can stretch up to 91cm);90% polyester, 10% spandex;s;;22.83" / 58cm(can stretch up to 64cm);8.46oz / 240g
+307;;;;white;female;;satin & floral trimings;m size;;;220g / 7.76oz
+308;;;;milk coffee;;30.71-45.67" / 78-116cm;cotton;free size;;;9.88oz / 280g
+309;woman;;;;;;polyester, lace;s;three quarter sleeve;;17.64oz / 500g
+310;;;;red, pink, purple, white, black, blue;;;95%polyester, 5%spandex;38c;;;12.24oz / 347g
+311;;;;red;women;;80% polyamide / 20% spandex;l;;;5.29 oz / 150 g
+312;;;;green;;;nylon;free size;sleeveless;;7.34oz / 208g
+313;;74cm;;black;;;;free;;;140 g/ 4.93 oz
+314;;;32.28" / 82cm;black;;;chiffon / georgette;s;sleeveless;24.41" / 62cm(can stretch up to 27.55" / 70cm);10.58oz / 300g
+315;female;23.62" / 60 cm;;white;;;cotton;free size;;;5.57 oz / 158g
+316;;;;fluorescent green;;;lace;l;sleeveless;;9.77 oz / 277 g
+317;;;;black;women;;80% polyamide / 20% spandex;m;;;5.11 oz / 145 g
+318;;35.43" / 90cm;;white;;;cotton;free size;short sleeve;;4.23oz / 120g
+319;;;;purple;;;spandex;us size s to m (suitable for height about 150-170cm);;;2.96oz / 84g
+320;female;;(28.34~29.92)" / (72~76)cm;as shown in pictures;;(28.34~29.92)" / (72~76)cm;16%polyester & 84%acrylic;m;;(24.41~25.98)" / (62~66)cm;6.35oz / 180g
+321;;;;black;;;net yarn & lace;one size fits us size s to m (suitable for height about 150-170, this item only have one size, but fabric is flexible);;;1.69oz / 48g
+322;;;;red;;;net yarn & lace;us size s to m (suitable for height about 150-170cm);;;1.34oz / 38g
+323;;30.71-35.04" / 78-89cm;;black;;33.46-37.01" / 85-94cm;milk fiber;m;sleeveless;;21.16oz / 600g
+324;;33.86-35.83"/86-91 cm;;pink;;35.83-38.19"/91-97cm;80% nylon, 20% spandex;m;;; 5.11 oz/ 145 g
+325;female;36.22-37.4" / 92-95cm;;wine-red;;;cotton;l;long sleeve;;11.75oz / 333g
+326;;;;coffee;female;;velvet;free size;;;3.1oz / 88g
+327;female;;;as pictures shown;;;67.6% polyester + 32.4% wool;l;;;17.64oz / 500g
+328;;;;fluorescent green;women;;80% polyamide / 20% spandex;s;;;4.94 oz / 140 g
+329;;;;black;female;;silk;free size (look at the size guide chart below);;;200g / 7.05oz
+330;;;31.5" / 80cm;white and black;;;hemp;s;;27.56" /70cm;11.29oz / 320g
+331;;;;flower 2;;;cotton velvet;free size;;;320 g / 11.29 oz
+332;;34.65" / 88cm;;black;;;chiffon;free size;;;4.87oz / 138g
+333;female;;72-100cm;rose red;;;nylon;free size;;76-100cm;4.23oz / 120g
+334;;;;;;;chiffon;m;sleeveless;;7.41oz / 210g
+335;female;40.94" / 104cm;;white;;;cotton;m;;;12.84oz / 364g
+336;;;;light purple;female;;silk;free size;;;120g / 4.23oz
+337;;37.8"/96 cm;;ivory;;;flax;l;sleeveless;; 13.38 oz/ 332 g  
+338;female;;(31.89-35.83)" / (81-91)cm;yellow & pink;;(34.25-38.19)" / (87-97)cm;polyester 16% & acrylic 84%;s / m;;(22.05-25.98)" / (56-66)cm;155g / 5.47oz
+339;female;36.22" / 92cm;;yellow;;;chiffon;m;;;5.22oz / 148g
+340;female;31.89" / 81cm(can stretch up to 86cm);;black;;33.86" / 86cm(can stretch up to 91cm);90% polyester, 10% spandex;s;;22.83" / 58cm(can stretch up to 64cm);8.46oz / 240g
+341;;;;solid black + red lace;women;;80% polyamide / 20% spandex;s;;;4.94 oz / 140 g
+342;;;;fluorescent yellow and colorful doodle print;women;;80% polyamide / 20% spandex;m;;;5.11 oz / 145 g
+343;;46.46" / 118cm;;wine red;;;chiffon;free size;;;
+344;;;;digital floral print;women;;80% polyamide / 20% spandex;s;;;4.94 oz / 140 g
+345;;;33.85" / 86cm;black;;;the milan hemp;s;sleeveless;25.98" / 66cm;10.58oz / 300g
+346;;;;red;female;;satin & floral trimings;s size;;;160g / 5.64oz
+347;;33.07" / 84cm(can stretch up to 96cm);;white, black;;33.86" / 86cm(can stretch up to 98cm);100% polyester;free size;sleeveless;25.2" / 64cm(can stretch up to 86cm);4.23oz / 120g
+348;;;36.22" / 92cm;white;;;space cotton;s;cropped sleeve;;12.35oz / 350g
+349;;33.07" / 84cm(can stretch up to 100cm);;black;;35.43" / 90cm(can stretch up to 110cm);tapestry;free size;long sleeve;25.98" / 66cm(can stretch up to 82cm);7.05oz / 200g
+350;;;;black;female;;satin & floral trimings;xl size;;;220g / 7.76oz
+351;;34.65-37.4 " / 88-95 cm;;white & blue;;;acrylic;l;short sleeve;;14.11 oz / 400 g
+352;female;;(31.88-33.85)" / (81-86)cm;as shown in pictures;;(33.85-35.82)" / (86-91)cm;material: polyester 36% & cotton 64%;s;;(22.05-24.02)" / (56-61)cm;4.94oz / 140g
+353;;;;black;;;lace;one size fits us size s to m (suitable for height about 150-170, this item only have one size, but fabric is flexible);;;0.63oz / 18g
+354;;;;black;;;net yarn & spandex;us size s to m;;;5.29oz / 150g
+355;;36.22" / 92cm;;grey;;;cotton blended;m;short sleeve;;3.67oz / 104g
+356;;;33.46" / 85cm;gray & black;;;pima cotton;s;sleeveless;29.92" / 76cm;7.76 oz / 220 g
+357;female;32.68-33.86" / 83-86cm;;purple;;;cotton;m;long sleeve;;10.58oz / 300g
+358;;;;black;;;cotton blended;free size;sleeveless;;7.62oz / 216g 
+359;female;;(35.83-39.76)" / (91-101)cm;black & multicolor;;(38.19-42.13)" / (97-107)cm;polyester 16% & acrylic 84%;l / xl;;(25.98-29.92)" / (66-76)cm;140g / 4.94oz
+360;;27.5-29";;blue; female;28.5-30"; 82% nylon 18% spandex;m;;; 4.83 oz / 137 g
+361;;;;red;;;( upper and dance skirt)chiffon (skirts pants)velvet material;;;;609g / 21.48oz
+362;;35.43"/90 cm;;orange and pink;;;flax;m;;;7.87 oz/ 223 g  
+363;;;;athletic orange;;;100% cotton;m;short sleeve;;
+364;female;;32.28-45.67" / 82-116cm;lace apricot;;;woollen,acrylic;free size;;;15.91oz / 451g
+365;;;;dark gray;;;cotton;free size;;; 5.36oz / 152g
+366;;;30.71" / 78cm;white;;;bud silk tassels;free size;;33.07" / 84cm;10.58oz / 300g
+367;female;32.28" / 82cm;;black and white;;;cotton, chiffon;s;long sleeve;;5.22oz / 148g
+368;female;;(23.62-27.55)" / (60-64)cm;as shown in pictures;;(28.34-29.92)" / (72-76)cm;polyester 16% + acrylic 84%;m;;(26.77-228.34)" / (68-72)cm;6.35oz / 180g
+369;female;31.89" / 81cm(can stretch up to 86cm);;blue;;33.86" / 86cm(can stretch up to 91cm);90% polyester, 10% spandex;s;;22.83" / 58cm(can stretch up to 64cm);8.46oz / 240g
+370;;;;black;;35.43 " / 90cm;cotton;free size;;;
+371;;;;yellow;female;;velvet;free size;;;
+372;;;;white;;;net yarn & spandex;us size s to m;;;0.71oz / 20g
+373;female;;33.07" / 84cm;orange;;;lace;s;;;220oz / 7.76g
+374;female;36.22-37.4" / 92-95cm;;black;;;cotton;l;long sleeve;;11.18oz / 317g
+375;;;;white and red floral pattern;women;;88% polyamide / 12% spandex;s;;;4.94 oz / 140 g
+376;;;;black;female;;silk;free size (look at the size guide chart below);;;9.17oz / 260g
+377;female;13.39-14.17" / 34-36cm;;light blue;;;polyamide, nylon, lace;free size;;13.78-17.72" / 35-45cm;4.23oz / 120g
+378;;;;purple/black;female;;90% polyester/10% spandex;34b;;;4.23 oz / 120 g
+379;;;;blue;female;;velvet;free size;;;
+380;;30.71-35.04"/78-89cm;;purple;;33.46-37.01"/85-94cm;milk fiber;m;sleeveless;;21.16 oz/ 600 g
+381;;70cm / 27.56";;royalblue;;;cotton;free size;long sleeve;;
+382;;;;white;female;;spandex + yarn;free size (look at the size guide chart below);;;180g / 6.35oz
+383;;;;fluorescent orange;women;;80% polyamide / 20% spandex;s;;;4.94 oz / 140 g
+384;;31.5" / 80cm;;big red;;;lace;free size;;;2.96oz / 84g
+385;female;42.52" / 108cm(can stretch up to 112cm);;black;;44.88" / 114cm(can stretch up to 117cm);lace;xxl;;33.07" / 84cm(can stretch up to 85cm);4.58oz / 130g
+386;;;;black;;;chiffon;;;;
+387;;;;blue;female;;cotton,lace;;;;7.02 oz / 199 g
+388;;;;purple;;;80% nylon , 20% spandex;free size;;;1.59 oz / 45 g 
+389;;;;as picture shows;;;65%cotton, 35%polyester;s;;;5.78oz / 164g
+390;female;;(23.62-27.55)" / (60-64)cm;as shown in pictures;;(28.34-29.92)" / (72-76)cm;polyester 16% + acrylic 84%;m;;(26.77-228.34)" / (68-72)cm;6.35oz / 180g
+391;;;;blue;female;;sequins;free size (look at the size guide chart below);;;160g / 5.64oz
+392;;;;maroon;;;net yarn & lace;us size(s ~ m);;;6.98z / 198g
+393;;;;red;female;;silk;free size (look at the size guide chart below);;;160g / 5.64oz
+394;;;;fluorescent yellow and colorful doodle print;women;;80% polyamide / 20% spandex;s;;;4.94 oz / 140 g
+395;;36.22"/92 cm;;black;;;lace;l; short sleeve;; 7.48 oz/ 212 g
+396;female;;33.85" / 86cm;white;;;pearl chiffon;s;;;10.58oz / 300g
+397;;;;fluorescent yellow and colorful doodle print;women;;80% polyamide / 20% spandex;l;;;5.29 oz / 150 g
+398;;;;black;female;;silk;free size (look at the size guide chart below);;;100g / 3.53oz
+399;female;32.68-33.86" / 83-86cm;;black;;;cotton;m;long sleeve;;11.35oz / 322g
+400;;;;black;female;;cotton;;;;8.11 oz / 230 g
+401;;(31.89 - 33.86)" / (81 - 86)cm;;as shown in pictures;female;(33.86 - 35.83)" / (86 - 91)cm;elastane / terylene;s;;(22.05 - 24.02)" / (56 - 61)cm;4.94oz / 140g
+402;;;;colored jungle pattern;women;;88% polyamide / 12% spandex;s;;;4.94 oz / 140 g
+403;female;34.65" / 88cm;;yellow;;;chiffon;s;;;4.8oz / 136g
+404;;30.71-35.04" / 78-89cm;;golden;;33.46-37.01" / 85-94cm;milk fiber;m;sleeveless;;21.16oz/ 600g
+405;;;;yellow;children;;cotton;;;;10.55 oz / 299 g
+406;;;;white+black stripe;;;chiffon+ pure cotton;free size;sleeveless;; 8.25 oz / 234 g
+407;;;;black;;;cotton;free size;sleeveless7. bust: 47.24 " / 120 cm;; 7.58 oz / 215 g 
+408;female;53.15" / 135cm;;khaki;;;cotton;free size;;;6.07oz / 172g
+409;female;;(25.19 - 27.55)" / (64 - 70)cm;as shown in pictures;;(29.92 - 31.49)" / (76 - 80)cm;polyester 16%, acrylic 84%;l;;(28.34 - 29.92)" / (72 - 76)cm;5.29oz / 150g
+410;;38.98-40.16"/99-102 cm;;blue;;38.98-40.94"/99-104cm;polyester;l;;; 4.55 oz/ 129 g
+411;;;;red;female;;silk;free size (look at the size guide chart below);;;5.64oz / 160g
+412;;;;black;;;polyester 90%, spandex 10%;m;sleeveless;; 14.1 oz/ 400 g
+413;;;;pink;;;cotton stretch pants;free size;;23.62" / 60cm;49g /1.73oz
+414;;;;red;;;chiffon;;;;
+415;;39.37" / 100cm;;black;;;cotton;free size;;;5.78oz / 164g
+416;;;;black;;; 80%nylon ,20%spandex;free size;;;0.46 oz / 13 g
+417;;34.65 " / 88 cm;;white & blue;;;chiffon;m;sleeveless;;8.82 oz / 250 g
+418;;;(25.20 - 37.01)" / (64 - 94)cm(back elastic);khaki;;;milk silk;m;sleeveless;;11.29 oz / 320 g
+419;;;;pink;;;mesh;free size;;23.62 " / 60 cm;4.8oz / 136 g
+420;female;31.89" / 81cm(can stretch up to 86cm);;green;;33.86" / 86cm(can stretch up to 91cm);90% polyester, 10% spandex;s;;22.83" / 58cm(can stretch up to 64cm);8.46oz / 240g
+421;;33.86" / 86cm(can stretch up to 100cm);;leopard grain;;35.43" / 90cm(can stretch up to 110cm);tapestry;free size;sleeveless;25.2" / 64cm(can stretch up to 82cm);4.94oz / 140g
+422;;;;black;female;;silk;free size (look at the size guide chart below);;;4.23oz / 120g
+423;;;;blue;female;;stretch leather;free size (look at the size guide chart below);;;180g / 6.35oz
+424;;;;red;female;;spandex;free size;;; 9.67 oz / 274 g
+425;;;;deep forest;;;100% cotton pique;l;short sleeve;;
+426;women;;32.67" / 83cm;pink;;;hemp;s;;33.46" / 85cm;9.88oz / 280g
+427;;30.71-35.04" / 78-89cm;;black;;33.46-37.01" / 85-94cm;milk fiber;m;;;21.16oz / 600g
+428;female;;33.07-34.65" / 84-88cm;as pictures shown;;;large body fabric: 55.1% polyester 44.9% nylon,white fluff fabric: 100% acrylic;m;;;49.38oz / 1400g
+429;;;;;;;;l;;;66.91g / 2.36oz
+430;;;;dark green;;;chiffon;free size;;23.62 " / 60 cm;5.64 oz / 160 g
+431;;75 cm/ 29.53";;black;;;cotton;free size;long sleeve;;220 g / 7.76 oz
+432;female;31.89" / 81cm(can stretch up to 86cm);;purple;;33.86" / 86cm(can stretch up to 91cm);90% polyester, 10% spandex;s;;22.83" / 58cm(can stretch up to 64cm);8.46oz / 240g
+433;;;;jean blue;;  29.13" / 74cm;95% polyester, 5% spandex;free size;;  23.62" / 60cm;4.94 oz / 140 g 
+434;;;;chocolate;female;;silk + stamping;free size (look at the size guide chart below);;;220g / 7.76oz
+435;;;32.28 " / 82 cm;green;;;chiffon / georgette;s;;24.41 " / 62 cm;10.58 oz / 300 g
+436;;;;digital floral print;women;;80% polyamide / 20% spandex;m;;;5.11 oz / 145 g
+437;;;;green;;;cotton;xl;;;
+438;;;;black;female;;silk;free size (look at the size guide chart below);;;260g / 9.17oz
+439;;70cm / 27.56";;white;;;cotton;free size;long sleeve;;
+440;;;;green;female;36.22" / 92cm;60.9% viscose 39.1% polyester fiber;m;;28.35" / 72cm;10.22oz / 290g
+441;;;;dark blue;female;;satin & floral trimings;xl size;;;240g / 8.47oz
+442;;38.59" / 98cm;;black;;;lycra cotton;free size;;;4.87oz / 138g
+443;;;;black;;;net yarn & lace;one size fits us size s to m (suitable for height about 150-170, this item only have one size, but fabric is flexible);;;1.73oz / 49g
+444;;;;purple+black;;; polyester ,viscose;free size;;;0.18 oz / 5 g
+445;;;31.5" / 80cm;navy blue;;;the printed velvet;s;sleeveless;25.2" / 64cm(can stretch up to 74cm);8.82oz / 250g
+446;;;32.28" / 82cm;red;;;cotton;s;;27.56" / 70cm;12.35oz / 350g
+447;;34.64"/88 cm;;pink;;;lace;l;half sleeve;; 10.55 oz/ 299 g  
+448;;;;black;;;cotton blended;m;;26.77 " / 68 cm;9.88 oz / 280 g
+449;female;33.86" / 86cm(can stretch up to 94cm);;white;;35.83" / 91cm(can stretch up to 99cm);100% polyester;m;long sleeve;25.2" / 64cm(can stretch up to 71cm);19.75oz / 560g
+450;female;35.43" / 90cm(can stretch up to 93cm);;black;;38.19" / 97cm(can stretch up to 99cm);cotton blended;free size;;27.56" / 70cm(can stretch up to 73cm);4.58oz / 130g
+451;;;;black;;;net yarn & lace;us size(s ~ m);;;2.75oz / 78g
+452;;;;bean green;;;chiffon;free size;;;231g / 8.15oz
+453;;;;navy blue;;;velvet;free size;;; 2.82oz / 80g
+454;;;(31.49~39.37)" / (80~100)cm;pink orange;;;the milk silk;m;short;;7.05oz / 250g
+455;;29.92" / 76cm(can stretch up to 102cm);;red;;33.86" / 86cm(can stretch up to 120cm);90%polyester, 10%spandex, lace;free size;long sleeve;27.56" / 70cm(can stretch up to 96cm);8.11oz / 230g
+456;;;;lake purple;;;chiffon;;;;387g/13.63inch
+457;;;;retro blue;;;cotton blend;free;;;4.94oz / 140g
+458;;;;;;35.43" / 90cm;cotton;free size;;25.98" / 66cm;8.54oz / 242g
+459;;;;black;;;net yarn & lace;us size(s ~ m);;;1.52oz / 43g
+460;;;;digital floral print;women;;80% polyamide / 20% spandex;l;;;5.29 oz / 150 g
+461;;;;red;female;;satin & floral trimings;xl size;;;280g / 9.88oz
+462;female;;(31.88-33.85)" / (81-86)cm;as shown in pictures;;(33.85-35.82)" / (86-91)cm;material: polyester 36% & cotton 64%;s;;(22.05-24.02)" / (56-61)cm;4.94oz / 140g
+463;;;(32.28~38.58)" / (82~98)cm;black;;(33.07~40.94)" / (84~104)cm;brocade;m;sleeveless;(25.19~31.49)" / (64~80)cm;4.23 oz / 120 g
+464;;;;black;female;;satin & floral trimings;xl size;;;220g / 7.76oz
+465;;;;black  ;female;;satin;one size;;;140g/4.95oz
+466;female;;34.65" / 88cm;green;;;polyester;free size;;27.56" / 70cm;7.05oz / 200g
+467;;;;neon green;women;;80% polyamide / 20% spandex;l;;;5.29 oz / 150 g
+468;;;;yellow;female;;sequins + silk;free size (look at the size guide chart below);;;180g / 6.35oz
+469;;;;black;female;;spandex;free size;;;10.86 oz / 308 g
+470;;;;colored jungle pattern;women;;88% polyamide / 12% spandex;l;;;5.29 oz / 150 g
+471;female;;;;;(27.16~40.55)" / (69~103)cm;polyester;free size;;(22.44~33.46)" / (57~85)cm;4.59 oz / 130 g
+472;female;;;black;;;60%cotton fiber, 40%spandex;free size;;;3.1oz / 88g
+473;woman;;33.07" / 84cm;white;;;cotton;s;;;12.34oz / 350g
+474;;;;navy blue;;;cotton;l;;;4.3oz / 122g
+475;;;;black;;;cotton;free size;;;6oz / 170g
+476;;;;khaki;;;cotton blended;l;;28.35 " / 72 cm;9.88 oz / 280 g
+477;;;;green;;;chiffon;m;sleeveless;; 8.82 oz / 250 g  
+478;female;35.43" / 90cm(can stretch up to 93cm);;red;;38.19" / 97cm(can stretch up to 99cm);nylon;m;;27.56" / 70cm(can stretch up to 73cm);4.58oz / 130g
+479;female;;(31.89-35.83)" / (81-91)cm;as shown in the pictures;;(34.25-38.19)" / (87-97)cm;polyester 16% & acrylic 84%;s / m;;(22.05-25.98)" / (56-66)cm;150g / 5.29oz
+480;;;;cyan-blue;;;ice silk;free size;;;6.98oz / 198g
+481;female;;(29.92~31.50)" / (76~80)cm;as shown in pictures;;(29.92~31.50)" / (76~80)cm;16%polyester & 84%acrylic;l;;(25.98~27.56)" / (66~70)cm;6.35oz / 180g
+482;female;35.43" / 90cm(can stretch up to 93cm);;red;;38.19" / 97cm(can stretch up to 99cm);gauze;free size;;27.56" / 70cm(can stretch up to 73cm);4.58oz / 130g
+483;;31.89" / 81cm;;blue;;33.86" / 86cm;upscale lace, chiffon;s;;;28.21oz / 800g
+484;female;;72-100cm;red;;;nylon;free size;;76-100cm;4.23oz / 120g
+485;;;;pink & black;;;net yarn & lace;us size(s ~ m);;;3.53oz / 100g
+486;;;;orange;;;82% nylon, 18% spandex;m;;2.41" / 62 cm;
+487;;;;black;;;chiffon;l;sleeveless;; 11.04 oz / 313 g
+488;female;36.22-37.4" / 92-95cm;;purple;;;cotton;l;long sleeve;;11.25oz / 319g
+489;;;;red white dot 9 weight: 4.23oz / 120g;;29.13-37.79" / 74-96cm;cotton blended;free size;;;
+490;;;32.28" / 82cm;rose red;;;chiffon & georgette;s;short sleeve;25.98" / 66cm;14.11oz / 400g
+491;female;13.39-14.17" / 34-36cm;;black;;;polyamide, nylon, lace;free size;;13.78-17.72" / 35-45cm;4.58oz / 130g
+492;;;;white;;;net yarn & lace;us size s to m (suitable for height about 150-170cm);;;4.16oz / 118g
+493;;25.59inch-33.46inch(65cm-85cm);;black;women’s;;;;;27.56inch-35.43inch(70cm-90cm);400 g /14.1 oz
+494;;;(31.49 ~ 39.37)" / (80 ~ 100)cm;black;;;milk silk;free size;sleeveless;;10.58oz / 300g
+495;female;;(31.89-33.86)" / (81-86)cm;as shown in pictures;;(33.86-35.83)" / (86-91)cm;elastane / terylene;s;;(22.05-24.02)" / (56-61)cm;4.94oz / 140g
+496;;;;white;;;net yarn & spandex;us size s to m;;;5.29oz / 150g
+497;woman;;34.65" / 88cm;white;;;cotton;s;;;8.82oz / 250g
+498;;;;maroon;;;100% cotton;m;short sleeve;;
+499;female;;(31.89-36.22)" / (81-92)cm;as shown in the pictures;;(34.25-38.19)" / (87-97)cm;polyester 16% & acrylic 84%;s / m;;(22.05-25.98)" / (56-66)cm;150g / 5.29oz
+500;;;;white;female;;cotton;free size (look at the size guide chart below);;;140g / 4.94oz
+501;;;;black;;;net yarn & lace;us size s to m (suitable for height about 150-170cm);;;1.94oz / 55g
+502;female;;;black;;;lace, satin;free size;;;4.76oz / 135g
+503;;;;green white dot; female;; 82% nylon 18% spandex;m;;; 4.87 oz / 138 g
+504;female;;(33.86-35.83)" / (86-91)cm;as shown in pictures;;(35.83-37.80)" / (91-96)cm;elastane / terylene;m;;(24.02-25.98)" / (61-66)cm;4.94oz / 140g
+505;;33.86" / 86cm(can stretch up to 94cm);;purple;;35.83" / 91cm(can stretch up to 99cm);100% polyester;m;long sleeve;25.2" / 64cm(can stretch up to 71cm);13.16oz / 373g
+506;;;;black;;;net yarn & lace;us size s to m (suitable for height about 150-170cm);;;1.34oz / 38g
+507;;;;red;;;lace;us size(s ~ m);;;3.6oz / 102g
+508;;;;white;;;net yarn & lace;us size(s ~ m);;;3.56oz / 98g
+509;female;35.43" / 90cm(can stretch up to 93cm);;white;;38.19" / 97cm(can stretch up to 99cm);lace;m;;27.56" / 70cm(can stretch up to 73cm);4.58oz / 130g
+510;;;;rose red;;;65% polyester , 35% viscose;free size;;;0.46 oz / 13 g
+511;;;32.28" / 82cm;blue and white;;;model;s;;;9.17oz / 260g
+512;;35.04" / 89 cm;;black;;;cotton;m;shore sleeve;;8.82 oz / 250 g
+513;;34.65" / 88cm;;blue;;;chiffon;free size;;;4.87oz / 138g
+514;female;;34.64 " / 88 cm;gray;;;pure cotton;s;;33.07 " / 84 cm;5.29 oz / 150 g
+515;;;;black & white & silver;;;net yarn & lace;us size s to m (suitable for height about 150-170cm);;;3.10oz / 88g
+516;female;35.43" / 90cm(can stretch up to 93cm);;black;;38.19" / 97cm(can stretch up to 99cm);lace;m;;27.56" / 70cm(can stretch up to 73cm);4.58oz / 130g
+517;;;;black;;;net yarn & lace;us size(s ~ m);;;2.08oz / 59g
+518;;;;green, black;;;polyester, foam;l;;;17.99 oz / 510 g
+519;;;;red;;;chiffon;;;;2.47oz / 70g
+520;;;;orange, black;;;polyester, foam;xxl;;;22.93 oz / 650 g
+521;;;;pink;;;  65% cotton , 35% polyester;free size;;;0.63 oz / 18 g
+522;;;;black;;;net yarn & lace;one size fits us size s to m (suitable for height about 150-170, this item only have one size, but fabric is flexible);;;3.84oz / 109g
+523;female;;(28.35-29.92)" / (72-76) cm;as shown in picture;;(28.35-29.92)" / (72-76) cm;material: polyester 36% & cotton 64%;m;;(24.41-25.98)" / (62-66)cm;6.35oz / 180g
+524;;;;white;female;;satin & floral trimings;l size;;;220g / 7.76oz
+525;;;;red;;;90% modal  , 10% spandex;free size;;;0.71 oz / 20 g
+526;;;;black;female;;acrylic and spandex;free size (look at the size guide chart below);;;3.53oz / 100g
+527;;;;black;;;cotton;l;;;4.06oz / 115g
+528;;;34.64" / 88cm;white;;;chiffon;s;sleeveless;;7.76oz /220g
+529;;;;black;female;;85% nylon 15%spandex; one size(fits 2-12);;;99.79g / 3.52oz
+530;female;;(33.07~34.65)" / (84~88)cm;as shown in pictures;;(33.07~34.65)" / (84~88)cm;16%polyester & 84%acrylic;xxl;;(29.13~30.71)" / (74~78)cm;6.35oz / 180g
+531;;;;black;female;;silk + sequins;free size (look at the size guide chart below);;;140g / 4.94oz
+532;women;;36.22" / 92cm;white;;;pure cotton;s;;32.28" / 82cm;8.82oz / 250g
+533;;;;sky-blue;;;cotton;l;;;4.2oz / 119g
+534;;;;rose;;;( upper and dance skirt)chiffon (skirts pants)velvet material;;;;628g / 22.15oz
+535;;;;dark green;;;bamboo charcoal fiber and cotton velvet;free size;;;
+536;;;(27.56 - 37.40)" / (70 - 95)cm;blue;;;milk silk;free size;sleeveless;;17.64 oz / 500 g
+537;;;40.94 " / 104 cm;green & gray;;;cotton;l;;;8.11 oz / 230 g
+538;;36.22" / 92cm;;blue green;;;cotton blended;m;short sleeve;;3.67oz / 104g

@@ -1,0 +1,12 @@
+KeyCol;colors;couleur;depth;forme;hauteur;height;largeur;materials;matière;pièce;poids;profondeur;room;shape;style;weight;width
+1;;multicolore;;rectangle;39 cm;;34.5 cm;;peau de vache;chambre, salon, bureau;1.17 kg;1.5 cm;;;vintage, campagne;;
+2;;brun, beige;;rectangle;32 cm;;26.5 cm;;peau de vache;hall d'entrée, salon;720 g;1.5 cm;;;vintage;;
+3;red;;3.4 cm;;;31.5 cm;;résine;;;;;hall d'entrée, dining room, living room;rectangle;seaside;950 g;26.5 cm
+4;;rouge;;rectangle;31.5 cm;;26.5 cm;;résine;salon, hall d'entrée, salle à manger;950 g;3.4 cm;;;bord de mer;;
+5;black, green;;;;;10 cm;;metal;;;;;bedroom, living room;round;romantic;100 g;9.5 cm
+6;multicoloured;;1.5 cm;;;39 cm;;cow skin;;;;;bedroom, living room, office;rectangle;country, vintage;1.17 kg;34.5 cm
+7;brown, beige;;1.5 cm;;;32 cm;;cow skin;;;;;hall d'entrée, living room;rectangle;vintage;720 g;26.5 cm
+8;;transparent;;;9 cm;;;;verre, métal;salle à manger, salon;200 g;;;;romantique;;
+9;;multicolore;;rectangle;33 cm;;43 cm;;bois, verre;salon, salle à manger, bureau, hall d'entrée;1 kg;;;;campagne;;
+10;multicoloured;;;;;33 cm;;wood, glass;;;;;living room, dining room, office, hall d'entrée;rectangle;country;1 kg;43 cm
+11;see-through;;;;;9 cm;;glass, metal;;;;;dining room, living room;;romantic;200 g;

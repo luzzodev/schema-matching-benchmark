@@ -1,0 +1,11 @@
+KeyCol;brand;color;item size;item weight;manufacturer;model;package size;package weight;units in package;upc
+1;;;0.83 x 0.45 x 0.45 inches;0.05 pounds;;;2.9 x 2.9 x 2.9 inches;0.2 pounds;1;
+2;fitbit;tangerine;0.83 x 0.45 x 0.45 inches;0.05 pounds;fitbit inc;fb405tal;3.1 x 2.8 x 2.8 inches;0.4 pounds;1;810351021766
+3;fitbit;tangerine;0.83 x 0.45 x 0.45 inches;0.05 pounds;fitbit inc;fb405tas;2.8 x 2.8 x 2.8 inches;0.1 pounds;1;810351021773
+4;;;0.83 x 0.45 x 0.45 inches;0.05 pounds;;;2.8 x 2.8 x 2.8 inches;0.4 pounds;1;
+5;;;0.83 x 0.45 x 0.45 inches;0.05 pounds;;;3.1 x 2.8 x 2.8 inches;0.3 pounds;1;
+6;;;0.83 x 0.45 x 0.45 inches;0.05 pounds;;;3.1 x 2.7 x 2.7 inches;0.3 pounds;1;
+7;fitbit;plum;0.83 x 0.45 x 0.45 inches;0.05 pounds;fitbit inc;fb405pml;3 x 2.8 x 2.8 inches;0.35 pounds;1;810351022824
+8;fitbit;black;0.83 x 0.45 x 0.45 inches;0.05 pounds;fitbit inc;fb405bkl;3.15 x 2.83 x 2.83 inches;0.31 pounds;1;881314134953
+9;fitbit;plum;0.83 x 0.45 x 0.45 inches;0.05 pounds;fitbit inc;fb405pms;2.9 x 2.9 x 2.9 inches;0.25 pounds;1;810351021711
+10;;;0.83 x 0.45 x 0.45 inches;0.05 pounds;;;2.9 x 2.8 x 2.8 inches;0.4 pounds;1;

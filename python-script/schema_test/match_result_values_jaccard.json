@@ -1,0 +1,992 @@
+{
+    "Automotive": {
+        "2fwww.leasetrader.com.json.csv;a30651.cmorecars.com.json.csv": [
+            {
+                "2fwww.leasetrader.com.json.csv": [
+                    "fuel type:",
+                    "57"
+                ],
+                "a30651.cmorecars.com.json.csv": [
+                    "fuel",
+                    "2"
+                ]
+            }
+        ],
+        "2fwww.leasetrader.com.json.csv;adachevy.com.json.csv": [
+            {
+                "2fwww.leasetrader.com.json.csv": [
+                    "number of 1st row headrests",
+                    "69"
+                ],
+                "adachevy.com.json.csv": [
+                    "doors:",
+                    "1"
+                ]
+            },
+            {
+                "2fwww.leasetrader.com.json.csv": [
+                    "number of 2nd row headrests",
+                    "70"
+                ],
+                "adachevy.com.json.csv": [
+                    "doors:",
+                    "1"
+                ]
+            },
+            {
+                "2fwww.leasetrader.com.json.csv": [
+                    "number of memorized driver seat settings",
+                    "72"
+                ],
+                "adachevy.com.json.csv": [
+                    "doors:",
+                    "1"
+                ]
+            },
+            {
+                "2fwww.leasetrader.com.json.csv": [
+                    "subwoofer",
+                    "100"
+                ],
+                "adachevy.com.json.csv": [
+                    "doors:",
+                    "1"
+                ]
+            }
+        ],
+        "2fwww.leasetrader.com.json.csv;huntersvilleford.com.json.csv": [
+            {
+                "2fwww.leasetrader.com.json.csv": [
+                    "number of 1st row headrests",
+                    "69"
+                ],
+                "huntersvilleford.com.json.csv": [
+                    "doors:",
+                    "1"
+                ]
+            },
+            {
+                "2fwww.leasetrader.com.json.csv": [
+                    "number of memorized driver seat settings",
+                    "72"
+                ],
+                "huntersvilleford.com.json.csv": [
+                    "doors:",
+                    "1"
+                ]
+            },
+            {
+                "2fwww.leasetrader.com.json.csv": [
+                    "one touch windows",
+                    "73"
+                ],
+                "huntersvilleford.com.json.csv": [
+                    "doors:",
+                    "1"
+                ]
+            }
+        ],
+        "2fwww.leasetrader.com.json.csv;supercarsautosales.com.json.csv": [
+            {
+                "2fwww.leasetrader.com.json.csv": [
+                    "fuel type:",
+                    "57"
+                ],
+                "supercarsautosales.com.json.csv": [
+                    "fuel",
+                    "2"
+                ]
+            },
+            {
+                "2fwww.leasetrader.com.json.csv": [
+                    "transmission:",
+                    "105"
+                ],
+                "supercarsautosales.com.json.csv": [
+                    "transmission",
+                    "6"
+                ]
+            }
+        ],
+        "2fwww.leasetrader.com.json.csv;www.carcraft.co.uk.json.csv": [
+            {
+                "2fwww.leasetrader.com.json.csv": [
+                    "drivetrain:",
+                    "34"
+                ],
+                "www.carcraft.co.uk.json.csv": [
+                    "drivetrain",
+                    "5"
+                ]
+            },
+            {
+                "2fwww.leasetrader.com.json.csv": [
+                    "number of memorized driver seat settings",
+                    "72"
+                ],
+                "www.carcraft.co.uk.json.csv": [
+                    "no. doors",
+                    "11"
+                ]
+            },
+            {
+                "2fwww.leasetrader.com.json.csv": [
+                    "subwoofer",
+                    "100"
+                ],
+                "www.carcraft.co.uk.json.csv": [
+                    "no. doors",
+                    "11"
+                ]
+            },
+            {
+                "2fwww.leasetrader.com.json.csv": [
+                    "transmission:",
+                    "105"
+                ],
+                "www.carcraft.co.uk.json.csv": [
+                    "transmission",
+                    "15"
+                ]
+            }
+        ],
+        "a30651.cmorecars.com.json.csv;cervantesauto.com.json.csv": [
+            {
+                "a30651.cmorecars.com.json.csv": [
+                    "transmission",
+                    "6"
+                ],
+                "cervantesauto.com.json.csv": [
+                    "transmission",
+                    "4"
+                ]
+            }
+        ],
+        "a30651.cmorecars.com.json.csv;hevenerscars.com.json.csv": [
+            {
+                "a30651.cmorecars.com.json.csv": [
+                    "transmission",
+                    "6"
+                ],
+                "hevenerscars.com.json.csv": [
+                    "transmission",
+                    "6"
+                ]
+            }
+        ],
+        "a30651.cmorecars.com.json.csv;irbyautosales.com.json.csv": [
+            {
+                "a30651.cmorecars.com.json.csv": [
+                    "exterior color",
+                    "1"
+                ],
+                "irbyautosales.com.json.csv": [
+                    "exterior color",
+                    "1"
+                ]
+            },
+            {
+                "a30651.cmorecars.com.json.csv": [
+                    "exterior color",
+                    "1"
+                ],
+                "irbyautosales.com.json.csv": [
+                    "interior color",
+                    "3"
+                ]
+            },
+            {
+                "a30651.cmorecars.com.json.csv": [
+                    "fuel",
+                    "2"
+                ],
+                "irbyautosales.com.json.csv": [
+                    "fuel",
+                    "2"
+                ]
+            },
+            {
+                "a30651.cmorecars.com.json.csv": [
+                    "interior color",
+                    "3"
+                ],
+                "irbyautosales.com.json.csv": [
+                    "interior color",
+                    "3"
+                ]
+            },
+            {
+                "a30651.cmorecars.com.json.csv": [
+                    "transmission",
+                    "6"
+                ],
+                "irbyautosales.com.json.csv": [
+                    "transmission",
+                    "6"
+                ]
+            }
+        ],
+        "a30651.cmorecars.com.json.csv;supercarsautosales.com.json.csv": [
+            {
+                "a30651.cmorecars.com.json.csv": [
+                    "fuel",
+                    "2"
+                ],
+                "supercarsautosales.com.json.csv": [
+                    "fuel",
+                    "2"
+                ]
+            },
+            {
+                "a30651.cmorecars.com.json.csv": [
+                    "transmission",
+                    "6"
+                ],
+                "supercarsautosales.com.json.csv": [
+                    "transmission",
+                    "6"
+                ]
+            }
+        ],
+        "a30651.cmorecars.com.json.csv;www.augustaautoandtrucksales.com.json.csv": [
+            {
+                "a30651.cmorecars.com.json.csv": [
+                    "transmission",
+                    "6"
+                ],
+                "www.augustaautoandtrucksales.com.json.csv": [
+                    "transmission",
+                    "4"
+                ]
+            }
+        ],
+        "adachevy.com.json.csv;huntersvilleford.com.json.csv": [
+            {
+                "adachevy.com.json.csv": [
+                    "body:",
+                    "0"
+                ],
+                "huntersvilleford.com.json.csv": [
+                    "body:",
+                    "0"
+                ]
+            },
+            {
+                "adachevy.com.json.csv": [
+                    "doors:",
+                    "1"
+                ],
+                "huntersvilleford.com.json.csv": [
+                    "doors:",
+                    "1"
+                ]
+            },
+            {
+                "adachevy.com.json.csv": [
+                    "drive:",
+                    "2"
+                ],
+                "huntersvilleford.com.json.csv": [
+                    "drive:",
+                    "2"
+                ]
+            }
+        ],
+        "adachevy.com.json.csv;www.carcraft.co.uk.json.csv": [
+            {
+                "adachevy.com.json.csv": [
+                    "doors:",
+                    "1"
+                ],
+                "www.carcraft.co.uk.json.csv": [
+                    "no. doors",
+                    "11"
+                ]
+            }
+        ],
+        "cervantesauto.com.json.csv;hevenerscars.com.json.csv": [
+            {
+                "cervantesauto.com.json.csv": [
+                    "exterior color",
+                    "1"
+                ],
+                "hevenerscars.com.json.csv": [
+                    "exterior color",
+                    "1"
+                ]
+            },
+            {
+                "cervantesauto.com.json.csv": [
+                    "transmission",
+                    "4"
+                ],
+                "hevenerscars.com.json.csv": [
+                    "transmission",
+                    "6"
+                ]
+            }
+        ],
+        "cervantesauto.com.json.csv;irbyautosales.com.json.csv": [
+            {
+                "cervantesauto.com.json.csv": [
+                    "transmission",
+                    "4"
+                ],
+                "irbyautosales.com.json.csv": [
+                    "transmission",
+                    "6"
+                ]
+            }
+        ],
+        "cervantesauto.com.json.csv;supercarsautosales.com.json.csv": [
+            {
+                "cervantesauto.com.json.csv": [
+                    "transmission",
+                    "4"
+                ],
+                "supercarsautosales.com.json.csv": [
+                    "transmission",
+                    "6"
+                ]
+            }
+        ],
+        "cervantesauto.com.json.csv;www.augustaautoandtrucksales.com.json.csv": [
+            {
+                "cervantesauto.com.json.csv": [
+                    "exterior color",
+                    "1"
+                ],
+                "www.augustaautoandtrucksales.com.json.csv": [
+                    "exterior color",
+                    "1"
+                ]
+            },
+            {
+                "cervantesauto.com.json.csv": [
+                    "transmission",
+                    "4"
+                ],
+                "www.augustaautoandtrucksales.com.json.csv": [
+                    "transmission",
+                    "4"
+                ]
+            }
+        ],
+        "hevenerscars.com.json.csv;irbyautosales.com.json.csv": [
+            {
+                "hevenerscars.com.json.csv": [
+                    "transmission",
+                    "6"
+                ],
+                "irbyautosales.com.json.csv": [
+                    "transmission",
+                    "6"
+                ]
+            }
+        ],
+        "hevenerscars.com.json.csv;supercarsautosales.com.json.csv": [
+            {
+                "hevenerscars.com.json.csv": [
+                    "transmission",
+                    "6"
+                ],
+                "supercarsautosales.com.json.csv": [
+                    "transmission",
+                    "6"
+                ]
+            }
+        ],
+        "hevenerscars.com.json.csv;www.augustaautoandtrucksales.com.json.csv": [
+            {
+                "hevenerscars.com.json.csv": [
+                    "exterior color",
+                    "1"
+                ],
+                "www.augustaautoandtrucksales.com.json.csv": [
+                    "exterior color",
+                    "1"
+                ]
+            },
+            {
+                "hevenerscars.com.json.csv": [
+                    "transmission",
+                    "6"
+                ],
+                "www.augustaautoandtrucksales.com.json.csv": [
+                    "transmission",
+                    "4"
+                ]
+            }
+        ],
+        "huntersvilleford.com.json.csv;www.carcraft.co.uk.json.csv": [
+            {
+                "huntersvilleford.com.json.csv": [
+                    "doors:",
+                    "1"
+                ],
+                "www.carcraft.co.uk.json.csv": [
+                    "no. doors",
+                    "11"
+                ]
+            }
+        ],
+        "irbyautosales.com.json.csv;supercarsautosales.com.json.csv": [
+            {
+                "irbyautosales.com.json.csv": [
+                    "exterior color",
+                    "1"
+                ],
+                "supercarsautosales.com.json.csv": [
+                    "exterior color",
+                    "1"
+                ]
+            },
+            {
+                "irbyautosales.com.json.csv": [
+                    "fuel",
+                    "2"
+                ],
+                "supercarsautosales.com.json.csv": [
+                    "fuel",
+                    "2"
+                ]
+            },
+            {
+                "irbyautosales.com.json.csv": [
+                    "transmission",
+                    "6"
+                ],
+                "supercarsautosales.com.json.csv": [
+                    "transmission",
+                    "6"
+                ]
+            }
+        ],
+        "irbyautosales.com.json.csv;www.augustaautoandtrucksales.com.json.csv": [
+            {
+                "irbyautosales.com.json.csv": [
+                    "transmission",
+                    "6"
+                ],
+                "www.augustaautoandtrucksales.com.json.csv": [
+                    "transmission",
+                    "4"
+                ]
+            }
+        ],
+        "supercarsautosales.com.json.csv;www.augustaautoandtrucksales.com.json.csv": [
+            {
+                "supercarsautosales.com.json.csv": [
+                    "transmission",
+                    "6"
+                ],
+                "www.augustaautoandtrucksales.com.json.csv": [
+                    "transmission",
+                    "4"
+                ]
+            }
+        ]
+    },
+    "Camera_and_Photo": {
+        "www.batteryjunction.com.json.csv;www.ontimesupplies.com.json.csv": [
+            {
+                "www.batteryjunction.com.json.csv": [
+                    "country of origin:",
+                    "8"
+                ],
+                "www.ontimesupplies.com.json.csv": [
+                    "country of origin",
+                    "7"
+                ]
+            }
+        ],
+        "www.ontimesupplies.com.json.csv;www.restockit.com.json.csv": [
+            {
+                "www.ontimesupplies.com.json.csv": [
+                    "filter material",
+                    "9"
+                ],
+                "www.restockit.com.json.csv": [
+                    "filter material:",
+                    "3"
+                ]
+            },
+            {
+                "www.ontimesupplies.com.json.csv": [
+                    "filter tint",
+                    "10"
+                ],
+                "www.restockit.com.json.csv": [
+                    "filter tint:",
+                    "4"
+                ]
+            }
+        ],
+        "www.ontimesupplies.com.json.csv;www.scan.co.uk.json.csv": [
+            {
+                "www.ontimesupplies.com.json.csv": [
+                    "widescreen",
+                    "31"
+                ],
+                "www.scan.co.uk.json.csv": [
+                    "5.1 sound",
+                    "0"
+                ]
+            },
+            {
+                "www.ontimesupplies.com.json.csv": [
+                    "widescreen",
+                    "31"
+                ],
+                "www.scan.co.uk.json.csv": [
+                    "built in mic",
+                    "1"
+                ]
+            },
+            {
+                "www.ontimesupplies.com.json.csv": [
+                    "widescreen",
+                    "31"
+                ],
+                "www.scan.co.uk.json.csv": [
+                    "lcd display",
+                    "7"
+                ]
+            }
+        ]
+    },
+    "Clothing": {
+        "budkoo.com.json.csv;www.cmonwealth.com.json.csv": [
+            {
+                "budkoo.com.json.csv": [
+                    "package quantity",
+                    "11"
+                ],
+                "www.cmonwealth.com.json.csv": [
+                    "units in package",
+                    "8"
+                ]
+            }
+        ]
+    },
+    "Home_and_Garden": {
+        "budkoo.com.json.csv;www.omeubololindo.com.json.csv": [
+            {
+                "budkoo.com.json.csv": [
+                    "number of items",
+                    "13"
+                ],
+                "www.omeubololindo.com.json.csv": [
+                    "units in package",
+                    "8"
+                ]
+            },
+            {
+                "budkoo.com.json.csv": [
+                    "package quantity",
+                    "15"
+                ],
+                "www.omeubololindo.com.json.csv": [
+                    "units in package",
+                    "8"
+                ]
+            }
+        ],
+        "budkoo.com.json.csv;www.storagesuppliesdirect.com.json.csv": [
+            {
+                "budkoo.com.json.csv": [
+                    "number of items",
+                    "13"
+                ],
+                "www.storagesuppliesdirect.com.json.csv": [
+                    "units in package",
+                    "8"
+                ]
+            },
+            {
+                "budkoo.com.json.csv": [
+                    "package quantity",
+                    "15"
+                ],
+                "www.storagesuppliesdirect.com.json.csv": [
+                    "units in package",
+                    "8"
+                ]
+            }
+        ],
+        "www.bestofficefurnituredirect.com.json.csv;www.coffeeoutletdirect.com.json.csv": [
+            {
+                "www.bestofficefurnituredirect.com.json.csv": [
+                    "units in package",
+                    "8"
+                ],
+                "www.coffeeoutletdirect.com.json.csv": [
+                    "units in package",
+                    "8"
+                ]
+            }
+        ],
+        "www.bestofficefurnituredirect.com.json.csv;www.hockeyfandirect.com.json.csv": [
+            {
+                "www.bestofficefurnituredirect.com.json.csv": [
+                    "units in package",
+                    "8"
+                ],
+                "www.hockeyfandirect.com.json.csv": [
+                    "units in package",
+                    "8"
+                ]
+            }
+        ],
+        "www.bestofficefurnituredirect.com.json.csv;www.omeubololindo.com.json.csv": [
+            {
+                "www.bestofficefurnituredirect.com.json.csv": [
+                    "units in package",
+                    "8"
+                ],
+                "www.omeubololindo.com.json.csv": [
+                    "units in package",
+                    "8"
+                ]
+            }
+        ],
+        "www.bestofficefurnituredirect.com.json.csv;www.storagesuppliesdirect.com.json.csv": [
+            {
+                "www.bestofficefurnituredirect.com.json.csv": [
+                    "units in package",
+                    "8"
+                ],
+                "www.storagesuppliesdirect.com.json.csv": [
+                    "units in package",
+                    "8"
+                ]
+            }
+        ],
+        "www.coffeeoutletdirect.com.json.csv;www.hockeyfandirect.com.json.csv": [
+            {
+                "www.coffeeoutletdirect.com.json.csv": [
+                    "units in package",
+                    "8"
+                ],
+                "www.hockeyfandirect.com.json.csv": [
+                    "units in package",
+                    "8"
+                ]
+            }
+        ],
+        "www.omeubololindo.com.json.csv;www.storagesuppliesdirect.com.json.csv": [
+            {
+                "www.omeubololindo.com.json.csv": [
+                    "units in package",
+                    "8"
+                ],
+                "www.storagesuppliesdirect.com.json.csv": [
+                    "units in package",
+                    "8"
+                ]
+            }
+        ]
+    },
+    "Jewelry": {
+        "brightbd.com.json.csv;mastersintime.co.uk.json.csv": [
+            {
+                "brightbd.com.json.csv": [
+                    "stone color",
+                    "10"
+                ],
+                "mastersintime.co.uk.json.csv": [
+                    "strap color",
+                    "11"
+                ]
+            }
+        ],
+        "budkoo.com.json.csv;www.midtownjewelers.com.json.csv": [
+            {
+                "budkoo.com.json.csv": [
+                    "package quantity",
+                    "13"
+                ],
+                "www.midtownjewelers.com.json.csv": [
+                    "number of strands",
+                    "2"
+                ]
+            }
+        ],
+        "mastersintime.co.uk.json.csv;silvergoldbull.co.uk.json.csv": [
+            {
+                "mastersintime.co.uk.json.csv": [
+                    "swiss movement",
+                    "14"
+                ],
+                "silvergoldbull.co.uk.json.csv": [
+                    "certificate",
+                    "1"
+                ]
+            }
+        ],
+        "www.aucoinhart.com.json.csv;www.midtownjewelers.com.json.csv": [
+            {
+                "www.aucoinhart.com.json.csv": [
+                    "gender",
+                    "0"
+                ],
+                "www.midtownjewelers.com.json.csv": [
+                    "gender",
+                    "0"
+                ]
+            },
+            {
+                "www.aucoinhart.com.json.csv": [
+                    "product type",
+                    "2"
+                ],
+                "www.midtownjewelers.com.json.csv": [
+                    "product type",
+                    "3"
+                ]
+            },
+            {
+                "www.aucoinhart.com.json.csv": [
+                    "stones setting",
+                    "3"
+                ],
+                "www.midtownjewelers.com.json.csv": [
+                    "stones setting",
+                    "6"
+                ]
+            },
+            {
+                "www.aucoinhart.com.json.csv": [
+                    "stones shape",
+                    "4"
+                ],
+                "www.midtownjewelers.com.json.csv": [
+                    "stones shape",
+                    "7"
+                ]
+            },
+            {
+                "www.aucoinhart.com.json.csv": [
+                    "stones type",
+                    "6"
+                ],
+                "www.midtownjewelers.com.json.csv": [
+                    "stones type",
+                    "9"
+                ]
+            },
+            {
+                "www.aucoinhart.com.json.csv": [
+                    "wedding band style",
+                    "7"
+                ],
+                "www.midtownjewelers.com.json.csv": [
+                    "wedding band style",
+                    "10"
+                ]
+            }
+        ],
+        "www.aucoinhart.com.json.csv;www.worldofceciwong.com.json.csv": [
+            {
+                "www.aucoinhart.com.json.csv": [
+                    "gender",
+                    "0"
+                ],
+                "www.worldofceciwong.com.json.csv": [
+                    "gender",
+                    "0"
+                ]
+            },
+            {
+                "www.aucoinhart.com.json.csv": [
+                    "metal type",
+                    "1"
+                ],
+                "www.worldofceciwong.com.json.csv": [
+                    "metal type",
+                    "1"
+                ]
+            },
+            {
+                "www.aucoinhart.com.json.csv": [
+                    "product type",
+                    "2"
+                ],
+                "www.worldofceciwong.com.json.csv": [
+                    "product type",
+                    "2"
+                ]
+            },
+            {
+                "www.aucoinhart.com.json.csv": [
+                    "stones type",
+                    "6"
+                ],
+                "www.worldofceciwong.com.json.csv": [
+                    "stones type",
+                    "3"
+                ]
+            },
+            {
+                "www.aucoinhart.com.json.csv": [
+                    "wedding band style",
+                    "7"
+                ],
+                "www.worldofceciwong.com.json.csv": [
+                    "wedding band style",
+                    "4"
+                ]
+            }
+        ],
+        "www.midtownjewelers.com.json.csv;www.worldofceciwong.com.json.csv": [
+            {
+                "www.midtownjewelers.com.json.csv": [
+                    "gender",
+                    "0"
+                ],
+                "www.worldofceciwong.com.json.csv": [
+                    "gender",
+                    "0"
+                ]
+            },
+            {
+                "www.midtownjewelers.com.json.csv": [
+                    "metal type",
+                    "1"
+                ],
+                "www.worldofceciwong.com.json.csv": [
+                    "metal type",
+                    "1"
+                ]
+            },
+            {
+                "www.midtownjewelers.com.json.csv": [
+                    "wedding band style",
+                    "10"
+                ],
+                "www.worldofceciwong.com.json.csv": [
+                    "wedding band style",
+                    "4"
+                ]
+            },
+            {
+                "www.midtownjewelers.com.json.csv": [
+                    "width - mm",
+                    "11"
+                ],
+                "www.worldofceciwong.com.json.csv": [
+                    "width - mm",
+                    "5"
+                ]
+            }
+        ]
+    },
+    "Luggage_and_Travel_Gear": {
+        "budkoo.com.json.csv;www.golfsuppliesexpress.com.json.csv": [
+            {
+                "budkoo.com.json.csv": [
+                    "number of items",
+                    "14"
+                ],
+                "www.golfsuppliesexpress.com.json.csv": [
+                    "units in package",
+                    "8"
+                ]
+            },
+            {
+                "budkoo.com.json.csv": [
+                    "package quantity",
+                    "16"
+                ],
+                "www.golfsuppliesexpress.com.json.csv": [
+                    "units in package",
+                    "8"
+                ]
+            }
+        ]
+    },
+    "Video_Games": {
+        "ingedus.com.json.csv;www.medicaloutletdirect.com.json.csv": [
+            {
+                "ingedus.com.json.csv": [
+                    "quantit\u00e9",
+                    "13"
+                ],
+                "www.medicaloutletdirect.com.json.csv": [
+                    "units in package",
+                    "8"
+                ]
+            }
+        ],
+        "mastermatica.com.json.csv;www.pcx.com.mx.json.csv": [
+            {
+                "mastermatica.com.json.csv": [
+                    "conexi\u00f3n",
+                    "1"
+                ],
+                "www.pcx.com.mx.json.csv": [
+                    "conector",
+                    "3"
+                ]
+            }
+        ],
+        "mastermatica.com.json.csv;www.wipoid.com.json.csv": [
+            {
+                "mastermatica.com.json.csv": [
+                    "conexi\u00f3n",
+                    "1"
+                ],
+                "www.wipoid.com.json.csv": [
+                    "conectividad",
+                    "2"
+                ]
+            }
+        ],
+        "uk.hardware.info.json.csv;www.pcx.com.mx.json.csv": [
+            {
+                "uk.hardware.info.json.csv": [
+                    "brand",
+                    "0"
+                ],
+                "www.pcx.com.mx.json.csv": [
+                    "marca",
+                    "5"
+                ]
+            }
+        ],
+        "www.pcx.com.mx.json.csv;www.terabytesolutions.it.json.csv": [
+            {
+                "www.pcx.com.mx.json.csv": [
+                    "marca",
+                    "5"
+                ],
+                "www.terabytesolutions.it.json.csv": [
+                    "marca",
+                    "4"
+                ]
+            }
+        ],
+        "www.pcx.com.mx.json.csv;www.wipoid.com.json.csv": [
+            {
+                "www.pcx.com.mx.json.csv": [
+                    "conector",
+                    "3"
+                ],
+                "www.wipoid.com.json.csv": [
+                    "conectividad",
+                    "2"
+                ]
+            },
+            {
+                "www.pcx.com.mx.json.csv": [
+                    "conector",
+                    "3"
+                ],
+                "www.wipoid.com.json.csv": [
+                    "interfaz del dispositivo",
+                    "4"
+                ]
+            }
+        ]
+    }
+}

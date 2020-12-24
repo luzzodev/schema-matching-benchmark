@@ -1,0 +1,96 @@
+KeyCol;brand;color;item size;item weight;manufacturer;model;package size;package weight;units in package;upc
+1;fat daddios;silver;7 x 4 x 4 inches;0.01 pounds;fat daddio's;prd-74;8.4 x 3.9 x 3.9 inches;0.55 pounds;1;811657015558
+2;;;13 x 1 x 1 inches;0.01 pounds;;;12.6 x 1 x 1 inches;1.8 pounds;1;
+3;thermos;batman;3.5 x 4.5 x 4.5 inches;0.5 pounds;thermos, l.l.c.;f3004bm6;3.5 x 3.5 x 3.5 inches;0.55 pounds;1;041205614876
+4;creative co-op;multicolor;5 x 2.5 x 2.5 inches;1.6 pounds;creative co-op;da2323aaz;12.4 x 6.6 x 6.6 inches;7.15 pounds;1;191009018308
+5;thermos;spiderman;3.5 x 4.5 x 4.5 inches;0.5 pounds;thermos, l.l.c.;f3006sp6;3.5 x 3.5 x 3.5 inches;0.55 pounds;1;041205639541
+6;le creuset;marseille;8 x 4 x 4 inches;3 pounds;le creuset of america;pg051926-59;10.5 x 6.4 x 6.4 inches;5.4 pounds;1;630870089579
+7;;;10.75 x 4.75 x 4.75 inches;3.9 pounds;;;13.8 x 8.7 x 8.7 inches;9.6 pounds;1;
+8;anchor hocking;crystal;8.8 x 12.75 x 12.75 inches;17.2 pounds;anchor hocking;82643obl5;12.7 x 8.9 x 8.9 inches;17.2 pounds;1;076440826432
+9;silicone designs;red;5 x 2.5 x 2.5 inches;0.81 pounds;silicone designs;bpan-red-2x;5.5 x 5.1 x 5.1 inches;0.85 pounds;2;820103217750
+10;thermos;purple;3.5 x 4.5 x 4.5 inches;0.5 pounds;thermos, l.l.c.;f3003pu6;3.7 x 3.4 x 3.4 inches;0.5 pounds;1;788809835671
+11;corningware;sand;2.25 x 11.25 x 11.25 inches;2.65 pounds;world kitchen (pa);1096896;12.76 x 5.43 x 5.43 inches;3.6 pounds;4;793842469530
+12;;;10.6 x 3.5 x 3.5 inches;2.4 pounds;;;14 x 7 x 7 inches;2.6 pounds;1;
+13;thermos;avengers;3.5 x 4.5 x 4.5 inches;0.5 pounds;thermos;f3005av6;3.8 x 3.2 x 3.2 inches;0.55 pounds;1;041205676348
+14;spode;blue, white;16.3 x 6.1 x 6.1 inches;0.06 pounds;portmeirion usa;1635915;11.9 x 2.8 x 2.8 inches;6.25 pounds;1;783931635915
+15;nordic ware;silver;12.88 x 1.06 x 1.06 inches;1.65 pounds;nordicware;43105amz;12.9 x 1.4 x 1.4 inches;3.2 pounds;1;011172431059
+16;baker's edge;silver;12.4 x 1.6 x 1.6 inches;3 pounds;baker's edge;be-bmp;13.3 x 1.9 x 1.9 inches;3.55 pounds;1;895897002059
+17;anchor hocking;crystal;10.4 x 11.2 x 11.2 inches;17.55 pounds;anchor hocking;82210obl5;11.1 x 10.71 x 10.71 inches;17.35 pounds;1;076440822106
+18;victorinox;black;7.5 x 4 x 4 inches;1.4 pounds;victorinox;6.8063.20us5;7.4 x 4.9 x 4.9 inches;1.6 pounds;1;046928042234
+19;thermos;sophia the first;3.5 x 4.5 x 4.5 inches;0.5 pounds;thermos;f3005so6;5 x 4.9 x 4.9 inches;0.5 pounds;1;041205676508
+20;le creuset;flame;6 x 3 x 3 inches;2.1 pounds;le creuset of america;pg0700-192;8.2 x 7.8 x 7.8 inches;2.9 pounds;1;630870048248
+21;wilton;gray;9.39 x 13.75 x 13.75 inches;0 pounds;wilton industries inc.;2105-1820;9.2 x 2.1 x 2.1 inches;0.55 pounds;1;070896218209
+22;kitchenaid;onyx black;6.1 x 12 x 12 inches;3.4 pounds;kitchenaid;kca60lcob;12 x 6.5 x 6.5 inches;7 pounds;1;883049297927
+23;le creuset;marseille;10 x 7 x 7 inches;4 pounds;le creuset of america;pg07003a-3259;16 x 9.5 x 9.5 inches;4.76 pounds;1;630870174107
+24;viking culinary;cream/gray;12.5 x 1 x 1 inches;2.2 pounds;viking culinary;4040-3417-cgy;13.3 x 1.1 x 1.1 inches;2.95 pounds;1;840595100736
+25;hic harold import co.;black;6.3 x 1 x 1 inches;2.5 pounds;hic harold import co.;43671;6.3 x 1.2 x 1.2 inches;1.3 pounds;1;781723436719
+26;calphalon;stainless steel;13.75 x 4.25 x 4.25 inches;0 pounds;calphalon cookware;lrs1805p;14.8 x 7.1 x 7.1 inches;10.4 pounds;1;701142711082
+27;homer laughlin;turquoise;9.5 x 5.5 x 5.5 inches;0.04 pounds;fiesta;495-107;9.8 x 5.7 x 5.7 inches;4.5 pounds;1;042648078058
+28;le creuset;oyster;10 x 10.25 x 10.25 inches;0.6 pounds;le creuset of america;pg0304c-257f;10 x 4.38 x 4.38 inches;1 pounds;1;630870198868
+29;marathon housewares;blue;;;marathon housewares;kw200015bl;;;;063442130575
+30;hic harold import co.;rose;9 x 2.5 x 2.5 inches;2.6 pounds;harold import company;98048rs;11.6 x 5.5 x 5.5 inches;6 pounds;1;781723004246
+31;le creuset;marine;5.75 x 8.8 x 8.8 inches;1.4 pounds;le creuset of america;pg8001-096m;5.75 x 5.75 x 5.75 inches;2 pounds;1;630870198530
+32;corningware;white;7 x 12 x 12 inches;10.34 pounds;world kitchen, llc;1121653;11.9 x 7 x 7 inches;9.95 pounds;1;759455247644
+33;cuisinart;cardinal red;9.8 x 6.02 x 6.02 inches;1 pounds;cuisinart;ci630-20cr;9.8 x 5.6 x 5.6 inches;8.85 pounds;1;086279022967
+34;;;10 x 12.25 x 12.25 inches;2.5 pounds;;;13 x 11 x 11 inches;3 pounds;9;
+35;hic harold import co.;white;2.5 x 5.5 x 5.5 inches;2 pounds;hic harold import co.;98059;5.7 x 2.5 x 2.5 inches;2.05 pounds;1;781723980595
+36;royal doulton;white;1 x 1 x 1 inches;1 pounds;royal doulton;1815tw26720;9.4 x 4.1 x 4.1 inches;4.75 pounds;1;652383751866
+37;le creuset;marine;5.3 x 3.5 x 3.5 inches;0.8 pounds;le creuset;pg1160-086m;9 x 3.75 x 3.75 inches;5 pounds;1;630870194860
+38;;;10.6 x 3.5 x 3.5 inches;2.1 pounds;;;14 x 7 x 7 inches;2.3 pounds;1;
+39;the pioneer woman;blue, teal;;;the pioneer woman;116003.04r;;;;747850317093
+40;cuisinart;cardinal red;11.6 x 6.22 x 6.22 inches;1 pounds;cuisinart;ci650-25cr;11.7 x 5.6 x 5.6 inches;13.6 pounds;1;086279022981
+41;le creuset;hibiscus;;;le creuset of america;pg1627-0914;;;;630870177887
+42;le creuset;palm;10.5 x 5.5 x 5.5 inches;3.4 pounds;le creuset;pg08053a-234p;9.6 x 4.6 x 4.6 inches;6.7 pounds;1;630870129169
+43;;;11.22 x 16.14 x 16.14 inches;1.14 pounds;;;11.97 x 1.02 x 1.02 inches;1.15 pounds;1;
+44;le creuset;marseille;3.5 x 4 x 4 inches;0 pounds;le creuset of america;pg1160-0859;3.9 x 3.1 x 3.1 inches;0.55 pounds;1;630870089258
+45;;;8.66 x 2.17 x 2.17 inches;0.98 pounds;;;11 x 2.5 x 2.5 inches;1.2 pounds;1;
+46;homer laughlin;tangerine;9 x 2.5 x 2.5 inches;0.06 pounds;fiesta;963-325;13.7 x 3.7 x 3.7 inches;6 pounds;1;042648020774
+47;curious chef;green/white;2.17 x 7.4 x 7.4 inches;0.01 pounds;curious chef;tcc50215;7.5 x 1.2 x 1.2 inches;0.1 pounds;1;016346502153
+48;viking culinary;cream/gray;11.5 x 0.73 x 0.73 inches;2 pounds;viking culinary;4040-3414-cgy;11.5 x 1 x 1 inches;2.2 pounds;1;793842406405
+49;;;10.25 x 2.5 x 2.5 inches;4 pounds;;;10.2 x 2.7 x 2.7 inches;4.1 pounds;1;
+50;le creuset;hibiscus;4 x 6 x 6 inches;0.8 pounds;le creuset of america;pg1160-0814;4.3 x 3.1 x 3.1 inches;0.95 pounds;1;630870153324
+51;le creuset;marseille;7.2 x 2 x 2 inches;3.1 pounds;le creuset;pg1047s-2659;9 x 3.2 x 3.2 inches;4.4 pounds;1;630870130318
+52;talisman designs;pie shield - blue ripple;7 x 2 x 2 inches;0.34 pounds;talisman designs;1505pb2;5.9 x 2.2 x 2.2 inches;0.4 pounds;1;818876011910
+53;utopia kitchen;black;;;utopia kitchen;uk0160;;;;754207386480
+54;heritage products;black;;;heritage;na;;;;784672455732
+55;;;8 x 1.25 x 1.25 inches;2.45 pounds;;;8.5 x 1.8 x 1.8 inches;2.45 pounds;1;
+56;;;4.75 x 0.75 x 0.75 inches;1.15 pounds;;;4.8 x 1.8 x 1.8 inches;1.15 pounds;1;
+57;sorbus;red;9.75 x 1.25 x 1.25 inches;1 pounds;819497017220;sil-ccpan-2pk;10.4 x 1.7 x 1.7 inches;1 pounds;1;819497017220
+58;;;8.5 x 7 x 7 inches;7.2 pounds;;;9.6 x 5.1 x 5.1 inches;1.1 pounds;6;
+59;;;12.68 x 8.15 x 8.15 inches;0.02 pounds;;;8.1 x 1.4 x 1.4 inches;1.8 pounds;1;
+60;pyrex;black carrier;12.38 x 3.63 x 3.63 inches;7 pounds;world kitchen (pa);1102266;12.4 x 3.6 x 3.6 inches;7.35 pounds;2;071160068339
+61;hello kitty;iphone;7.7 x 9 x 9 inches;0.06 pounds;sakar intl;app-61209;9 x 4.9 x 4.9 inches;2.45 pounds;1;611267410114
+62;cuisinart;stainless steel;13 x 6.5 x 6.5 inches;6.5 pounds;cuisinart;7117-16ps;13.2 x 6.1 x 6.1 inches;7.65 pounds;1;086279090768
+63;;;2.5 x 13 x 13 inches;0.3 pounds;;;2.28 x 2.2 x 2.2 inches;0.57 pounds;1;
+64;ovenart bakeware;red;9.75 x 1.2 x 1.2 inches;0.5 pounds;ovenart bakeware;ov-sb50-01;9.49 x 0.98 x 0.98 inches;1.25 pounds;1;820103233309
+65;nordic ware;metalic gold;7 x 1.88 x 1.88 inches;0.01 pounds;nordic ware;43210;6.9 x 1.9 x 1.9 inches;1.05 pounds;1;781147590769
+66;thunder group;black;14 x 1 x 1 inches;2.3 pounds;thunder group;slkmp024;13.6 x 1.7 x 1.7 inches;2.4 pounds;1;789313318636
+67;hic harold import co.;white;3.5 x 6 x 6 inches;1.5 pounds;hic porcelain;98021-3;10.7 x 5.2 x 5.2 inches;3.3 pounds;1;781723980212
+68;anchor hocking;crystal;11 x 6 x 6 inches;9.25 pounds;anchor hocking;81104l11;14.2 x 14.1 x 14.1 inches;10.95 pounds;1;076440811049
+69;anchor hocking;crystal clear glass;8 x 6 x 6 inches;0.03 pounds;kitchen supply;81106l11;9.7 x 6.5 x 6.5 inches;3.9 pounds;1;076440811063
+70;artisan;red/tan;0.13 x 16.63 x 16.63 inches;0.3 pounds;artisan;t3602mata;2.6 x 2.52 x 2.52 inches;0.49 pounds;1;885741835889
+71;;;9.1 x 2.8 x 2.8 inches;3.9 pounds;;;12 x 8 x 8 inches;4.4 pounds;1;
+72;le creuset;cherry;10.25 x 4 x 4 inches;4 pounds;le creuset of america;9100473206;11.26 x 3.62 x 3.62 inches;6.35 pounds;1;844819016216
+73;le creuset;palm;15.5 x 6.75 x 6.75 inches;5.2 pounds;le creuset;pg04053a-364p;11.8 x 6.2 x 6.2 inches;9.4 pounds;1;630870129077
+74;le creuset;cherry;8.25 x 4 x 4 inches;6 pounds;le creuset of america;251050206;8.35 x 4.25 x 4.25 inches;7.05 pounds;1;024147913450
+75;viking;silver;11.25 x 7.25 x 7.25 inches;4.4 pounds;viking;40012-1629;14.3 x 8.8 x 8.8 inches;14.15 pounds;1;840595101719
+76;artisan;brown;13 x 0.13 x 0.13 inches;0.01 pounds;artisan;3603am-24;13 x 0.3 x 0.3 inches;1 pounds;1;029419145997
+77;;;4.3 x 2 x 2 inches;0 pounds;;;8.8 x 2.6 x 2.6 inches;1.23 pounds;1;
+78;bakeitfun;bubble blue and raspberry red;;;bakeitfun baking mat;na;;;;753807216364
+79;cuisinart;provencal blue;12.99 x 6.22 x 6.22 inches;1 pounds;cuisinart;ci670-30bg;12.9 x 5.7 x 5.7 inches;18.15 pounds;1;086279023179
+80;rachael ray;mushroom brown;10.5 x 3.5 x 3.5 inches;6.1 pounds;meyer;57441;15.25 x 6.75 x 6.75 inches;7.4 pounds;1;051153574412
+81;tumbleweed;maroon;;;tumbleweed;5584;;;;746468055847
+82;;;12 x 8 x 8 inches;7.3 pounds;;;12.2 x 7.2 x 7.2 inches;7.6 pounds;1;
+83;;;10.75 x 4.5 x 4.5 inches;4 pounds;;;14.4 x 8.5 x 8.5 inches;5.35 pounds;1;
+84;cuisinart;provencal blue;11.6 x 6.22 x 6.22 inches;3.3 pounds;cuisinart;ci650-25bg;16.5 x 8.9 x 8.9 inches;13.94 pounds;1;086279022974
+85;corningware;sand;3.63 x 8.5 x 8.5 inches;4.8 pounds;world kitchen (pa);1096829;10.75 x 8.5 x 8.5 inches;5.75 pounds;2;709832500725
+86;;;10.6 x 3.5 x 3.5 inches;2.5 pounds;;;14 x 7 x 7 inches;2.7 pounds;1;
+87;le creuset;cassis;10.5 x 5.5 x 5.5 inches;3.4 pounds;le creuset of america;pg0805-2372;9.2 x 4.5 x 4.5 inches;6.8 pounds;1;630870059602
+88;le creuset;palm;3.8 x 2.3 x 2.3 inches;0.6 pounds;le creuset of america;pg1627-094p;4.2 x 2.6 x 2.6 inches;0.6 pounds;1;630870129329
+89;viking culinary;cream/gray;10 x 0.75 x 0.75 inches;1.6 pounds;viking culinary;4040-3413-cgy;9.9 x 0.8 x 0.8 inches;1.75 pounds;1;786173567198
+90;le creuset;marseille;4.3 x 3.5 x 3.5 inches;1 pounds;le creuset of america;pg1260-0859;4.8 x 3.1 x 3.1 inches;1.3 pounds;1;630870089265
+91;cuisinart;gray;;;cuisinart;ci755-30gry;;;;086279090096
+92;cuisinart;silver;10 x 6 x 6 inches;6 pounds;cuisinart;amb-4;9.9 x 6.1 x 6.1 inches;6 pounds;1;882510250409
+93;cuisinart;provencal blue;10.5 x 3.75 x 3.75 inches;3.3 pounds;cuisinart;ci1136-24bg;10.2 x 3.2 x 3.2 inches;11.2 pounds;1;071696689312
+94;corningware;french white;5 x 12 x 12 inches;8.3 pounds;corningware;1047975;12 x 5.1 x 5.1 inches;9.55 pounds;1;097367173522
+95;anchor hocking;crystal;5 x 5 x 5 inches;11.6 pounds;anchor hocking;82644obl5;10.9 x 5.3 x 5.3 inches;11.7 pounds;1;720698804567

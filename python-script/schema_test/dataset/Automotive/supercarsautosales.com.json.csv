@@ -1,0 +1,101 @@
+KeyCol;engine;exterior color;fuel;interior color;mileage;stock #;transmission
+1;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+2;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+3;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+4;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+5;4.6l v8 sfi 4.6l;white;gas;blue (light);94201;2820;auto
+6;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+7;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+8;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+9;3.9l v8 efi dohc 3.9l;gold;gas;gold;127813;2636;automatic
+10;1.8l i-4 efi dohc 1.8l;blue;gas;gray;111588;2879;auto
+11;3.7l v6 mpi 3.7l;black;gas;gray;151398;2751;auto
+12;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+13;1.8l i-4 efi dohc 1.8l;blue;gas;gray;111588;2879;auto
+14;3.7l v6 mpi 3.7l;black;gas;gray;151398;2751;auto
+15;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+16;4.0l v6 efi sohc flex 4.0;aluminum;gasoline;;156353;2923;
+17;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+18;4.2l i-6 mpi dohc 4.2l;gold;gas;tan;142413;2854;auto
+19;1.8l i-4 efi dohc 1.8l;aluminum;gas;gray;106130;2925;auto
+20;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+21;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+22;1.8l i-4 efi dohc 1.8l;aluminum;gas;gray;106130;2925;auto
+23;1.8l i-4 efi dohc 1.8l;blue;gas;gray;111588;2879;auto
+24;5.7l v8 sfi 5.7l;aluminum;gas;gold;136388;2922;auto
+25;5.7l v8 sfi 5.7l;aluminum;gas;gold;136388;2922;auto
+26;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+27;5.7l v8 sfi 5.7l;aluminum;gas;;136388;2922;auto
+28;4.0l v6 efi sohc flex 4.0;aluminum;gasoline;;156353;2923;
+29;5.7l v8 sfi 5.7l;aluminum;gas;gold;136388;2922;auto
+30;5.7l v8 sfi 5.7l;aluminum;gas;gold;136388;2922;auto
+31;5.7l v8 sfi 5.7l;aluminum;gas;gold;136388;2922;auto
+32;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+33;1.8l i-4 efi dohc 1.8l;blue;gas;gray;111588;2879;auto
+34;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+35;4.2l i-6 mpi dohc 4.2l;gold;gas;tan;142413;2854;auto
+36;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+37;3.3l v6 sfi flex 3.3l;white;flex;gray;91890;2807;auto
+38;5.2l v8 sfi 5.2l;black;gas;gray;103088;2920;auto
+39;4.2l v8 efi dohc s/c 4.2l;gray;gas;aluminum;69900;2766;auto
+40;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+41;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+42;5.7l v8 sfi 5.7l;aluminum;gas;gold;136388;2922;auto
+43;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+44;1.8l i-4 efi dohc 1.8l;blue;gas;gray;111588;2879;auto
+45;5.2l v8 sfi 5.2l;black;gas;gray;103088;2920;auto
+46;5.7l v8 sfi 5.7l;aluminum;gas;gold;136388;2922;auto
+47;5.7l v8 sfi 5.7l;aluminum;gas;gold;136388;2922;auto
+48;4.0l v6 efi sohc flex 4.0;aluminum;gasoline;;156353;2923;
+49;4.2l i-6 mpi dohc 4.2l;gold;gas;tan;142413;2854;auto
+50;4.2l v8 efi dohc s/c 4.2l;gray;gas;aluminum;69900;2766;auto
+51;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+52;4.2l i-6 mpi dohc 4.2l;gold;gas;tan;142413;2854;auto
+53;5.7l v8 sfi 5.7l;aluminum;gas;gold;136388;2922;auto
+54;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+55;5.7l v8 sfi 5.7l;aluminum;gas;gold;136388;2922;auto
+56;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+57;4.0l v6 efi sohc flex 4.0;aluminum;gasoline;tan;156353;2923;auto
+58;4.0l v6 efi sohc flex 4.0;aluminum;gasoline;tan;156353;2923;auto
+59;4.0l v6 efi sohc flex 4.0;aluminum;gasoline;tan;156353;2923;auto
+60;4.0l v6 efi sohc flex 4.0;aluminum;gasoline;;156353;2923;
+61;4.0l v6 efi sohc flex 4.0;aluminum;gasoline;tan;156353;2923;auto
+62;4.0l v6 efi sohc flex 4.0;aluminum;gasoline;tan;156353;2923;auto
+63;4.0l v6 efi sohc flex 4.0;aluminum;gasoline;tan;156353;2923;auto
+64;4.0l v6 efi sohc flex 4.0;aluminum;gasoline;;156353;2923;
+65;4.0l v6 efi sohc flex 4.0;aluminum;gasoline;tan;156353;2923;auto
+66;4.0l v6 efi sohc flex 4.0;aluminum;gasoline;tan;156353;2923;auto
+67;4.2l i-6 mpi dohc 4.2l;gold;gas;tan;142413;2854;auto
+68;4.0l v6 efi sohc flex 4.0;aluminum;gasoline;tan;156353;2923;auto
+69;4.0l v6 efi sohc flex 4.0;aluminum;gasoline;tan;156353;2923;auto
+70;1.8l i-4 efi dohc 1.8l;blue;gas;gray;111588;2879;auto
+71;1.8l i-4 efi dohc 1.8l;blue;gas;gray;111588;2879;auto
+72;3.7l v6 mpi 3.7l;white;gas;gray;130697;2926;auto
+73;3.3l v6 sfi flex 3.3l;white;flex;gray;91890;2807;auto
+74;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+75;3.7l v6 mpi 3.7l;white;gas;gray;130697;2926;auto
+76;5.7l v8 sfi 5.7l;aluminum;gas;;136388;2922;auto
+77;4.6l v8 sfi 4.6l;white;gas;blue (light);94201;2820;auto
+78;3.7l v6 mpi 3.7l;black;gas;gray;151398;2751;auto
+79;4.2l v8 efi dohc s/c 4.2l;gray;gas;aluminum;69900;2766;auto
+80;3.7l v6 mpi 3.7l;black;gas;gray;151398;2751;auto
+81;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+82;3.3l v6 sfi flex 3.3l;white;flex;gray;91890;2807;auto
+83;4.2l v8 efi dohc s/c 4.2l;gray;gas;aluminum;69900;2766;auto
+84;3.9l v8 efi dohc 3.9l;gold;gas;gold;127813;2636;automatic
+85;4.6l v8 sfi 4.6l;white;gas;blue (light);94201;2820;auto
+86;4.0l v8 efi dohc 4.0l;gold;gas;tan;179077;2874;auto
+87;3.3l v6 sfi flex 3.3l;white;flex;gray;91890;2807;auto
+88;5.7l v8 sfi 5.7l;aluminum;gas;;136388;2922;auto
+89;5.2l v8 sfi 5.2l;black;gas;gray;103088;2920;auto
+90;5.7l v8 sfi 5.7l;aluminum;gas;;136388;2922;auto
+91;3.3l v6 sfi flex 3.3l;white;flex;gray;91890;2807;auto
+92;5.2l v8 sfi 5.2l;black;gas;gray;103088;2920;auto
+93;4.6l v8 sfi 4.6l;white;gas;blue (light);94201;2820;auto
+94;3.9l v8 efi dohc 3.9l;gold;gas;gold;127813;2636;automatic
+95;3.7l v6 mpi 3.7l;black;gas;gray;151398;2751;auto
+96;3.9l v8 efi dohc 3.9l;gold;gas;gold;127813;2636;automatic
+97;3.9l v8 efi dohc 3.9l;gold;gas;gold;127813;2636;automatic
+98;4.6l v8 sfi 4.6l;white;gas;blue (light);94201;2820;auto
+99;4.2l v8 efi dohc s/c 4.2l;gray;gas;aluminum;69900;2766;auto
+100;3.7l v6 mpi 3.7l;black;gas;gray;151398;2751;auto

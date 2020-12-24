@@ -1,0 +1,435 @@
+KeyCol;gender;metal type;number of strands;product type;stones average clarity;stones average color;stones setting;stones shape;stones total weight - ct;stones type;wedding band style;width - mm
+1;gents;10k yellow gold;;wedding bands;;;;;;without stone;modern;8.00
+2;ladies;14k white gold;;wedding bands;si2;g;burnished;round;0.24;diamond;modern;4.00
+3;gents;10k yellow gold;;wedding bands;;;;;;without stone;modern;6.00
+4;gents;14k yellow gold;;wedding bands;;;;;;without stone;milgrain;6.00
+5;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;8.00
+6;ladies;10k yellow gold;;wedding bands;;;;;;without stone;modern;4.00
+7;gents;14k white gold;;wedding bands;;;;;;without stone;modern;6.00
+8;gents;10k yellow gold;;wedding bands;;;;;;without stone;modern;6.00
+9;gents;14k yellow gold, 14k white gold;;wedding bands;;;;;;without stone;modern;8.00
+10;ladies;10k yellow gold;;wedding bands;;;;;;without stone;modern;3.00
+11;gents;palladium;;wedding bands;;;;;;without stone;modern;6.00
+12;ladies;14k white gold;;wedding bands;si2;g;pave;round;0.32;diamond;;2.00
+13;ladies;14k rose gold;;wedding bands;;;;;;without stone;modern;3.50
+14;gents;18k white gold;;wedding bands;;;;;;without stone;modern;8.00
+15;gents;14k yellow gold;;wedding bands;;;;;;without stone;modern;7.00
+16;gents;14k rose gold;;wedding bands;;;;;;without stone;modern;6.00
+17;ladies;18k yellow gold;;wedding bands;;;;;;without stone;milgrain;4.00
+18;ladies;14k rose gold;;wedding bands;;;;;;without stone;modern;3.00
+19;ladies;18k white gold;;wedding bands;si2;g;pave;round;0.18;diamond;modern;7.00
+20;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;6.00
+21;gents;18k white gold;;wedding bands;;;;;;without stone;modern;6.00
+22;gents;platinum;;wedding bands;;;;;;without stone;modern;6.00
+23;gents;14k white gold;;wedding bands;;;;;;without stone;modern;6.00
+24;gents;18k white gold;;wedding bands;;;;;;without stone;modern;6.00
+25;gents;18k yellow gold;;wedding bands;;;;;;without stone;milgrain;6.00
+26;ladies;14k rose gold;;wedding bands;;;;;;without stone;modern;2.50
+27;gents;palladium;;wedding bands;;;;;;without stone;modern;6.00
+28;ladies;14k rose gold;;wedding bands;si2;g;prong;round;0.24;diamond;modern;2.00
+29;gents;palladium;;wedding bands;;;;;;without stone;modern;8.00
+30;ladies;18k yellow gold;;wedding bands;si2;g;pave;round;0.32;diamond;;2.00
+31;ladies;18k white gold;;wedding bands;;;;;;without stone;modern;4.50
+32;ladies;14k white gold;;wedding bands;;;;;;without stone;modern;3.50
+33;gents;18k white gold;;wedding bands;;;;;;without stone;milgrain;6.00
+34;ladies;14k yellow gold;;wedding bands;;;;;;without stone;modern;4.00
+35;gents;platinum;;wedding bands;;;;;;without stone;modern;6.00
+36;ladies;14k white gold;;wedding bands;;;;;;without stone;modern;3.50
+37;ladies;platinum;;wedding bands;;;;;;without stone;modern;2.00
+38;gents;palladium;;wedding bands;;;;;;without stone;modern;6.00
+39;ladies;14k white gold;;wedding bands;;;;;;without stone;modern;4.50
+40;ladies;14k white gold;;wedding bands;;;;;;without stone;modern;4.50
+41;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;7.50
+42;gents;18k white gold;;wedding bands;;;;;;without stone;milgrain;8.00
+43;gents;18k white gold;;wedding bands;;;;;;without stone;modern;8.00
+44;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;8.00
+45;gents;14k white gold;;wedding bands;;;;;;without stone;modern;8.00
+46;gents;14k white gold;;wedding bands;;;;;;without stone;modern;6.00
+47;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;6.00
+48;ladies;14k yellow gold;;wedding bands;;;;;;without stone;modern;2.50
+49;ladies;14k rose gold;;wedding bands;si2;g;pave;round;0.18;diamond;modern;7.00
+50;ladies;14k yellow gold;;wedding bands;;;;;;without stone;modern;3.00
+51;ladies;18k yellow gold;;wedding bands;si2;g;pave;round;0.18;diamond;modern;7.00
+52;gents;18k yellow gold;;wedding bands;si2;g;channel;round;0.42;diamond;modern;6.00
+53;gents;14k yellow gold, 14k white gold;;wedding bands;;;;;;without stone;milgrain;6.00
+54;ladies;18k white gold;;wedding bands;;;;;;without stone;milgrain;4.00
+55;ladies;18k yellow gold;;wedding bands;si2;g;burnished;round;0.24;diamond;modern;4.00
+56;ladies;10k yellow gold;;wedding bands;;;;;;without stone;modern;4.50
+57;gents;18k white gold;;wedding bands;;;;;;without stone;modern;6.00
+58;gents;14k yellow gold, 14k white gold;;wedding bands;;;;;;without stone;modern;6.00
+59;gents;18k white gold;;wedding bands;si2;g;bezel;round;0.32;diamond;;6.00
+60;gents;18k yellow gold;;wedding bands;si2;g;burnished;round;0.18;diamond;modern;6.00
+61;ladies;palladium;;wedding bands;;;;;;without stone;modern;4.50
+62;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;6.50
+63;ladies;10k white gold;;wedding bands;;;;;;without stone;modern;4.00
+64;ladies;14k rose gold;;wedding bands;;;;;;without stone;milgrain;4.00
+65;gents;14k yellow gold;;wedding bands;;;;;;without stone;modern;6.00
+66;gents;18k white gold;;wedding bands;;;;;;without stone;modern;6.00
+67;gents;platinum;;wedding bands;;;;;;without stone;milgrain;6.00
+68;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;6.00
+69;gents;14k white gold;;wedding bands;;;;;;without stone;modern;7.50
+70;ladies;14k rose gold;;wedding bands;si2;g;pave;round;0.32;diamond;;2.00
+71;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;6.00
+72;ladies;platinum;;wedding bands;si2;g;burnished;round;0.24;diamond;modern;4.00
+73;gents;14k rose gold;;wedding bands;;;;;;without stone;modern;5.00
+74;gents;platinum;;wedding bands;si1;g;burnished;round;0.32;diamond;modern;6
+75;ladies;palladium;;wedding bands;si2;g;burnished;round;0.24;diamond;modern;4.00
+76;gents;tungsten, black ceramic;;wedding bands;;;;;;;modern;9.00
+77;gents;platinum;;wedding bands;;;;;;without stone;modern;6.00
+78;gents;14k white gold;;wedding bands;;;;;;without stone;milgrain;6.00
+79;gents;10k white gold;;wedding bands;;;;;;without stone;milgrain;6.00
+80;gents;14k yellow gold;;wedding bands;;;;;;without stone;milgrain;6.00
+81;gents;14k white gold;;wedding bands;si2;g;channel;round;0.42;diamond;modern;6.00
+82;gents;10k yellow gold;;wedding bands;;;;;;without stone;milgrain;6.00
+83;gents;platinum;;wedding bands;;;;;;without stone;milgrain;6.00
+84;ladies;18k yellow gold;;wedding bands;;;;;;without stone;modern;4.50
+85;gents;10k white gold;;wedding bands;;;;;;without stone;milgrain;6.00
+86;gents;14k rose gold;;wedding bands;si2;g;burnished;round;0.18;diamond;modern;6.00
+87;gents;14k rose gold;;wedding bands;;;;;;without stone;milgrain;6.00
+88;gents;platinum;;wedding bands;;;;;;without stone;modern;5.00
+89;gents;10k white gold;;wedding bands;;;;;;without stone;modern;6.00
+90;gents;14k rose gold, 14k white gold;;wedding bands;;;;;;without stone;modern;6
+91;;18k white gold;;fashion rings;;;;;;;;1.50
+92;;14k white gold;;earrings;i1;g, h;prong, pave;round;1.30;black diamonds;;
+93;gents;14k white gold;;wedding bands;;;;;;without stone;milgrain;6.00
+94;gents;18k yellow gold;;wedding bands;;;;;;without stone;milgrain;6.00
+95;ladies;platinum;;wedding bands;si2;g;pave;round;0.32;diamond;;2.00
+96;;14k white gold;;earrings;i1;g, h;pave;round;2.00;diamond;;
+97;gents;14k white gold;;wedding bands;;;;;;without stone;milgrain;6.00
+98;gents;palladium;;wedding bands;;;;;;without stone;modern;6.00
+99;;14k yellow gold;;earrings;i1;g, h;pave;round;1.00;diamond;;
+100;gents;platinum;;wedding bands;;;;;;without stone;modern;8.00
+101;gents;10k yellow gold;;wedding bands;;;;;;without stone;modern;6.00
+102;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;7.50
+103;;14k white gold;;earrings;i1;g, h;pave;round;1.50;diamond;;
+104;gents;palladium;;wedding bands;si2;g;channel;round;0.42;diamond;modern;6.00
+105;gents;platinum;;wedding bands;;;;;;without stone;milgrain;6.00
+106;gents;10k white gold;;wedding bands;;;;;;without stone;milgrain;6.00
+107;gents;platinum;;wedding bands;;;;;;without stone;modern;7.00
+108;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;7.50
+109;ladies;14k white gold;;bracelets;i1;g, h;prong;round;2.15;diamond;;
+110;gents;18k yellow gold;;wedding bands;;;;;;without stone;;8.00
+111;gents;18k white gold;;wedding bands;si2;g;burnished;round;0.18;diamond;modern;6.00
+112;;14k yellow gold;;fashion rings;i1;g, h;;round;0.45;diamond;;
+113;gents;14k rose gold, 14k white gold;;wedding bands;;;;;;without stone;milgrain;8.00
+114;ladies;18k white gold;;wedding bands;;;;;;without stone;modern;3.50
+115;gents;platinum;;wedding bands;;;;;;without stone;milgrain;8.00
+116;gents;14k white gold;;wedding bands;;;;;;without stone;milgrain;6.00
+117;ladies;14k white gold, 14k yellow gold;;bracelets;;;pave;round;1.96;;;
+118;gents;14k yellow gold;;wedding bands;;;;;;without stone;modern;7.00
+119;ladies;14k rose gold;;wedding bands;si2;g;burnished;round;0.24;diamond;modern;4.00
+120;gents;18k yellow gold;;wedding bands;;;;;;without stone;milgrain;6.00
+121;;;;earrings;i1;g, h;pave;round;0.55;diamond;;
+122;gents;14k white gold;;wedding bands;;;;;;without stone;milgrain;6.00
+123;gents;14k rose gold;;wedding bands;;;;;;without stone;modern;7.50
+124;gents;18k white gold;;wedding bands;;;;;;without stone;modern;6.50
+125;gents;18k white gold;;wedding bands;;;;;;without stone;modern;6.50
+126;gents;platinum;;wedding bands;;;;;;without stone;modern;5.50
+127;gents;platinum;;wedding bands;;;;;;without stone;modern;5.50
+128;gents;14k rose gold;;wedding bands;;;;;;without stone;milgrain;6.00
+129;;14k white gold;;earrings;i1;h, g;bezel;round;1.00;diamond;;
+130;gents;14k white gold;;wedding bands;;;;;;without stone;modern;6.00
+131;gents;10k yellow gold;;wedding bands;;;;;;without stone;modern;5.50
+132;gents;10k yellow gold;;wedding bands;;;;;;without stone;modern;5.50
+133;ladies;14k yellow gold;;bracelets;i1;g, h;pave;round;0.60;diamond;;
+134;gents;titanium;;wedding bands;;;;;;without stone;modern;7
+135;gents;titanium;;wedding bands;;;;;;without stone;modern;8
+136;;14k yellow gold;;fashion rings;i1;g, h;;round;0.70;diamond;;
+137;gents;10k yellow gold;;wedding bands;;;;;;without stone;modern;8.00
+138;gents;tungsten, black ceramic;;wedding bands;;;;;;;modern;8.00
+139;gents;titanium;;wedding bands;;;;;;without stone;modern;8
+140;;14k white gold;;earrings;i1;h, g;prong;round;1.20;;;
+141;gents;18k white gold;;wedding bands;;;;;;without stone;modern;6.00
+142;;platinum;;fashion rings;;;;;;;;1.70
+143;ladies;14k yellow gold;;bracelets;;;pave;round;0.35;diamond;;
+144;gents;titanium, black ceramic;;wedding bands;;;;;;;modern;8.00
+145;;14k white gold;;engagement rings;;;;;;;;
+146;;18k white gold;;engagement rings;;;;;;;;
+147;;14k white gold;;earrings;i1;g, h;prong, pave;round;0.90;diamond;;
+148;;14k rose gold;;fashion rings;i1;h, g;;round;0.65;diamond;;
+149;gents;14k rose gold;;wedding bands;;;;;;without stone;modern;6.50
+150;gents;14k rose gold;;wedding bands;;;;;;without stone;modern;6.50
+151;gents;10k white gold;;wedding bands;;;;;;without stone;modern;6.50
+152;gents;platinum;;wedding bands;;;;;;without stone;modern;6.50
+153;ladies;14k white gold;;necklaces;;;;;;pearl;;
+154;;14k yellow gold;;fashion rings;i1;h, g;;round;0.80;diamond;;
+155;gents;platinum;;wedding bands;;;;;;without stone;modern;6.00
+156;gents;platinum;;wedding bands;;;;;;without stone;modern;6.50
+157;;14k yellow gold;;fashion rings;i1;g, h;;round;0.60;diamond;;
+158;gents;10k white gold;;wedding bands;;;;;;without stone;modern;6.50
+159;gents;18k yellow gold;;wedding bands;;;;;;without stone;milgrain;6.00
+160;;14k yellow gold;;earrings;i1;g, h;pave;round;0.41;diamond;;
+161;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;7.00
+162;gents;palladium;;wedding bands;;;;;;without stone;modern;6.50
+163;gents;18k white gold;;wedding bands;;;;;;without stone;milgrain;6.00
+164;gents;18k white gold;;wedding bands;;;;;;without stone;modern;7.00
+165;;14k white gold;;earrings;i1;g, h;prong, pave;round;0.50;diamond;;
+166;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;8.00
+167;gents;10k white gold;;wedding bands;;;;;;without stone;modern;6.00
+168;gents;10k white gold;;wedding bands;;;;;;without stone;modern;5.50
+169;;14k rose gold;;fashion rings;i1;g, h;;round;0.70;diamond;;
+170;;14k white gold;;earrings;i1;g, h;prong;round;1.00;diamond;;
+171;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;5.50
+172;gents;10k yellow gold;;wedding bands;;;;;;without stone;modern;7.50
+173;gents;18k white gold;;wedding bands;;;;;;without stone;modern;5.50
+174;;14k white gold;;earrings;i1;g, h;prong, pave;round;1.45;diamond;;
+175;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;5.50
+176;gents;18k white gold;;wedding bands;;;;;;without stone;modern;5.50
+177;gents;10k white gold;;wedding bands;;;;;;without stone;modern;5.50
+178;gents;10k yellow gold;;wedding bands;;;;;;without stone;modern;7.50
+179;gents;palladium;;wedding bands;;;;;;without stone;modern;6.50
+180;;14k white gold;;earrings;i1;g, h;pave;round;1.35;diamond;;
+181;;14k white gold;;fashion rings;i1;h, g;;round;0.65;diamond;;
+182;gents;tungsten, black ceramic;;wedding bands;;;;;;;modern;8.00
+183;ladies;14k white gold;1;necklaces;i1;g, h;pave, bezel;round;0.3;diamond;;
+184;gents;14k yellow gold, zirconium;;wedding bands;;;burnished;round;0.04;black diamond;modern;8
+185;ladies;14k white gold;1;necklaces;i1;g, h;pave;round;0.85;diamond;;
+186;gents;titanium;;wedding bands;;;;;;without stone;modern;10
+187;ladies;14k white gold;1;necklaces;;;pave;round;1.20;diamond;;
+188;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;3
+189;gents;titanium;;wedding bands;;;;;;without stone;modern;7
+190;gents;tungsten, black ceramic;;wedding bands;;;;;;;modern;8.00
+191;gents;10k white gold;;wedding bands;;;;;;without stone;modern;7.00
+192;gents;palladium;;wedding bands;;;;;;without stone;milgrain;6.00
+193;gents;palladium;;wedding bands;;;;;;without stone;modern;7.50
+194;gents;14k rose gold;;wedding bands;;;;;;without stone;modern;8.00
+195;gents;palladium;;wedding bands;;;;;;without stone;modern;6.00
+196;gents;18k white gold;;wedding bands;;;;;;without stone;modern;5.00
+197;gents;10k yellow gold;;wedding bands;;;;;;without stone;milgrain;6.00
+198;gents;14k yellow gold, 14k white gold;;wedding bands;;;;;;without stone;;8.00
+199;gents;14k rose gold;;wedding bands;;;;;;without stone;milgrain;6.00
+200;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;3
+201;;14k white gold;1;necklaces;;;pave;round;2.05;diamond;;
+202;ladies;sterling silver (925), 18k rose gold plated;1;bracelets;;;pave;round;;cz;;4
+203;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave;round;;cz;;3
+204;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;3
+205;;18k white gold;;engagement rings;;;;;;;;
+206;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;3
+207;gents;tungsten, black ceramic;;wedding bands;;;;;;;modern;8.00
+208;;14k white gold;;engagement rings;;;;;;;;
+209;ladies;14k white gold;1;necklaces;si2;j, k;bezel;round;0.25;diamond;;
+210;gents;titanium;;wedding bands;;;;;;without stone;modern;9
+211;ladies;14k white gold;1;necklaces;i1;h, g;pave;round;0.95;diamond;;
+212;;18k white gold;;engagement rings;;;;;;;;
+213;gents;titanium;;wedding bands;;;;;;without stone;modern;7
+214;gents;titanium;;wedding bands;;;;;;without stone;modern;9
+215;gents;titanium;;wedding bands;;;;;;without stone;modern;8
+216;;platinum;;engagement rings;;;;;;;;
+217;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;3
+218;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;16
+219;gents;tungsten, black ceramic;;wedding bands;;;;;;;modern;8.00
+220;;sterling silver (925), rhodium plated;;fashion rings;;;;round;;cz;;6.00
+221;;14k yellow gold;1;necklaces;i1;g, h;bezel;round;0.20;diamond;;
+222;;platinum;;engagement rings;;;;;;;;
+223;gents;titanium;;wedding bands;;;;;;without stone;modern;10
+224;gents;zirconium;;wedding bands;;;;;;without stone;modern;8
+225;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;prong;round;;cz;;6
+226;gents;tungsten, black ceramic;;wedding bands;;;;;;;modern;8.00
+227;ladies;14k white gold;1;necklaces;i1;g, h;pave;round;0.15;diamond;;
+228;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;3
+229;ladies;sterling silver (925), 18k rose gold plated;1;bracelets;;;pave;round;;cz;;3
+230;;platinum;;engagement rings;;;;;;;;
+231;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;prong;round;;cz;;3
+232;gents;tungsten, black ceramic;;wedding bands;;;;;;;modern;8.00
+233;;platinum;;engagement rings;;;;;;;;
+234;ladies;sterling silver (925), 18k rose gold plated;1;bracelets;;;;;;;;3
+235;ladies;14k yellow gold;1;necklaces;i1;g, h;pave, prong;round;0.23;diamond;;
+236;;18k white gold;;fashion rings;;;;;;;;1.70
+237;ladies;14k yellow gold;1;necklaces;si2;g, h;pave;round;0.24;diamond;;
+238;ladies;14k white gold;1;necklaces;si2;k, j;pave, prong;round;0.25;diamond;;
+239;gents;titanium;;wedding bands;;;;;;without stone;modern;10
+240;gents;damascus steel;;wedding bands;;;;;;without stone;modern;8
+241;ladies;14k white gold;1;necklaces;i1;h, g;bezel;round;1.35;diamond;;
+242;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;5.00
+243;;14k white gold;;engagement rings;;;;;;;;
+244;ladies;sterling silver (925), 18k yellow gold plated;;necklaces;;;;;;;;
+245;ladies;rhodium plated, sterling silver (925);;necklaces;;;;;;;;
+246;ladies;14k white gold;1;necklaces;si2;j, k;bezel;round;1.1;diamond;;
+247;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;3
+248;ladies;14k white gold;1;necklaces;i1;h, g;prong;round;0.65;diamond;;
+249;;sterling silver (925), 18k yellow gold plated;;fashion rings;;;;round;;cz;;6.00
+250;;14k white gold;;earrings;i1;g, h;pave;round;2.90;diamond;;
+251;gents;10k white gold;;wedding bands;;;;;;without stone;modern;6.00
+252;ladies;14k rose gold;1;necklaces;i1;h, g;;round;0.65;diamond;;
+253;ladies;14k yellow gold;1;necklaces;si2;g, h;pave;round;0.27;diamond;;
+254;;18k yellow gold plated, sterling silver (925);;fashion rings;;;;round;;cz;;6.00
+255;ladies;18k white gold;;wedding bands;si2;g;pave;round;0.32;diamond;;2.00
+256;gents;14k yellow gold;;wedding bands;;;;;;without stone;modern;6.00
+257;ladies;sterling silver (925), rhodium plated;1;bracelets;;;bezel, pave;round;;cz, turquoise;;4
+258;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;3
+259;;sterling silver (925), rhodium plated;;fashion rings;;;;round;;cz;;6.00
+260;ladies;14k white gold;1;necklaces;si2;k, j;bezel;round;0.50;diamond;;
+261;ladies;14k white gold;1;necklaces;;;prong;round;1.50;diamond;;
+262;;14k white gold;;engagement rings;;;;;;;;
+263;ladies;sterling silver (925), rhodium plated;;necklaces;;;;;;;;
+264;ladies;14k white gold;1;necklaces;i1;h, g;bezel, pave;round;0.4;diamond;;
+265;ladies;14k white gold;1;necklaces;si2;k, j;pave, bezel;;0.27;diamond;;
+266;ladies;14k white gold;1;necklaces;i1;g, h;pave, prong;round;2.15;diamond;;
+267;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;freshwater pearl, cz;;4
+268;ladies;sterling silver (925), rhodium plated;;bracelets;;;pave;round;;cz;;4
+269;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;
+270;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;;;;;;
+271;ladies;sterling silver (925), rhodium plated;1;bracelets;;;prong;round;;cz;;6
+272;gents;14k yellow gold;;wedding bands;;;;;;without stone;milgrain;6.00
+273;;platinum;;engagement rings;;;;;;;;
+274;ladies;14k white gold;1;necklaces;si2;k, j;pave, prong;round;0.30;diamond;;
+275;ladies;18k yellow gold, sterling silver (925);1;bracelets;;;pave;round;;cz;;6
+276;ladies;14k white gold;1;necklaces;i1;g, h;pave, bezel;round;0.2;diamond;;
+277;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;;;;;;3
+278;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;prong;round;;cz;;4
+279;ladies;sterling silver (925), 18k rose gold plated;1;bracelets;;;pave;round;;cz;;3
+280;gents;palladium;;wedding bands;;;;;;without stone;modern;5.00
+281;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave;round;;cz;;4
+282;ladies;sterling silver (925), rhodium plated;1;bracelets;;;;;;;;
+283;ladies;14k yellow gold;1;necklaces;i1;g, h;pave;round;1.25;diamond;;
+284;gents;14k white gold;;wedding bands;;;;;;without stone;modern;8.00
+285;ladies;14k rose gold;;wedding bands;;;;;;without stone;modern;2.00
+286;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;
+287;ladies;18k yellow gold plated, sterling silver (925);1;bracelets;;;pave;round;;cz;;3
+288;ladies;18k yellow gold;;wedding bands;;;;;;without stone;modern;4.00
+289;ladies;rhodium plated, sterling silver (925);1;bracelets;;;pave;round;;cz;;12
+290;;14k white gold;;engagement rings;;;;;;;;
+291;ladies;14k white gold;1;necklaces;si2;g, h;pave;round;0.24;diamond;;
+292;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave;round;;cz;;3
+293;gents;platinum;;wedding bands;;;;;;without stone;milgrain;6.00
+294;ladies;sterling silver (925), rhodium plated;;bracelets;;;pave;round;;cz;;4
+295;;18k white gold;;engagement rings;;;;;;;;
+296;ladies;14k white gold;1;necklaces;si2;g, h;pave;round;0.43;diamond;;
+297;;14k white gold;;engagement rings;;;;;;;;
+298;ladies;sterling silver (925), 18k yellow gold plated;;bracelets;;;pave;round;;cz;;3
+299;ladies;sterling silver (925), rhodium plated;1;bracelets;;;;;;;;3
+300;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave;round;;cz;;
+301;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;3
+302;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave;round;;cz;;3
+303;gents;platinum;;wedding bands;si2;g;bezel;round;0.32;diamond;;6.00
+304;gents;14k rose gold;;wedding bands;;;;;;without stone;milgrain;8.00
+305;ladies;palladium;;wedding bands;;;;;;without stone;modern;3.50
+306;gents;tungsten, black ceramic;;wedding bands;;;;;;;modern;8.00
+307;gents;cobalt;;wedding bands;;;prong;round;0.25;cz;vintage;
+308;gents;tungsten, black ceramic;;wedding bands;;;;;;;modern;8.00
+309;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave;round;;cz;;
+310;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave;round;;cz;;3
+311;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave;round;;cz;;4
+312;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;6
+313;;rhodium plated, sterling silver (925);;fashion rings;;;;round;;cz;;6.00
+314;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave;round;;cz;;3
+315;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;6
+316;ladies;sterling silver (925), rhodium plated;1;bracelets;;;;;;;;
+317;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;3
+318;;14k white gold;;engagement rings;;;;;;;;
+319;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave;round;;cz;;4
+320;ladies;sterling silver (925), 18k yellow gold plated;;necklaces;;;;;;;;
+321;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave;round;;cz;;23
+322;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave;round;;cz;;3
+323;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;
+324;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave;round;;cz;;16
+325;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;
+326;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave;round;;cz;;12
+327;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave, bezel;round;;cz, turquoise;;4
+328;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;pave;round;;cz;;
+329;ladies;sterling silver (925), 18k rose gold plated;1;bracelets;;;pave;round;;cz;;3
+330;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;3
+331;ladies;sterling silver (925), rhodium plated;1;bracelets;;;pave;round;;cz;;
+332;ladies;14k white gold;1;necklaces;i1;g, h;pave;round;0.8;diamond;;
+333;ladies;14k white gold;1;necklaces;si2;h, g;pave;round;1.41;diamond;;
+334;ladies;14k white gold;1;necklaces;si2;k, j;bezel;round;0.40;diamond;;
+335;ladies;14k white gold;1;necklaces;;;pave;round;0.15;diamond;;
+336;ladies;14k white gold;1;necklaces;;;pave;round;2.00;diamond;;
+337;ladies;sterling silver (925), 18k yellow gold plated;1;bracelets;;;;;;cz;;3
+338;ladies;14k yellow gold, 14k white gold;1;necklaces;i1;h, g;pave;round;0.30;diamond;;
+339;ladies;14k white gold;1;necklaces;i1;g, h;pave, bezel;round;0.45;diamond;;
+340;;platinum;;engagement rings;;;;;;;;
+341;;14k white gold;;engagement rings;;;;;;;;
+342;ladies;14k white gold;1;necklaces;i1;h, g;pave, bezel;round;0.30;diamond;;
+343;;14k white gold;;engagement rings;;;;;;;;
+344;;18k white gold;;engagement rings;;;;;;;;
+345;ladies;14k yellow gold;1;necklaces;i1;g, h;pave;round;0.80;diamond;;
+346;;platinum;;engagement rings;;;;;;;;
+347;ladies;14k yellow gold;;wedding bands;;;;;;without stone;modern;3.50
+348;gents;10k white gold;;wedding bands;;;;;;without stone;modern;8.00
+349;gents;14k yellow gold, 14k white gold;;wedding bands;;;;;;without stone;milgrain;6.00
+350;gents;14k yellow gold, 14k white gold;;wedding bands;;;;;;without stone;milgrain;8.00
+351;ladies;palladium;;wedding bands;;;;;;without stone;milgrain;4.00
+352;gents;14k yellow gold;;wedding bands;;;;;;without stone;modern;6.00
+353;gents;18k white gold;;wedding bands;;;;;;without stone;milgrain;6.00
+354;gents;palladium;;wedding bands;;;;;;without stone;;8.00
+355;gents;14k yellow gold;;wedding bands;;;;;;without stone;;8.00
+356;ladies;14k white gold;;wedding bands;si2;g;pave;round;0.18;diamond;modern;7.00
+357;gents;palladium;;wedding bands;;;;;;without stone;milgrain;8.00
+358;ladies;18k yellow gold;;wedding bands;;;;;;without stone;modern;3.50
+359;gents;18k white gold;;wedding bands;;;;;;without stone;modern;7.50
+360;gents;10k white gold;;wedding bands;;;;;;without stone;modern;6.00
+361;gents;palladium;;wedding bands;;;;;;without stone;milgrain;6.00
+362;gents;14k rose gold;;wedding bands;;;;;;without stone;;8.00
+363;gents;10k white gold;;wedding bands;;;;;;without stone;modern;7.50
+364;ladies;14k yellow gold;;wedding bands;si2;g;pave;round;0.18;diamond;modern;7.00
+365;ladies;14k white gold;;wedding bands;si2;g;prong;round;0.24;diamond;modern;2.00
+366;gents;tungsten, black ceramic;;wedding bands;;;;;;;modern;8.00
+367;gents;14k rose gold;;wedding bands;si2;g;channel;round;0.42;diamond;modern;6.00
+368;gents;tungsten, black ceramic;;wedding bands;;;;;;;modern;8.00
+369;gents;palladium;;wedding bands;;;;;;without stone;modern;6.00
+370;gents;14k white gold, 14k yellow gold;;wedding bands;;;;;;without stone;;8.00
+371;gents;18k white gold;;wedding bands;;;;;;without stone;modern;7.50
+372;gents;14k yellow gold, 14k white gold;;wedding bands;;;;;;without stone;milgrain;8.00
+373;gents;platinum;;wedding bands;;;;;;without stone;milgrain;6.00
+374;gents;10k white gold;;wedding bands;;;;;;without stone;modern;6.00
+375;gents;14k yellow gold;;wedding bands;;;;;;without stone;modern;5.00
+376;gents;14k rose gold;;wedding bands;;;;;;without stone;modern;7.00
+377;ladies;10k yellow gold;;wedding bands;;;;;;without stone;modern;3.50
+378;gents;14k rose gold;;wedding bands;;;;;;without stone;milgrain;6.00
+379;gents;14k yellow gold;;wedding bands;;;;;;without stone;modern;8.00
+380;gents;10k white gold;;wedding bands;;;;;;without stone;milgrain;6.00
+381;gents;10k white gold;;wedding bands;;;;;;without stone;modern;7.50
+382;gents;14k yellow gold;;wedding bands;;;;;;without stone;modern;6.50
+383;ladies;14k white gold;;wedding bands;si2;g;channel;round;0.40;diamond;modern;7.50
+384;ladies;10k white gold;;wedding bands;;;;;;without stone;modern;3.50
+385;gents;tungsten, black ceramic;;wedding bands;;;;;;;modern;8.00
+386;ladies;18k yellow gold;;wedding bands;si2;g;channel;round;0.40;diamond;modern;7.50
+387;gents;14k rose gold;;wedding bands;;;;;;without stone;modern;6.00
+388;gents;14k yellow gold;;wedding bands;;;;;;without stone;modern;6.00
+389;gents;18k white gold;;wedding bands;;;;;;without stone;modern;8.00
+390;gents;10k white gold;;wedding bands;;;;;;without stone;modern;8.00
+391;ladies;platinum;;wedding bands;;;;;;without stone;modern;3.50
+392;gents;platinum;;wedding bands;si2;g;channel;round;0.42;diamond;modern;6.00
+393;gents;14k rose gold;;wedding bands;;;;;;without stone;modern;6.00
+394;gents;10k yellow gold;;wedding bands;;;;;;without stone;modern;6.50
+395;gents;palladium;;wedding bands;;;;;;without stone;modern;5.50
+396;gents;14k white gold;;wedding bands;;;;;;without stone;modern;7.50
+397;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;6.50
+398;gents;palladium;;wedding bands;;;;;;without stone;milgrain;6.00
+399;gents;14k rose gold;;wedding bands;;;;;;without stone;milgrain;6.00
+400;gents;palladium;;wedding bands;;;;;;without stone;modern;5.50
+401;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;6.50
+402;ladies;18k white gold;;wedding bands;si2;g;channel;round;0.40;diamond;modern;7.50
+403;gents;10k yellow gold;;wedding bands;;;;;;without stone;modern;6.50
+404;gents;14k white gold;;wedding bands;si2;g;bezel;round;0.32;diamond;;6.00
+405;;14k white gold;;earrings;i1;h, g;prong;round;0.55;;;
+406;gents;platinum;;wedding bands;;;;;;without stone;modern;6.00
+407;gents;18k white gold;;wedding bands;;;;;;without stone;modern;6.00
+408;gents;18k white gold;;wedding bands;;;;;;without stone;modern;6.00
+409;ladies;10k yellow gold;;wedding bands;;;;;;without stone;milgrain;4.00
+410;gents;18k white gold;;wedding bands;si2;g;channel;round;0.42;diamond;modern;6.00
+411;gents;platinum;;wedding bands;;;;;;without stone;modern;6.50
+412;gents;platinum;;wedding bands;;;;;;without stone;modern;8.00
+413;gents;14k yellow gold;;wedding bands;si2;g;bezel;round;0.32;diamond;;6.00
+414;gents;14k yellow gold;;wedding bands;si2;g;burnished;round;0.18;diamond;modern;6.00
+415;ladies;palladium;;wedding bands;;;;;;without stone;modern;4.00
+416;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;6.00
+417;gents;palladium;;wedding bands;si2;g;bezel;round;0.32;diamond;;6.00
+418;ladies;14k yellow gold;;wedding bands;;;;;;without stone;modern;2.00
+419;ladies;14k yellow gold;;wedding bands;si2;g;channel;round;0.40;diamond;modern;7.50
+420;;platinum;;engagement rings;;;;;;;;
+421;gents;platinum;;wedding bands;;;;;;without stone;modern;6.00
+422;ladies;14k white gold;1;necklaces;si2;g, h;pave;round;1.62;diamond;;
+423;gents;14k rose gold;;wedding bands;;;;;;without stone;modern;7.50
+424;ladies;platinum;;wedding bands;;;;;;without stone;modern;2.50
+425;gents;14k rose gold;;wedding bands;;;;;;without stone;modern;6.00
+426;gents;14k rose gold;;wedding bands;;;;;;without stone;modern;6.00
+427;gents;18k yellow gold;;wedding bands;;;;;;without stone;modern;6.00
+428;gents;10k yellow gold;;wedding bands;;;;;;without stone;milgrain;6.00
+429;ladies;platinum;;wedding bands;si2;g;prong;round;0.24;diamond;modern;2.00
+430;ladies;14k white gold;1;necklaces;i1;g, h;pave;round;0.35;diamond;;
+431;ladies;14k yellow gold;1;necklaces;i1;h, g;pave;round;0.88;diamond;;
+432;gents;zirconium;;wedding bands;;;;;;without stone;modern;7
+433;ladies;14k white gold;1;necklaces;i1;h, g;prong, pave;round;0.30;diamond;;
+434;;14k white gold;1;necklaces;i1;g, h;pave;round;0.80;diamond;;

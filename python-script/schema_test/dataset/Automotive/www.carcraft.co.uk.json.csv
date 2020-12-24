@@ -1,0 +1,139 @@
+KeyCol;0 - 60 mph;body;co2 emissions;colour;combined mpg;drivetrain;engine size;extra urban mpg;fuel;ins. group;mileage;no. doors;power;road tax;top speed;transmission;urban mpg
+1;0 - 60 in 13.6 secs;;127 co2 (g/km);;57.6 mpg;front wheel drive;;64.2 mpg;;18e;;;115 bhp;£110.00 p.a.;112 mph;;48.7 mpg
+2;;estate;;silver;;;1,968.0;;diesel;;103,000 miles;5;;;;manual;
+3;0 - 60 in 9.7 secs;;158 co2 (g/km);;47.9 mpg;front wheel drive;;60.1 mpg;;27e;;;140 bhp;£185.00 p.a.;131 mph;;35.3 mpg
+4;0 - 60 in 8 secs;hatchback;174 co2 (g/km);;43.5 mpg;four wheel drive;2.2;49.6 mpg;diesel;33e;34,000 miles;unknown;190 bhp;£210.00 p.a.;121 mph;automatic;35.8 mpg
+5;0 - 60 in 7.1 secs;;124 co2 (g/km);;60.1 mpg;front wheel drive;;67.3 mpg;;34e;;;184 bhp;£110.00 p.a.;149 mph;;51.4 mpg
+6;0 - 60 in 13.8 secs;;187 co2 (g/km);;39.8 mpg;four wheel drive;;47.9 mpg;;22d;;;111 bhp;£270.00 p.a.;104 mph;;30.7 mpg
+7;;hatchback;;blue;;;1,598.0;;petrol;;112,000 miles;unknown;;;;manual;
+8;;hatchback;;white;;;2,967.0;;diesel;;68,000 miles;unknown;;;;unknown;
+9;0 - 60 in 16 secs;;124 co2 (g/km);;53.3 mpg;front wheel drive;;62.8 mpg;;3e;;;70 bhp;£110.00 p.a.;101 mph;;42.8 mpg
+10;;hatchback;;silver;;;1,461.0;;diesel;;86,600 miles;5;;;;manual;
+11;0 - 60 in 12.3 secs;;99 co2 (g/km);;65.7 mpg;front wheel drive;;74.3 mpg;;3e;;;68 bhp;£20.00 p.a.;98 mph;;55.4 mpg
+12;0 - 60 in 11 secs;hatchback;140 co2 (g/km);silver;48.7 mpg;front wheel drive;1,328.0;57.7 mpg;petrol;16a;62,000 miles;3;92 bhp;£130.00 p.a.;109 mph;manual;38.2 mpg
+13;0 - 60 in 10.7 secs;;158 co2 (g/km);;41.5 mpg;front wheel drive;;47.1 mpg;;14e;;;133 bhp;£185.00 p.a.;111 mph;;34.4 mpg
+14;0 - 60 in 10.7 secs;hatchback;90 co2 (g/km);bianca white;80.7 mpg;front wheel drive;1.6;94.2 mpg;diesel;21d;16,698 miles;5;99 bhp;£20.00 p.a.;116 mph;manual;67.3 mpg
+15;;estate;;green;;;2,993.0;;diesel;;70,300 miles;5;;;;automatic;
+16;0 - 60 in 7.9 secs;;183 co2 (g/km);;36.7 mpg;rear wheel drive;;47.1 mpg;;26e;;;160 bhp;£230.00 p.a.;131 mph;;26.7 mpg
+17;0 - 60 in 13.2 secs;;205 co2 (g/km);;36.7 mpg;four wheel drive;;42.2 mpg;;21e;;;112 bhp;£295.00 p.a.;102 mph;;29.4 mpg
+18;0 - 60 in 13.3 secs;hatchback;79 co2 (g/km);virtual blue metallic;94.2 mpg;front wheel drive;1.6;104.6 mpg;diesel;15d;4 miles;5;75 bhp;£20.00 p.a.;106 mph;manual;78.5 mpg
+19;0 - 60 in 12.8 secs;;145 co2 (g/km);;46.3 mpg;front wheel drive;;56.4 mpg;;10e;;;95 bhp;£145.00 p.a.;115 mph;;34.8 mpg
+20;0 - 60 in 8.5 secs;;159 co2 (g/km);;47.1 mpg;front wheel drive;;60.1 mpg;;34e;;;152 bhp;£185.00 p.a.;137 mph;;34 mpg
+21;0 - 60 in 8.6 secs;;294 co2 (g/km);;25.4 mpg;four wheel drive;;30.7 mpg;;47e;;;268 bhp;£515.00 p.a.;124 mph;;19.6 mpg
+22;;hatchback;;black;;;1,149.0;;petrol;;25,000 miles;3;;;;manual;
+23;;coupe;;silver;;;1,796.0;;petrol;;44,000 miles;3;;;;automatic;
+24;;hatchback;;blue;;;1,798.0;;petrol;;89,000 miles;5;;;;manual;
+25;0 - 60 in 10.7 secs;;127 co2 (g/km);;57.6 mpg;front wheel drive;;67.3 mpg;;19e;;;120 bhp;£110.00 p.a.;127 mph;;46.3 mpg
+26;0 - 60 in 9.5 secs;hatchback;125 co2 (g/km);black;58.9 mpg;front wheel drive;1,968.0;68.9 mpg;diesel;19e;104,492 miles;5;140 bhp;£110.00 p.a.;127 mph;manual;46.3 mpg
+27;0 - 60 in 11.7 secs;;109 co2 (g/km);;68.9 mpg;front wheel drive;;76.3 mpg;;18e;;;105 bhp;£30.00 p.a.;121 mph;;56.5 mpg
+28;;hatchback;;ara blue metallic;;;1.4;;petrol;;4,000 miles;5;;;;unknown;
+29;;hatchback;;blue;;;1,398.0;;petrol;;30,500 miles;5;;;;manual;
+30;;hatchback;;white;;;1,248.0;;petrol;;80,000 miles;5;;;;manual;
+31;0 - 60 in 11.9 secs;;109 co2 (g/km);;67.3 mpg;front wheel drive;;78.5 mpg;;11e;;;105 bhp;£30.00 p.a.;118 mph;;54.3 mpg
+32;;hatchback;;silent silver;;;1.6;;petrol;;20 miles;5;;;;manual;
+33;;hatchback;;black;;;1,598.0;;diesel;;118,280 miles;5;;;;manual;
+34;0 - 60 in 13 secs;hatchback;95 co2 (g/km);raven black metallic;68.9 mpg;front wheel drive;1.0;78.5 mpg;petrol;7e;1,651 miles;5;68 bhp;£20.00 p.a.;99 mph;manual;56.5 mpg
+35;0 - 60 in 12.4 secs;;123 co2 (g/km);;60.1 mpg;four wheel drive;;60.1 mpg;;11e;;;109 bhp;£110.00 p.a.;104 mph;;58.9 mpg
+36;0 - 60 in 7.5 secs;estate;195 co2 (g/km);white;38.2 mpg;four wheel drive;3.0;42.2 mpg;diesel;43a;64,000 miles;unknown;245 bhp;£270.00 p.a.;130 mph;automatic;32.5 mpg
+37;;hatchback;;black;;;1,596.0;;petrol;;55,000 miles;2;;;;manual;
+38;0 - 60 in 8.5 secs;convertible;212 co2 (g/km);blue;31.7 mpg;front wheel drive;1,998.0;39.8 mpg;petrol;31e;94,000 miles;2;175 bhp;£295.00 p.a.;137 mph;manual;23.7 mpg
+39;;4x4;;pearl silver;;;2,987.0;;diesel;;32,889 miles;5;;;;automatic;
+40;0 - 60 in 12.9 secs;;111 co2 (g/km);;60.1 mpg;front wheel drive;;65.7 mpg;;9u;;;69 bhp;£30.00 p.a.;99 mph;;51.4 mpg
+41;0 - 60 in 11 secs;;109 co2 (g/km);;67.3 mpg;front wheel drive;;76.4 mpg;;15e;;;115 bhp;£30.00 p.a.;120 mph;;55.4 mpg
+42;0 - 60 in 12.3 secs;;166 co2 (g/km);;39.8 mpg;front wheel drive;;51.4 mpg;;11e;;;102 bhp;£210.00 p.a.;118 mph;;29.4 mpg
+43;;convertible;;silver;;;2.1;;diesel;;41,850 miles;2;;;;automatic;
+44;0 - 60 in 4.6 secs;coupe;285 co2 (g/km);blue;23.7 mpg;rear wheel drive;4.0;31.4 mpg;petrol;43a;63,000 miles;unknown;420 bhp;£515.00 p.a.;155 mph;automatic;16.6 mpg
+45;0 - 60 in 15 secs;hatchback;130 co2 (g/km);blue;50.4 mpg;front wheel drive;1,149.0;61.4 mpg;petrol;9e;90,000 miles;3;60 bhp;£110.00 p.a.;96 mph;manual;39.2 mpg
+46;0 - 60 in 5.6 secs;saloon;129 co2 (g/km);black;57.6 mpg;rear wheel drive;3.0;65.7 mpg;diesel;38d;67,000 miles;unknown;258 bhp;£110.00 p.a.;155 mph;automatic;47.1 mpg
+47;0 - 60 in 7.1 secs;estate;376 co2 (g/km);blue;17.7 mpg;four wheel drive;4,196.0;23.1 mpg;petrol;42e;80,023 miles;5;400 bhp;£515.00 p.a.;130 mph;automatic;12.6 mpg
+48;0 - 60 in 12.6 secs;;147 co2 (g/km);;51.4 mpg;front wheel drive;;61.4 mpg;;18e;;;90 bhp;£145.00 p.a.;109 mph;;40.4 mpg
+49;;hatchback;;milano red;;;2.0;;petrol;;67,000 miles;3;;;;manual;
+50;;coupe;;silver;;;2,494.0;;petrol;;14,000 miles;2;;;;automatic;
+51;0 - 60 in 13 secs;hatchback;95 co2 (g/km);black metallic;68.9 mpg;front wheel drive;1.0;78.5 mpg;petrol;6e;18,126 miles;3;68 bhp;£20.00 p.a.;99 mph;manual;56.5 mpg
+52;0 - 60 in 12.5 secs;;130 co2 (g/km);;57.6 mpg;four wheel drive;;64.2 mpg;;10e;;;90 bhp;£110.00 p.a.;109 mph;;48.7 mpg
+53;;convertible;;blue;;;3.2;;petrol;;73,000 miles;2;;;;automatic;
+54;0 - 60 in 13.3 secs;hatchback;124 co2 (g/km);silver;52.3 mpg;front wheel drive;1,242.0;65.7 mpg;petrol;6e;41,900 miles;3;82 bhp;£110.00 p.a.;104 mph;manual;39.8 mpg
+55;0 - 60 in 8.6 secs;hatchback;109 co2 (g/km);blue;67.3 mpg;front wheel drive;1,968.0;76.3 mpg;diesel;19e;79,000 miles;5;150 bhp;£30.00 p.a.;134 mph;manual;55.4 mpg
+56;;convertible;;black;;;2,996.0;;petrol;;114,000 miles;2;;;;automatic;
+57;0 - 60 in 12.5 secs;hatchback;109 co2 (g/km);silver;60.1 mpg;front wheel drive;1.0;68.9 mpg;petrol;10e;54,000 miles;unknown;100 bhp;£30.00 p.a.;115 mph;manual;48.7 mpg
+58;0 - 60 in 5.2 secs;;206 co2 (g/km);;32.1 mpg;four wheel drive;;40.9 mpg;;37e;;;310 bhp;£295.00 p.a.;155 mph;;23.2 mpg
+59;;coupe;;silver;;;1,984.0;;petrol;;33,028 miles;3;;;;automatic;
+60;;hatchback;;silver;;;1,248.0;;diesel;;95,329 miles;5;;;;manual;
+61;;estate;;black;;;2,400.0;;diesel;;48,000 miles;5;;;;automatic;
+62;0 - 60 in 13.3 secs;hatchback;124 co2 (g/km);silver;52.3 mpg;front wheel drive;1,242.0;65.7 mpg;petrol;6e;55,000 miles;3;82 bhp;£110.00 p.a.;104 mph;manual;39.8 mpg
+63;;hatchback;;silver;;;1.3;;petrol;;27,000 miles;5;;;;automatic;
+64;0 - 60 in 8.2 secs;;164 co2 (g/km);;45.6 mpg;front wheel drive;;56.5 mpg;;31e;;;190 bhp;£185.00 p.a.;142 mph;;34 mpg
+65;0 - 60 in 11.9 secs;estate;228 co2 (g/km);silver;32.8 mpg;four wheel drive;2,497.0;38.7 mpg;diesel;31d;76,000 miles;5;168 bhp;£500.00 p.a.;113 mph;automatic;25.7 mpg
+66;0 - 60 in 10.8 secs;;109 co2 (g/km);;67.3 mpg;front wheel drive;;76.4 mpg;;15e;;;115 bhp;£30.00 p.a.;120 mph;;55.4 mpg
+67;;hatchback;;white;;;1,995.0;;petrol;;18,000 miles;5;;;;manual;
+68;0 - 60 in 9.4 secs;;99 co2 (g/km);;65.7 mpg;front wheel drive;;76.4 mpg;;15e;;;125 bhp;£20.00 p.a.;122 mph;;52.3 mpg
+69;0 - 60 in 9.7 secs;hatchback;99 co2 (g/km);black;74.4 mpg;front wheel drive;1,560.0;83.1 mpg;diesel;18e;75,264 miles;3;115 bhp;£20.00 p.a.;118 mph;manual;61.4 mpg
+70;;convertible;;black;;;1.6;;petrol;;109,000 miles;2;;;;manual;
+71;0 - 60 in 10.5 secs;;99 co2 (g/km);;74.3 mpg;front wheel drive;;83.1 mpg;;14e;;;105 bhp;£20.00 p.a.;118 mph;;64.2 mpg
+72;0 - 60 in 16 secs;hatchback;110 co2 (g/km);blue;67.3 mpg;front wheel drive;1,396.0;74.3 mpg;diesel;10e;84,551 miles;5;74 bhp;£30.00 p.a.;101 mph;manual;55.4 mpg
+73;0 - 60 in 8.9 secs;;119 co2 (g/km);;54.3 mpg;front wheel drive;;64.2 mpg;;15e;;;122 bhp;£30.00 p.a.;126 mph;;43.5 mpg
+74;0 - 60 in 11.6 secs;hatchback;119 co2 (g/km);black;60.1 mpg;front wheel drive;1,582.0;68.9 mpg;diesel;16e;121,000 miles;5;113 bhp;£30.00 p.a.;117 mph;manual;49.6 mpg
+75;0 - 60 in 11.7 secs;;119 co2 (g/km);;55.4 mpg;front wheel drive;;65.7 mpg;;12e;;;99 bhp;£30.00 p.a.;109 mph;;43.5 mpg
+76;0 - 60 in 9.4 secs;;99 co2 (g/km);;65.7 mpg;front wheel drive;;76.4 mpg;;15e;;;125 bhp;£20.00 p.a.;122 mph;;52.3 mpg
+77;0 - 60 in 13 secs;hatchback;139 co2 (g/km);black;48.7 mpg;front wheel drive;1,229.0;60.1 mpg;petrol; ;57,467 miles;5;80 bhp;£130.00 p.a.;104 mph;manual;36.7 mpg
+78;;hatchback;;white;;;1,995.0;;diesel;;44,000 miles;5;;;;manual;
+79;0 - 60 in 11 secs;estate;270 co2 (g/km);silver;27.7 mpg;four wheel drive;2,720.0;33.2 mpg;diesel;35e;89,000 miles;5;188 bhp;£515.00 p.a.;112 mph;automatic;21.6 mpg
+80;;hatchback;;silver;;;1,598.0;;diesel;;15,000 miles;5;;;;manual;
+81;;coupe;;silver;;;3,189.0;;petrol;;70,551 miles;3;;;;automatic;
+82;0 - 60 in 12.9 secs;;110 co2 (g/km);;65.7 mpg;front wheel drive;;76.3 mpg;;13e;;;92 bhp;£30.00 p.a.;113 mph;;52.3 mpg
+83;;hatchback;;silver;;;1,390.0;;petrol;;29,000 miles;3;;;;manual;
+84;;hatchback;;blue;;;1,332.0;;petrol;;105,000 miles;5;;;;manual;
+85;0 - 60 in 11.7 secs;;127 co2 (g/km);;51.4 mpg;front wheel drive;;60.1 mpg;;8e;;;101 bhp;£110.00 p.a.;109 mph;;41.5 mpg
+86;0 - 60 in 7.6 secs;saloon;153 co2 (g/km);palladium silver;48.7 mpg;rear wheel drive;2.1;62.8 mpg;diesel;34e;76,000 miles;4;170 bhp;£185.00 p.a.;143 mph;automatic;35.8 mpg
+87;0 - 60 in 5.6 secs;saloon;129 co2 (g/km);black;57.6 mpg;rear wheel drive;3.0;65.7 mpg;diesel;38d;20,000 miles;unknown;258 bhp;£110.00 p.a.;155 mph;automatic;47.1 mpg
+88;0 - 60 in 9.7 secs;hatchback;82 co2 (g/km);twilight blue metallic;91.1 mpg;front wheel drive;1.6;97.4 mpg;diesel;20e;12,728 miles;5;120 bhp;£20.00 p.a.;122 mph;manual;80.7 mpg
+89;;hatchback;;blue;;;1,598.0;;diesel;;43,968 miles;5;;;;automatic;
+90;0 - 60 in 9.3 secs;estate;185 co2 (g/km);green;40.4 mpg;four wheel drive;2.2;46.3 mpg;diesel;27e;112,418 miles;unknown;177 bhp;£230.00 p.a.;124 mph;manual;33.6 mpg
+91;0 - 60 in 13 secs;;95 co2 (g/km);;68.9 mpg;front wheel drive;;78.5 mpg;;6e;;;68 bhp;£20.00 p.a.;99 mph;;56.5 mpg
+92;0 - 60 in 10.3 secs;estate;173 co2 (g/km);black;43.5 mpg;four wheel drive;2.2;49.6 mpg;diesel;28e;78,736 miles;unknown;140 bhp;£210.00 p.a.;116 mph;manual;34.9 mpg
+93;;4x4;;marine blue;;;1,998.0;;diesel;;74,627 miles;5;;;;manual;
+94;;convertible;;silver;;;2,799.0;;petrol;;86,000 miles;2;;;;automatic;
+95;0 - 60 in 7.9 secs;;158 co2 (g/km);;40.9 mpg;front wheel drive;;51.4 mpg;;22e;;;160 bhp;£185.00 p.a.;138 mph;;29.7 mpg
+96;0 - 60 in 10.3 secs;hatchback;98 co2 (g/km);pearlescent white pearlescent;74.3 mpg;front wheel drive;1.6;83.1 mpg;diesel;22e;4,943 miles;5;120 bhp;£20.00 p.a.;117 mph;manual;64.2 mpg
+97;;hatchback;;blue;;;1,997.0;;diesel;;77,405 miles;3;;;;manual;
+98;;hatchback;;blue;;;1,368.0;;petrol;;58,741 miles;5;;;;manual;
+99;0 - 60 in 13.2 secs;;132 co2 (g/km);;49.6 mpg;front wheel drive;;60.1 mpg;;7e;;;77 bhp;£130.00 p.a.;103 mph;;38.2 mpg
+100;;hatchback;;black;;;unknown;;unknown;;30,000 miles;5;;;;automatic;
+101;0 - 60 in 5.2 secs;;242 co2 (g/km);;27.2 mpg;four wheel drive;;33.6 mpg;;43e;;;300 bhp;£500.00 p.a.;159 mph;;20.2 mpg
+102;0 - 60 in 9.9 secs;;187 co2 (g/km);;35.8 mpg;front wheel drive;;44.8 mpg;;20e;;;135 bhp;£270.00 p.a.;128 mph;;26.4 mpg
+103;;estate;;glacier white;;;25.0;;petrol;;37,000 miles;5;;;;unknown;
+104;;hatchback;;ingot silver metallic;;;10.0;;petrol;;13,344 miles;3;;;;manual;
+105;0 - 60 in 11.9 secs;;109 co2 (g/km);;67.3 mpg;front wheel drive;;78.5 mpg;;16e;;;105 bhp;£30.00 p.a.;118 mph;;54.3 mpg
+106;;coupe;;estoril blue;;;20.0;;diesel;;49,000 miles;2;;;;automatic;
+107;0 - 60 in 11.6 secs;hatchback;180 co2 (g/km);cayman blue;40.9 mpg;four wheel drive;2.0;48.7 mpg;diesel;23e;56,000 miles;5;150 bhp;£230.00 p.a.;116 mph;automatic;32.1 mpg
+108;0 - 60 in 12.5 secs;;123 co2 (g/km);;53.3 mpg;front wheel drive;;61.4 mpg;;13e;;;90 bhp;£110.00 p.a.;110 mph;;42.8 mpg
+109;;hatchback;;black;;;1,968.0;;diesel;;67,596 miles;5;;;;manual;
+110;0 - 60 in 10.6 secs;hatchback;134 co2 (g/km);blue;48.7 mpg;front wheel drive;1,397.0;58.8 mpg;petrol;15e;54,776 miles;5;95 bhp;£130.00 p.a.;114 mph;manual;37.2 mpg
+111;0 - 60 in 6.7 secs;;157 co2 (g/km);;42.2 mpg;front wheel drive;;51.4 mpg;;27e;;;220 bhp;£185.00 p.a.;143 mph;;31.7 mpg
+112;;hatchback;;silver;;;1,968.0;;diesel;;70,000 miles;5;;;;manual;
+113;0 - 60 in 10.5 secs;mpv;149 co2 (g/km);silver;49.6 mpg;front wheel drive;1,997.0;57.7 mpg;diesel;20e;105,000 miles;5;140 bhp;£145.00 p.a.;123 mph;automatic;39.8 mpg
+114;0 - 60 in 9 secs;estate;244 co2 (g/km);black;30.4 mpg;four wheel drive;3.0;34 mpg;diesel;39e;55,000 miles;unknown;245 bhp;£500.00 p.a.;112 mph;automatic;25.2 mpg
+115;0 - 60 in 13.3 secs;hatchback;137 co2 (g/km);yellow;48.7 mpg;front wheel drive;1.3;55.4 mpg;petrol;14e;73,600 miles;unknown;82 bhp;£130.00 p.a.;106 mph;manual;38.7 mpg
+116;0 - 60 in 9.8 secs;;119 co2 (g/km);;62.8 mpg;front wheel drive;;68.9 mpg;;24e;;;140 bhp;£30.00 p.a.;133 mph;;53.3 mpg
+117;;hatchback;;black;;;1,968.0;;diesel;;131,000 miles;5;;;;manual;
+118;;convertible;;blue;;;2.0;;petrol;;73,000 miles;2;;;;automatic;
+119;0 - 60 in 10.3 secs;;181 co2 (g/km);;37.2 mpg;four wheel drive;;44.8 mpg;;12e;;;161 bhp;£230.00 p.a.;113 mph;;28.5 mpg
+120;0 - 60 in 7.4 secs;estate;182 co2 (g/km);white;40.9 mpg;four wheel drive;2,993.0;44.1 mpg;diesel;45e;66,282 miles;5;258 bhp;£230.00 p.a.;130 mph;automatic;36.2 mpg
+121;0 - 60 in 14.2 secs;;262 co2 (g/km);;30.1 mpg;four wheel drive;;34.4 mpg;;26a;;;137.5 bhp;£515.00 p.a.;98 mph;;24.6 mpg
+122;;hatchback;;moondust silver;;;1.6;;petrol;;66,000 miles;5;;;;manual;
+123;;hatchback;;white;;;1,991.0;;petrol;;33,000 miles;5;;;;automatic;
+124;0 - 60 in 16.1 secs;;128 co2 (g/km);;51.4 mpg;front wheel drive;;62.8 mpg;;4e;;;60 bhp;£110.00 p.a.;98 mph;;38.7 mpg
+125;;hatchback;;silver;;;1,598.0;;petrol;;100,000 miles;5;;;;manual;
+126; ;;365 co2 (g/km);;18.5 mpg;rear wheel drive;;25.7 mpg;; ;;;354 bhp;£515.00 p.a.; ;;12.4 mpg
+127;0 - 60 in 8.3 secs;;145 co2 (g/km);;51.4 mpg;four wheel drive;;60.1 mpg;;27e;;;170 bhp;£145.00 p.a.;140 mph;;40.9 mpg
+128;;hatchback;;silver;;;1,968.0;;diesel;;71,000 miles;5;;;;manual;
+129;;hatchback;;white;;;1,997.0;;diesel;;13,500 miles;5;;;;manual;
+130;0 - 60 in 8.1 secs;saloon;208 co2 (g/km);silver;36 mpg;rear wheel drive;2,720.0;45.6 mpg;diesel;41e;125,048 miles;4;206 bhp;£295.00 p.a.;143 mph;automatic;26.4 mpg
+131;0 - 60 in 9.7 secs;;220 co2 (g/km);;30.4 mpg;four wheel drive;;37.7 mpg;;22e;;;158 bhp;£295.00 p.a.;122 mph;;23 mpg
+132;;hatchback;;blue;;;1,968.0;;diesel;;58,000 miles;5;;;;automatic;
+133;0 - 60 in 14 secs;;140 co2 (g/km);;47.1 mpg;front wheel drive;;56.5 mpg;;9e;;;100 bhp;£130.00 p.a.;110 mph;;37.2 mpg
+134;0 - 60 in 14.2 secs;estate;262 co2 (g/km);silver;30.1 mpg;four wheel drive;2.5;34.4 mpg;diesel;26a;119,000 miles;unknown;137.5 bhp;£515.00 p.a.;98 mph;manual;24.6 mpg
+135;;estate;;silver;;;2,993.0;;diesel;;86,000 miles;unknown;;;;unknown;
+136;;convertible;;black;;;3.6;;petrol;;78,223 miles;2;;;;automatic;
+137;0 - 60 in 12.5 secs;;99 co2 (g/km);;74.3 mpg;front wheel drive;;83.1 mpg;;10e;;;90 bhp;£20.00 p.a.;112 mph;;64.2 mpg
+138;;coupe;;arctic silver metallic;;;3.6;;petrol;;30,000 miles;2;;;;manual;

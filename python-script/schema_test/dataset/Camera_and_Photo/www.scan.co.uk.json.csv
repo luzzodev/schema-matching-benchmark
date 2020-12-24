@@ -1,0 +1,38 @@
+KeyCol;5.1 sound;built in mic;colour;connectivity;dimensions;dynamic range;image formats supported;lcd display;live video frame rate;mega pixel;onboard memory;resolution (still image);resolution (video);sensor type;shooting modes;still image resolution;storage type;video formats supported;video frame rate;video resolution;weight;zoom
+1;;yes;;1 x micro usb 1 x microsd card slot;;;;;; ;;;;;;1600x1600;;;10 fps;1600x1600;;
+2;;no;; ;;;;;; ;;;;;;n/a;;;30 fps;1920x1080 (full hd);;
+3;;;black;;59.7 x 70.6 x 38.1mm mm;;;;;;;;;;;;;;;;270 g;
+4;;;;;;;;;;;;;;;;;;;;4 mp;436g; 
+5;no;;silver;micro usb;58 x 43 x 23 (wxhxd mm); ; ;yes;30 fps;5.0; ;2592x1944;1080x1920;cmos; ;;microsd;jpeg;;;68 g;8 x digital
+6;no;;black;micro usb;82 x 55 x 20 (wxhxd mm); ; ;yes;25/35 fps;2;128 mb;12 mp;1920x1080 (full hd);1/4.5" cmos; ;;microsd microsdhc; ;;;90 g;4 x digital
+7;;no;; ;;;;;;12;;;;;;n/a;;; ; ;;
+8;no;;black;micro usb microsd card slot;38 x 38 x 36.4mm (wxhxd mm); ; ;no;30 - 120 fps;8; ;3264x2448;1920x1440; ; ;;microsd;h.264 mp4;;;74 g; 
+9;;;;; ;;;;;;;;;;;;;;;; ;
+10;no;;black;12g-sdi bnc 10-bit 4:2:2 out 2.5mm lanc input 3.5mm stereo headphone jack bnc reference/timecode in with auto detect sdi video in usb 2.0 mini-b xlr analog mic/line switchable (phantom power);193.4 x 146.8 x 209 (wxhxd mm);12 stops; ;yes;23.98 - 60 fps; ; ; ;4000x2160;super 35; ;;cfast 2.0;apple prores 422 apple prores 422 hq apple prores 422 lt apple prores 444 apple prores 444 xq apple prores proxy cinemadng raw cinemadng raw 3:1;;;2270 g; 
+11;;;;usb 2.0;250 x 370 x 40 (wxhxd);;;;;;;;;;;;;;;;1.6 kg;
+12;yes;;black;a/v out headphone mic micro hdmi usb 2.0 wi-fi;65 x 73 x 139 (wxhxd mm); ;jpeg;yes;50 fps;12.76; ;6528x3672;1920x1080 (full hd);1/2.3 type (1/2.3") bsi mos sensor; ;;sd sdhc sdxc;avchd mpeg-4;;;353 g;1500 x digital 20 x optical
+13;no;;black;3g 4g micro usb wi-fi;55 x 55 x 19 (wxhxd mm); ;dcf jpeg;no;30 fps;8mp;1000 mb;4288x3216;1920x1080 (full hd);8m sensor, 1/4" diagonal; ;;microsd;mp4;;;90.5 g; 
+14;no;;black/ white;usb 2.0;58 x 40 x 23 (wxhxd mm); ;jpeg;yes;30 fps;5.0; ;2592x1944;1280x720 (wxga);cmos; ;;microsd;h.264;;;59 g; 
+15;no;;black;1/4" jack out (headphones) 12g-sdi 10-bit 4:2:2 out 12g-sdi in 2.5mm lanc input 3g-sdi out bnc reference input bnc timecode input bnc timecode output usb 2.0 mini-b xlr analog mic/line switchable (phantom power);153.1 224.7 x 318.7 (wxhxd mm);12 stops; ;yes;23.98 to 60 fps;0; ; ;4000x2160;super 35; ;;cfast 2.0;apple prores 422 apple prores 422 hq apple prores 422 lt apple prores 444 apple prores 444 xq apple prores proxy cinemadng raw cinemadng raw 3:1;;;7400 g; 
+16;no;;black;3.5mm stereo headphone jack hdmi usb 2.0 xlr analog mic/line switchable (phantom power);171x176x329 (wxhxd mm); ; ;yes;1-60 fps;2.2; ; ;1920x1080 (full hd);mos solid state; ;;microp2; ;;;2600 g;10 x digital
+17;no;; ;microsd card slot; ; ; ;yes; ;8; ;8 mp;8 mp;pir; ;; ; ;;;454 g; 
+18;;yes;;1 x mic;;;;;; ;;;;;;n/a;;;30 fps;1280x720 (wxga);;
+19;;;;;;n/a db;;;;;;;;;;;;;;;;
+20;;no;;1 x rj45;;;;;;1.3;;;;;;n/a;;;30 fps;1280x720 (wxga);;
+21;;;black;;110 x 55 x 14 mm;;;;;;;;;;;;;;;;115 g;
+22;;yes;;1 x wireless lan;;;;;; ;;;;;;n/a;;;30 fps;1920x1080 (full hd);;
+23;no;;black;a/v out component out hdmi usb 2.0 video out; ; ; ;no;60 fps;9.4; ; ;4096x2160;1/4.5-type mos; ;;sd;avchd h.264/avc mpeg-4;;; ;60 x digital 21 x optical
+24;no;;dark grey; ;96 x 52 x 26 (wxhxd mm); ; ;yes; ;4;256 mb; ;1920x1080 (full hd);cmos; ;; ; ;;;72 g;10 x digital
+25;no;;black;hdmi usb 2.0 xlr analog mic/line switchable (phantom power);170x170x335 (wxhxd mm); ;dcf exif jpeg;yes;60/100 fps;6.03; ;1920x1080 (full hd);1920x1080 (full hd);1/3.1-type bsi mos sensor; ;;sdhc sdxc;avchd mov mpeg-4;;;1500 g;20 x optical
+26;no;;black;3.5mm stereo headphone jack usb 2.0 xlr analog mic/line switchable (phantom power);140x270.5x335.8 (wxhxd mm); ; ;yes; ;2.2; ; ;1920x1080 (full hd);2/3 rgb; ;;p2; ;;;3.9 g; 
+27;no;;black;12g-sdi bnc 10-bit 4:2:2 in 12g-sdi bnc 10-bit 4:2:2 out 2.5mm lanc input 3.5mm stereo headphone jack bnc reference/timecode in with auto detect usb 2.0 mini-b xlr analog mic/line switchable (phantom power);193.4 x 146.8 x 209 (wxhxd mm);15 stops; ;yes;23.98 to 60 fps; ; ; ;4608x2592;super 35; ;;cfast 2.0;apple prores 422 apple prores 422 hq apple prores 422 lt apple prores 444 apple prores 444 xq apple prores proxy cinemadng raw cinemadng raw 3:1 cinemadng raw 4:1;;;2270 g; 
+28;no;;black;12g-sdi bnc 10-bit 4:2:2 in 12g-sdi bnc 10-bit 4:2:2 out 2.5mm lanc input 3.5mm stereo headphone jack bnc reference/timecode in with auto detect hirose 12-pin usb 2.0 mini-b xlr analog mic/line switchable (phantom power);193.4 x 146.8 x 222.1 (wxhxd mm);15 stops; ;yes;23.98 to 60 fps; ; ; ;4608x2592;super 35; ;;cfast 2.0 compact flash ii;apple prores 422 apple prores 422 hq apple prores 422 lt apple prores 444 apple prores 444 xq apple prores proxy cinemadng raw cinemadng raw 3:1 cinemadng raw 4:1;;;2510 g; 
+29;;;;;;;;;;;;;;;;;;;;1280x720 (wxga) 1920x1080 (full hd);568g;4x
+30;;yes;;1 x digital input 1 x digital output 1 x microsdhc card slot 1 x rj45;;;;;;2;;;;;;2 mp;;;30 fps;1920x1080 (full hd);;
+31;no;;black/ yellow;hdmi nfc usb 2.0 wi-fi;41 x 50 x 38mm (wxhxd mm); ; ;yes;30 fps;16.36;8 mb;3264x2448;1920x1080 (full hd);cmos; ;;microsd microsdhc; ;;;103 g; 
+32;;; ;;;;;;;;;;;;;;;;;;;
+33;no;;black; ; ; ; ;yes; ;18.47; ; ;4096x2160;1/2.3" mos; ;;sd;avchd mov mp4;;; ;10 x digital 20 x optical
+34;;yes;;1 x lan 1 x wi-fi;;;;;; ;;;;;;n/a;;;up to 30 fps;640x480;;
+35;;;;;;;;;;;;;;;;;;;;1280x720 (wxga);113 g;yes
+36;no;;black;3.5mm stereo headphone jack hdmi lan (10/100) usb 2.0 wi-fi xlr analog mic/line switchable (phantom power);144x267x350 (wxhxd mm); ; ;yes;60 fps;2.2; ; ;1920x1080 (full hd);2/3 3mos; ;;p2; ;;;2.8 g;4 x digital
+37;no;;black;1/4" jack out (headphones) 12g-sdi 10-bit 4:2:2 out 12g-sdi in 2.5mm lanc input 3g-sdi out bnc reference input bnc timecode input bnc timecode output usb 2.0 mini-b xlr analog mic/line switchable (phantom power);153.1 224.7 x 333.7 (wxhxd mm);15 stops; ;yes;23.98 to 60 fps;0; ; ;4608x2592;super 35; ;;cfast 2.0;apple prores 422 apple prores 422 hq apple prores 422 lt apple prores 444 apple prores 444 xq apple prores proxy cinemadng raw 3:1 cinemadng raw 4:1;;;7400 g; 

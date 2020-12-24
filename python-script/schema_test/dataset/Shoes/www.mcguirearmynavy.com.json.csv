@@ -1,0 +1,27 @@
+KeyCol;list price:;our price:;quantity;size;sku
+1;;$99.00;1 2 3 4 5 6 7 8 9 10 11 12;;bt-420-cy-11.5r
+2;;$99.99;1 2 3 4 5 6 7 8 9 10 11 12;6r 6.5r 7r 7.5r 8r 8.5r 9r 9.5r 10r 10.5r;bt-574-bk-6r
+3;;$99.99;1 2;7r 7w 7.5 7.5w 7.5xw 8r 8.5r 8.5w 9r 9w 9.5r 9.5w 9.5xw 10r 10w 10xw 10.5r 10.5w 10.5xw 11r 11w 11xw 11.5r 11.5w 11.5xw 12r 12w 12xw 12.5r 12.5w 12.5xw 13r 13w 13xw 13.5r 13.5w 13.5xw;bt-170-tn-7
+4;;$84.99;1 2 3 4 5 6 7 8 9 10 11 12;4r 5r 5.5r 6r 6.5r 7r 7w 7.5w 10.5w 11r 11w 11.5r 11.5w 12w 12.5r 12.5w;bt-528-bk-4r
+5;$34.50;$19.99;1 2 3 4 5 6 7 8 9 10;x-small short x-small regular small short medium regular medium long large long x-large regular x-large long x-large x-long 2x-large regular 2x-large long 2x-large x-long;uw-671-sn-xss
+6;$150.00;$84.99;1 2 3 4 5 6 7 8 9 10 11 12;;bt-508-tn-4r
+7;$89.99;$54.99;1 2;5w 5.5d 6w 7xw 7.5xw 8xw 8.5w 8.5xw 9c 9w 9xw 9.5c 9.5w 9.5xw 10w 10xw 10.5c 10.5w 10.5xw 11w 11xw 11.5w 11.5xw 12w 12xw 12.5w 13c 13d 13w 13.5d 14w 15d;sho-150-bk-5w
+8;$199.99;$149.99;out of stock;6r 6w 6.5r 6.5 w 7r 7w 7.5r 7.5 w 8r 8w 8.5r 8.5w 9 w 9.5 w 10w 11w 11.5w 15 r;bt-450-sg-6d
+9;;$31.99;1 2 3 4 5 6 7 8 9 10 11 12;;bt-isht-fg-3
+10;;$44.99;1 2 3 4 5 6 7 8 9 10 11 12;24xs 24s 28xs 28s 28r 32xs 32s x-small x-short x-small short small short small regular small long medium x-short medium short medium regular medium long medium x-long large regular large long;pa-124-dm-24xs
+11;;$44.99;1 2 3 4 5 6 7 8 9 10 11 12;24xs 24s 28xs 28s 28r 32xs 32s x-small x-short x-small short small short small regular small long medium x-short medium short medium regular medium long medium x-long large regular large long;pa-124-dm-24xs
+12;;$31.99;1 2 3 4 5 6 7 8 9 10 11 12;;bt-islt-wh-13
+13;;$84.99;out of stock;11r 11w 12w 8r 9.5r 9.5w;bt-532-bk-11r
+14;$129.99;$76.99;1 2 3 4 5 6 7 8 9 10 11 12;;bt-150-bk-5r
+15;;$119.99;1;;bt-614-tn-6r
+16;;$3.49;1 2 3 4 5 6 7 8 9 10 11 12;small medium large x-large;so-405-bk-s
+17;;$12.99;1 2 3 4 5 6 7 8 9 10 11 12;x-small small medium large x-large;ha-250-bk-s
+18;$199.99;;1;10.5xw 10w 12r 12w 12xw 13.5r 13.5xw 14r 15.5r 16r 6.5w 6xw 7.5r 7xw 8.5r 8.5xw 8xw 9.5w;bt-586-sg-10w
+19;;$89.99;1 2 3;;bt-250-od-12.5r
+20;;$99.00;1 2 3 4 5 6 7 8 9 10 11 12;;bt-424-cy-11.5w
+21;$125.00;$84.99;1 2 3 4 5 6 7 8 9 10 11 12;7r 7w 7.5r 7.5w 8r 8w 9r 8.5r 9w 9.5w 10r 10w 10.5r 10.5w 11r 11w 11.5r 11.5w 12w 12.5r 12.5w 13r 13w;bt-500-bk-12w
+22;;$9.99;1 2 3 4 5 6 7 8 9 10 11 12;6 3/4 7 7 1/4 7 1/2 7 3/4;ha-260-bk-6.75
+23;$129.99;$29.99;out of stock;;bt-715-bk-5r
+24;;$16.99;1 2 3 4 5 6 7 8 9 10 11 12;6 3/4 7 7 1/4 7.5 7 3/4;ha-115-od-6.75
+25;$99.99;$39.99;1 2 3 4 5 6 7 8 9 10 11 12;small medium large x-large;gv-100-tn-m
+26;$430.05;$214.99;1 2 3;36s 36xs 38xs 38s 38r 40l 42xs 42s 42r 42l 44s 44r 44xs 44l 46xl;ct-250-bl-38xs

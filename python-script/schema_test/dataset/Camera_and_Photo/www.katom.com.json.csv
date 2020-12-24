@@ -1,0 +1,23 @@
+KeyCol;application;category;color;depth (in);height (in);interior cubic feet;lock type;manufacturer;type;warranty;weight;width (in)
+1;mobile;;;30;24;;;new age;marine edge;;49.00;
+2;;kitchen appliances;stainless;19;8;;;summit;range hood;1 year parts & labor;29.00;20
+3;;;black;24;71;21.1;electronic;mesa;;;860.00;36
+4;;;;;;;;hatco;conveyor;;52.00;
+5;mobile;;black;;74;;;focus;;;3.35;
+6;;;;21.625;26.25;3;electronic;mesa;;;589.00;21.625
+7;;commercial coffee makers;;17.75;36;;;grindmaster;satellite brewers;two year parts and labor warranty;145.00;22.5
+8;;;black;22;59;14;electronic;mesa;;;668.00;32
+9;;;;;22.125;.7;electronic;mesa;wall;;225.00;6
+10;;kitchen appliances;stainless;19;8;;;summit;range hood;1 year parts & labor;37.00;36
+11;;foodservice apparel;black;;;;;chef revival;bib aprons;;0.90;
+12;mobile;;black;;33;;;focus;;;1.50;
+13;;;black;24;34.5;;;summit;wall oven;1 year parts & labor;155.00;24
+14;;coffee grinders;;10;22.4;;;bunn;portion control grinders;;29.26;8.3
+15;stationary;;;30;24;;;new age;marine edge;;47.00;
+16;;commercial coffee makers;;17.75;36;;;grindmaster;satellite brewers;two year parts and labor warranty;145.00;22.5
+17;;;;21.625;40;5;electronic;mesa;;;831.00;21.625
+18;;;black;19.25;27.5;2.1;electronic;mesa;;;300.00;19.75
+19;;kitchen appliances;stainless;19;8;;;summit;range hood;1 year parts & labor;32.00;24
+20;mobile;;;30;24;;;new age;marine edge;;57.00;
+21;mobile;;black;;86;;;focus;;;4.00;
+22;;kitchen appliances;stainless;19;8;;;summit;range hood;1 year parts & labor;34.00;30

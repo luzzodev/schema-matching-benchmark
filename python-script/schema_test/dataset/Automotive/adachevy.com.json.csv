@@ -1,0 +1,246 @@
+KeyCol;body:;doors:;drive:;engine:;ext color:;exterior color:;int color:;mileage:;miles:;model code:;msrp:;price:;stock #:;stock:;transmission:;vin:
+1;truck;4;4wd;ecotec3 5.3l v8;silver ice metallic;silver ice metallic;dark ash/jet black;12;12;;;$47,096;ch145453;ch145453;6-speed automatic electronic with overdrive;1gcukrec1jf145453
+2;truck;4;4wd;duramax 6.6l v8 turbodiesel;summit white;summit white;dark ash with jet black interior accents;6;6;;;$50,363;ch155540;ch155540;allison 1000 6-speed automatic;1gc1kuey0jf155540
+3;;;;ecotec3 5.3l v8;;black;;5;5;;$48,890;$43,371;jg184257;jg184257;6-speed automatic electronic with overdrive;3gcukrec0jg184257
+4;truck;4;rwd;ecotec3 5.3l v8;black;black;dark ash/jet black;5;5;cc15753;$38,135;$36,768;jz159733;jz159733;6-speed automatic electronic with overdrive;1gcrcpec3jz159733
+5;;;;ecotec3 5.3l v8 flex fuel;;black;;5;5;;$53,120;$50,481;jg206719;jg206719;8-speed automatic;3gcuksec4jg206719
+6;car;4;fwd;1.4l 4-cylinder turbo dohc cvvt;mosaic black metallic;mosaic black metallic;jet black;5;5;1br69;$20,400;$18,107;j7131987;j7131987;6-speed automatic;1g1bc5sm5j7131987
+7;truck;4;4wd;cummins 6.7l i6 turbodiesel;bright red;bright red;diesel gray/black;72505;72,505;dj7p91;;$43,400;hf131117a;hf131117a;6-speed;3c6ur5fl3fg684866
+8;truck;4;4wd;ecotec3 6.2l v8;iridescent pearl tricoat;iridescent pearl tricoat;cocoa/dune;9;9;;;$57,700;ch123819;ch123819;8-speed automatic with overdrive;3gcuksej0jg123819
+9;truck;2;rwd;ecotec3 4.3l v6;summit white;summit white;dark ash/jet black;5;5;;$30,745;$29,612;jz161588;jz161588;6-speed automatic electronic with overdrive;1gcncnehxjz161588
+10;truck;4;4wd;ecotec3 5.3l v8;graphite metallic;graphite metallic;jet black;1220;1,220;;;$47,492;ch117019;ch117019;6-speed automatic electronic with overdrive;3gcukrec1jg117019
+11;;;;3.6l v6 di;;gray metallic;;18;18;;$29,340;$27,333;j0133108;j0133108;8-speed automatic;1g1fb1rs2j0133108
+12;;;;ecotec3 5.3l v8;;black;;24330;24,330;;;$40,000;jr134992a;jr134992a;8-speed automatic with overdrive;3gcuksec5gg317059
+13;car;4;fwd;1.4l dohc;silver ice metallic;silver ice metallic;dark atmosphere/medium atmosphere;5;5;1bt69;;$25,258;ch220387;ch220387;6-speed automatic;1g1be5sm4h7220387
+14;;;;v6;;summit white;;25;25;;;$37,185;ch143907;ch143907;8-speed automatic;1gcgtdenxj1143907
+15;truck;4;rwd;ecotec3 5.3l v8;deep ocean blue metallic;deep ocean blue metallic;jet black;8963;8,963;;;$37,170;hg316659a;hg316659a;6-speed automatic electronic with overdrive;3gcpcrecxhg228611
+16;;;;1.4l 4-cylinder turbo dohc cvvt;;summit white;;5;5;;$20,400;$18,907;j7131101;j7131101;6-speed automatic;1g1bc5sm3j7131101
+17;truck;4;4wd;duramax 6.6l v8 turbodiesel;summit white;summit white;dark ash/jet black;5;5;;;$51,065;ch103143;ch103143;allison 1000 6-speed automatic;1gc1kuey5jf103143
+18;truck;4;4wd;ecotec3 5.3l v8;silver ice metallic;silver ice metallic;dark ash/jet black;6;6;;$43,260;$42,427;jg197613;jg197613;6-speed automatic electronic with overdrive;3gcukpec0jg197613
+19;suv;4;fwd;3.6l v6 sidi vvt;silver ice metallic;silver ice metallic;jet black;5;5;1nc56;$37,290;$36,310;jj142752;jj142752;9-speed automatic;1gnergkw8jj142752
+20;;;;ecotec3 5.3l v8;;black;;6;6;;$67,875;;jr137433;jr137433;6-speed automatic electronic with overdrive;1gnskhkc5jr137433
+21;truck;4;4wd;duramax 6.6l v8 turbodiesel;red hot;red hot;dark ash/jet black;14;14;;$54,590;$51,092;jf119688;jf119688;allison 1000 6-speed automatic;1gc4kycy7jf119688
+22;;;;1.4l 4-cylinder turbo dohc cvvt;;summit white;;5;5;;$20,400;;j7135701;j7135701;6-speed automatic;1g1bc5sm3j7135701
+23;truck;4;rwd;v6;silver ice metallic;silver ice metallic;jet black/dark ash;5;5;;$29,480;$28,670;j1114547;j1114547;8-speed automatic;1gcgsben5j1114547
+24;;;;ecotec3 5.3l v8;;summit white;;15;15;;$48,890;$43,371;jg186236;jg186236;6-speed automatic electronic with overdrive;3gcukrec2jg186236
+25;suv;4;4wd;5.4l v8 sohc 24v ffv;tuxedo black metallic;tuxedo black metallic;charcoal black;90478;90,478;k2a;;$29,250;hr371471a;hr371471a;6-speed automatic;1fmjk2a57eef40326
+26;car;4;fwd;1.4l 4-cylinder turbo dohc cvvt;silver ice metallic;silver ice metallic;jet black;5;5;1br69;$20,400;;j7136372;j7136372;6-speed automatic;1g1bc5sm4j7136372
+27;;;;duramax 6.6l v8 turbodiesel;;black;;6;6;;;$60,319;ch155285;ch155285;allison 1000 6-speed automatic;1gc1kvey2jf155285
+28;car;4;fwd;1.4l 4-cylinder turbo dohc cvvt;silver ice metallic;silver ice metallic;jet black;8;8;1br69;$20,400;;j7140713;j7140713;6-speed automatic;1g1bc5sm2j7140713
+29;;;;v6;;black;;3;3;;;$38,034;ch144454;ch144454;8-speed automatic;1gcgtden4j1144454
+30;suv;4;fwd;1.5l dohc;nightfall gray metallic;nightfall gray metallic;jet black;5;5;1xr26;$27,695;$26,926;j6207747;j6207747;6-speed automatic electronic with overdrive;2gnaxjevxj6207747
+31;car;4;fwd;1.4l dohc;mosaic black metallic;mosaic black metallic;jet black/jet black;5;5;1dr48;$14,975;$14,122;hc832817;hc832817;cvt;kl8cb6sa6hc832817
+32;;;;ecotec 1.4l i4 smpi dohc turbocharged vvt;;gray metallic;;11;11;;$24,345;;jl209432;jl209432;6-speed automatic;3gncjlsb1jl209432
+33;truck;4;4wd;duramax 6.6l v8 turbodiesel;graphite metallic;graphite metallic;jet black;6;6;;;$59,966;ch152397;ch152397;allison 1000 6-speed automatic;1gc1kvey9jf152397
+34;;;;2.0l dohc;;ash black mica;;58990;58,990;;;$14,500;hj234320a;hj234320a;6-speed automatic with overdrive;km8jtcaf1fu075710
+35;truck;4;4wd;ecotec3 5.3l v8;summit white;summit white;dark ash/jet black;5;5;;$43,260;$41,824;jg198219;jg198219;6-speed automatic electronic with overdrive;3gcukpec1jg198219
+36;;;;ecotec3 5.3l v8 flex fuel;;black;;5;5;;$48,890;$43,371;jg189523;jg189523;6-speed automatic;3gcukrec9jg189523
+37;car;4;fwd;1.5l dohc;silver ice metallic;silver ice metallic;jet black;8;8;1zc69;;$24,157;ch118858;ch118858;6-speed automatic;1g1zb5st8jf118858
+38;;;;ecotec3 5.3l v8;;black;;6;6;;$44,010;$42,525;jg198592;jg198592;6-speed automatic electronic with overdrive;3gcukpec1jg198592
+39;truck;4;4wd;6.0l v8;summit white;summit white;dark ash/jet black;5;5;ck35943;;$42,367;ch188294;ch188294;6-speed automatic;1gb4kycg4hf188294
+40;truck;4;4wd;ecotec3 5.3l v8;silver ice metallic;silver ice metallic;jet black;6;6;;$49,195;$43,704;jg197218;jg197218;6-speed automatic electronic with overdrive;3gcukrec0jg197218
+41;truck;4;4wd;duramax 6.6l v8 turbodiesel;summit white;summit white;dark ash with jet black interior accents;0;;;$54,590;;jf135206;jf135206;allison 1000 6-speed automatic;1gc4kycyxjf135206
+42;;;;vortec 6.0l v8 sfi flex fuel;;;;15;15;;;$73,987;ch291262;ch291262;6-speed automatic hd with electronic overdrive;1gcwgbfg8h1291262
+43;truck;4;4wd;ecotec3 5.3l v8 flex fuel;graphite metallic;graphite metallic;jet black;8;8;;;$48,268;ch149138;ch149138;6-speed automatic;1gcukrec2jf149138
+44;truck;4;rwd;v6;silver ice metallic;silver ice metallic;jet black/dark ash;6;6;;$29,480;$28,670;j1120022;j1120022;8-speed automatic;1gcgsbenxj1120022
+45;;;;ecotec3 5.3l v8;;summit white;;3;3;;;$49,177;ch146661;ch146661;6-speed automatic;1gcukrec2jf146661
+46;car;4;fwd;ecotec 1.8l i4 dohc vvt;mosaic black metallic;mosaic black metallic;jet black/dark titanium;5;5;1ju69;$17,370;;j4101908;j4101908;6-speed automatic;1g1jb5sh5j4101908
+47;;;;ecotec3 5.3l v8;;black;;12;12;;;$48,268;ch147728;ch147728;6-speed automatic electronic with overdrive;1gcukrec2jf147728
+48;truck;4;4wd;ecotec3 5.3l v8;graphite metallic;graphite metallic;jet black;5;5;;$49,690;$44,167;jg169311;jg169311;6-speed automatic electronic with overdrive;3gcukrec4jg169311
+49;suv;4;fwd;ecotec 1.4l i4 smpi dohc turbocharged vvt;silver ice metallic;silver ice metallic;jet black;13;13;1ju76;$22,035;$19,987;jb525735;jb525735;6-speed automatic;kl7cjksb8jb525735
+50;suv;4;fwd;3.6l v6 sidi;mosaic black metallic;mosaic black metallic;ebony;600;600;cr14526;$37,605;$34,105;ch199562;ch199562;6-speed automatic;1gnkrgkd8hj199562
+51;;;;1.4l 4-cylinder turbo dohc cvvt;;black metallic;;6;6;;$20,400;;j7141629;j7141629;6-speed automatic;1g1bc5sm7j7141629
+52;car;4;fwd;ecotec 1.8l i4 dohc vvt;silver ice metallic;silver ice metallic;jet black/dark titanium;5;5;1ju69;$17,370;$16,375;j4102058;j4102058;6-speed automatic;1g1jb5sh0j4102058
+53;suv;4;4wd;3.6l v6 24v vvt;copperhead pearlcoat;copperhead pearlcoat;black;23365;23,365;jkjm74;;$31,000;hz264192a;hz264192a;5-speed automatic;1c4bjwdg2el187361
+54;;;;1.4l dohc;;;;5;5;;;$24,687;ch203085;ch203085;automatic;1g1be5sm2h7203085
+55;car;2;rwd;2.0l turbocharged;garnet red tintcoat;garnet red tintcoat;jet black;545;545;1ag37;;$32,239;ch134594;ch134594;8-speed automatic;1g1fb1rx1h0134594
+56;truck;4;4wd;ecotec3 5.3l v8;black;black;dark ash with jet black interior accents;5;5;;$43,260;$41,824;jg197188;jg197188;6-speed automatic;3gcukpec0jg197188
+57;truck;4;4wd;ecotec3 5.3l v8;summit white;summit white;dark ash/jet black;11;11;;$43,260;$41,824;jg171855;jg171855;6-speed automatic electronic with overdrive;3gcukpec4jg171855
+58;;;;v6;;black;;10;10;;$40,645;;j1159897;j1159897;8-speed automatic;1gcgtden3j1159897
+59;suv;4;4wd;3.6l v6 flex fuel 24v vvt;deep cherry red crystal pearlcoat;deep cherry red crystal pearlcoat;brown/light frost;80554;80,554;wkjs74;;$24,700;hg449062a;hg449062a;8-speed automatic;1c4rjfcg3ec119599
+60;truck;4;4wd;ecotec3 4.3l v6 flex fuel;brownstone metallic;brownstone metallic;jet black;60331;60,331;ck15753;;$22,950;hz269850a;hz269850a;6-speed automatic electronic with overdrive;1gcvkreh1ez266925
+61;car;4;fwd;1.4l dohc;nightfall gray metallic;nightfall gray metallic;jet black;7;7;1dr48;$15,025;$14,671;jc420324;jc420324;cvt;kl8cb6sa8jc420324
+62;;;;ecotec3 5.3l v8;;black;;180;180;;$47,190;$41,152;hf181747;hf181747;6-speed automatic electronic with overdrive;1gcukrec8hf181747
+63;truck;4;4wd;ecotec3 5.3l v8;silver ice metallic;silver ice metallic;jet black;181;181;;$47,090;$40,992;hf184938;hf184938;6-speed automatic electronic with overdrive;1gcukrec8hf184938
+64;truck;4;4wd;ecotec3 5.3l v8;silver ice metallic;silver ice metallic;jet black;5;5;;$48,890;$43,371;jg186916;jg186916;6-speed automatic electronic with overdrive;3gcukrec2jg186916
+65;truck;4;4wd;ecotec3 5.3l v8;silver ice metallic;silver ice metallic;jet black;295;295;;;$46,455;ch126304;ch126304;6-speed automatic electronic with overdrive;3gcukrec1jg126304
+66;truck;4;4wd;ecotec3 6.2l v8;silver ice metallic;silver ice metallic;jet black;7;7;;;$56,799;ch120549;ch120549;8-speed automatic with overdrive;3gcuksej4jg120549
+67;truck;4;4wd;duramax 6.6l v8 turbodiesel;silver ice metallic;silver ice metallic;jet black;5474;5,474;;;$72,699;hf235827;hf235827;allison 1000 6-speed automatic;1gc4k0ey4hf235827
+68;truck;4;4wd;ecotec3 5.3l v8;iridescent pearl tricoat;iridescent pearl tricoat;cocoa/dune;5;5;;$50,685;$45,098;jg167126;jg167126;6-speed automatic electronic with overdrive;3gcukrecxjg167126
+69;truck;4;4wd;ecotec3 5.3l v8;silver ice metallic;silver ice metallic;dark ash with jet black interior accents;0;;;$44,010;$42,525;jg199235;jg199235;6-speed automatic;3gcukpec4jg199235
+70;suv;4;fwd;1.5l dohc;silver ice metallic;silver ice metallic;medium ash gray;6;6;1xp26;$26,445;$25,813;j6113028;j6113028;6-speed automatic;2gnaxhev0j6113028
+71;car;4;fwd;1.4l dohc;mosaic black metallic;mosaic black metallic;dark atmosphere/medium atmosphere;5;5;1bt69;$23,690;$19,780;h7198986;h7198986;automatic;1g1be5sm2h7198986
+72;;;;ecotec3 5.3l v8 flex fuel;;black;;10;10;;$46,335;$40,375;hg228081;hg228081;6-speed automatic;3gcpcrec7hg228081
+73;;;;ecotec3 5.3l v8;;black;;5;5;;$67,950;$65,362;hr368100;hr368100;6-speed automatic electronic with overdrive;1gnskhkc1hr368100
+74;truck;4;4wd;duramax 6.6l v8 turbodiesel;summit white;summit white;jet black;8;8;ck36043;;$49,614;ch120835;ch120835;allison 1000 6-speed automatic;1gb4kycy4jf120835
+75;;;;ecotec3 5.3l v8;;summit white;;50721;50,721;;;$38,250;hg300282a;hg300282a;8-speed automatic with overdrive;3gcuksec4gg211413
+76;;;;3.6l v6 di dohc;;black;;5;5;;$34,895;$34,195;j9103543;j9103543;6-speed automatic electronic with overdrive;2g1105s32j9103543
+77;car;4;fwd;1.4l dohc;nightfall gray metallic;nightfall gray metallic;jet black/jet black;10;10;1dr48;$14,975;$14,122;hc832075;hc832075;cvt;kl8cb6saxhc832075
+78;;;;1.4l 4-cylinder turbo dohc cvvt;;arctic blue;;11;11;;$20,400;;j7141590;j7141590;6-speed automatic;1g1bc5sm6j7141590
+79;;;;ecotec3 6.2l v8;;summit white;;7;7;;;$56,799;ch121641;ch121641;8-speed automatic with overdrive;3gcuksej8jg121641
+80;suv;4;fwd;3.6l v6 sidi vvt;iridescent pearl tricoat;iridescent pearl tricoat;dark atmosphere/medium ash gray;5;5;1ne56;$48,915;;jj121257;jj121257;9-speed automatic;1gnerkkwxjj121257
+81;;;;1.4l 4-cylinder turbo dohc cvvt;;black metallic;;9;9;;$20,400;;j7135867;j7135867;6-speed automatic;1g1bc5sm4j7135867
+82;;;;ecotec3 5.3l v8 flex fuel;;pearl;;19;19;;$52,875;$48,713;jg208313;jg208313;6-speed automatic;3gcuksec8jg208313
+83;truck;4;4wd;vortec 6.0l v8 sfi flex fuel vvt;red hot;red hot;dark ash/jet black;5;5;;$44,850;$37,986;ch171945;ch171945;6-speed automatic;1gc4kycg8gf171945
+84;car;4;fwd;3.6l v6 di dohc;black;black;dark titanium/jet black;3462;3,462;1gz69;$39,200;$36,495;ch120685;ch120685;6-speed automatic;1g1145s36hu120685
+85;;;;1.4l dohc;;summit white;;5;5;;$23,490;$19,616;hs593010;hs593010;6-speed automatic;3g1be6sm3hs593010
+86;truck;4;4wd;v6;graphite metallic;graphite metallic;jet black;25;25;;;$37,187;ch143124;ch143124;8-speed automatic;1gcgtden0j1143124
+87;;;;vortec 6.0l v8 sfi flex fuel;;;;8;8;;$35,185;;ch144437;ch144437;6-speed automatic hd with electronic overdrive;1gcwgafg3h1144437
+88;;;;ecotec3 5.3l v8;;black;;5;5;;$52,975;$46,711;hg216565;hg216565;6-speed automatic;3gcpcsec3hg216565
+89;truck;4;4wd;vortec 6.0l v8 sfi vvt;summit white;summit white;dark ash/jet black;8233;8,233;;$43,815;;ch113763;ch113763;6-speed automatic;1gc1kueg6hf113763
+90;;;;duramax 6.6l v8 turbodiesel;;black;;60;60;;;;jf130816;jf130816;allison 1000 6-speed automatic;1gc4k0ey3jf130816
+91;car;4;fwd;1.4l 4-cylinder turbo dohc cvvt;silver ice metallic;silver ice metallic;jet black;14;14;1br69;$20,400;$18,907;j7131625;j7131625;6-speed automatic;1g1bc5sm4j7131625
+92;;;;ecotec3 5.3l v8 flex fuel;;fire red;;87,003;;;;;;hf242452a;6-speed automatic electronic with overdrive;
+93;;;;ecotec3 5.3l v8 flex fuel;;summit white;;22;;;;;;hg303739;6-speed automatic;
+94;truck;4;rwd;ecotec3 5.3l v8;siren red tintcoat;siren red tintcoat;dark ash/jet black;3880;3,880;;$48,025;$35,899;hg216217;hg216217;6-speed automatic;3gcpcrec1hg216217
+95;;;;ecotec3 5.3l v8 flex fuel;;summit white;;22;;;;;;hg303739;6-speed automatic;
+96;;;;2.4l 4-cylinder smpi sohc;;pitch black clearcoat;;51,541;;;;;;hg459205aa;6-speed;
+97;suv;4;4wd;ecotec3 5.3l v8;silver ice metallic;silver ice metallic;jet black;5;5;ck15706;$59,315;$54,999;hr381934;hr381934;6-speed automatic electronic with overdrive;1gnskbkc9hr381934
+98;;;;1.4l dohc;;black;;5;5;;$25,150;$21,047;hs514374;hs514374;6-speed automatic;3g1be6sm9hs514374
+99;truck;4;rwd;v6;summit white;summit white;jet black/dark ash;5;5;;$29,480;$28,670;j1113282;j1113282;8-speed automatic;1gcgsben1j1113282
+100;car;2;rwd;v8 supercharged;long beach red metallic tintcoat;long beach red metallic tintcoat;spice red;53;53;1yz07;$109,460;$98,756;ch607822;ch607822;8 speed paddle shift with automatic modes;1g1yu2d68g5607822
+101;car;4;fwd;1.4l dohc;silver ice metallic;silver ice metallic;jet black;3085;3,085;1bt69;$25,165;$21,159;h7256556;h7256556;6-speed automatic;1g1be5sm5h7256556
+102;suv;4;rwd;vortec 5.3l v8 sfi flex fuel iron block;summit white;summit white;light cashmere/dark cashmere;87590;87,590;cc10706;;$20,700;hf117804a;hf117804a;6-speed automatic electronic with overdrive;1gnscbe07br158572
+103;truck;4;4wd;ecotec3 5.3l v8;graphite metallic;graphite metallic;jet black;18;18;;$48,415;$42,980;jg234477;jg234477;6-speed automatic electronic with overdrive;3gcukrec2jg234477
+104;;;;3.6l v6 24v vvt;;brilliant black crystal pearlcoat;;39,000;;;;;;hg338587a;8-speed automatic;
+105;car;;4wd;vortec 6.0l v8 sfi vvt;summit white;summit white;dark ash/jet black;2599;2,599;ck25903;$41,590;$34,999;hz262942;hz262942;6-speed automatic hd electronic with overdrive;1gc0kueg2hz262942
+106;suv;4;fwd;ecotec 1.4l i4 smpi dohc turbocharged vvt;river rock metallic;river rock metallic;ebony;1640;1,640;4ju76;$27,795;$27,212;hb088934;hb088934;6-speed automatic;kl4cj1sb6hb088934
+107;;;;1.4l dohc;;summit white;;6;6;;$25,070;$21,070;h7224025;h7224025;6-speed automatic;1g1be5sm1h7224025
+108;;;;duramax 6.6l v8 turbodiesel;;black;;236;236;;$66,665;$64,449;ch201276;ch201276;allison 1000 6-speed automatic;1gc1kwey2hf201276
+109;truck;4;4wd;ecotec3 5.3l v8 flex fuel;silver ice metallic;silver ice metallic;dark ash/jet black;22;22;ck15753;$42,740;$39,730;hz259026;hz259026;6-speed automatic;1gcvkpec2hz259026
+110;;;;2.8l duramax turbodiesel;;black;;656;656;;$45,730;$45,244;ch185167;ch185167;6-speed automatic;1gcptde19h1185167
+111;truck;4;4wd;ecotec3 5.3l v8 flex fuel;black;black;dark ash/jet black;7;7;ck15753;$43,220;$40,596;hz234260;hz234260;6-speed automatic;1gcvknec0hz234260
+112;;;;ecoboost 3.5l v6 gtdi dohc 24v twin turbocharged;;oxford white;;32338;32,338;;;$32,500;hg384542a;hg384542a;6-speed automatic electronic;1ftew1eg4fkd47876
+113;;;;1.5l dohc;;summit white;;3;3;;$24,165;$21,812;jf106823;jf106823;6-speed automatic;1g1zb5st6jf106823
+114;;;;ecotec3 5.3l v8;;red hot;;1722;1,722;;;$53,987;ch128647;ch128647;6-speed automatic electronic with overdrive;3gcukrec5hg128647
+115;truck;4;4wd;ecotec3 6.2l v8;pepperdust metallic;pepperdust metallic;jet black/medium ash gray;12;12;;$60,910;$56,904;hg322411;hg322411;8-speed automatic;3gcuktejxhg322411
+116;;;;ecotec3 5.3l v8;;siren red tintcoat;;5;;;;;;hr387401;6-speed automatic electronic with overdrive;
+117;truck;4;rwd;ecotec3 5.3l v8;deep ocean blue metallic;deep ocean blue metallic;dark ash/jet black;3297;3,297;;$47,430;$36,999;hg217274;hg217274;6-speed automatic;3gcpcrec7hg217274
+118;van;3;rwd;vortec 6.0l v8 sfi flex fuel;summit white;summit white;medium pewter;8;8;cg23405;$35,185;;ch143740;ch143740;6-speed automatic hd with electronic overdrive;1gcwgafgxh1143740
+119;;;;ecotec3 6.2l v8;;black;;7;7;;$58,600;$57,097;ch331024;ch331024;8-speed automatic;3gcuksej1hg331024
+120;;;;3.6l v6 sidi;;silver;;44,109;;;;;;jt357;6-speed automatic;
+121;;;;duramax 6.6l v8 turbodiesel;;summit white;;200;200;;$66,395;$60,193;hf166084;hf166084;allison 1000 6-speed automatic;1gc1kwey3hf166084
+122;;;;vortec 6.0l v8 sfi flex fuel vvt;;red hot;;5;5;;$52,090;$45,947;ch171773;ch171773;6-speed automatic;1gc4kzcg8gf171773
+123;;;;3.6l v6 24v vvt;;brilliant black crystal pearlcoat;;39,000;;;;;;hg338587a;8-speed automatic;
+124;suv;4;fwd;ecotec 1.4l i4 smpi dohc turbocharged vvt;quicksilver metallic;quicksilver metallic;ebony;7;7;4jv76;$30,940;$30,312;hb103493;hb103493;6-speed automatic;kl4cjcsb8hb103493
+125;car;2;rwd;3.6l v6 di;silver ice metallic;silver ice metallic;medium ash gray;14;14;1ag37;$32,050;$29,861;h0168780;h0168780;8-speed automatic;1g1fb1rs8h0168780
+126;;;;duramax 6.6l v8 turbodiesel;;black;;78944;78,944;;;$39,900;hf141982b;hf141982b;allison 1000 6-speed automatic;1gc1kye89cf105391
+127;suv;4;fwd;ecotec 1.4l i4 smpi dohc turbocharged vvt;white frost tricoat;white frost tricoat;shale/ebony accents;5;5;4jv76;$31,540;$30,870;hb066243;hb066243;6-speed automatic;kl4cjcsb7hb066243
+128;;;;ecotec3 4.3l v6;;summit white;;4720;4,720;;;$26,500;h1239386a;h1239386a;6-speed automatic electronic with overdrive;1gcnkneh1gz214660
+129;truck;4;rwd;ecotec3 5.3l v8 flex fuel;deep ocean blue metallic;deep ocean blue metallic;dark ash/jet black;3887;3,887;;$47,925;$36,999;hg221865;hg221865;6-speed automatic;3gcpcrec6hg221865
+130;;;;3.6l v6 24v vvt;;brilliant black crystal pearlcoat;;39,000;;;;;;hg338587a;8-speed automatic;
+131;car;4;fwd;1.4l dohc;cajun red tintcoat;cajun red tintcoat;dark atmosphere/medium atmosphere;9;9;1bt68;$25,075;;ch546691;ch546691;6-speed automatic;3g1be6sm5hs546691
+132;truck;4;rwd;ecotec3 5.3l v8;siren red tintcoat;siren red tintcoat;cocoa/dune;10;10;;$46,830;$40,838;hg218335;hg218335;6-speed automatic;3gcpcrec6hg218335
+133;;;;duramax 6.6l v8 turbodiesel;;summit white;;59,969;;;;;;hf230623a;allison 1000 6-speed automatic;
+134;;;;ecotec3 6.2l v8;;black;;6;6;;$59,415;$52,810;hg244790;hg244790;8-speed automatic;3gcuksej1hg244790
+135;van;3;rwd;vortec 4.8l v8 sfi;summit white;summit white;medium pewter;0;;cg23705;$35,920;;ch146969;ch146969;6-speed automatic hd with electronic overdrive;1gcwgbff6h1146969
+136;;;;3.6l v6 di dohc;;black;;9;9;;$33,230;$32,605;ch145749;ch145749;6-speed automatic;2g1105s39h9145749
+137;truck;4;4wd;ecotec3 6.2l v8;graphite metallic;graphite metallic;dark ash/jet black;7;7;;$59,475;$56,866;ch303081;ch303081;8-speed automatic;3gcuksej5hg303081
+138;van;3;rwd;vortec 4.8l v8 sfi;summit white;summit white;medium pewter;10;10;cg23705;$35,920;$33,447;ch150647;ch150647;6-speed automatic hd with electronic overdrive;1gcwgbff4h1150647
+139;truck;4;4wd;duramax 6.6l v8 turbodiesel;graphite metallic;graphite metallic;jet black;7;7;;$66,665;$64,449;ch201483;ch201483;allison 1000 6-speed automatic;1gc1kwey7hf201483
+140;car;4;fwd;1.5l dohc;silver ice metallic;silver ice metallic;jet black;5;5;1zc69;$24,165;$21,812;jf105282;jf105282;6-speed automatic;1g1zb5st4jf105282
+141;convertible;2;rwd;6.2l v8;nightfall gray metallic;nightfall gray metallic;jet black;610;610;1ak67;$54,295;$49,987;ch185157;ch185157;8-speed automatic;1g1fh3d73g0185157
+142;;;;3.6l v6 di;;red hot;;14;14;;$41,015;$38,434;h0166199;h0166199;8-speed automatic;1g1fd1rs3h0166199
+143;truck;4;4wd;ecotec3 6.2l v8;graphite metallic;graphite metallic;jet black;7;7;;;$57,995;ch123443;ch123443;8-speed automatic with overdrive;3gcuksej3jg123443
+144;truck;4;rwd;ecotec3 5.3l v8;pepperdust metallic;pepperdust metallic;jet black;11;11;;$47,285;$41,274;hg334359;hg334359;6-speed automatic;3gcpcrec8hg334359
+145;;;;2.0l dohc;;ash black mica;;58,990;;;;;;hj234320a;6-speed automatic with overdrive;
+146;truck;4;4wd;duramax 6.6l v8 turbodiesel;silver ice metallic;silver ice metallic;jet black;9;9;;$66,665;$65,449;ch199863;ch199863;allison 1000 6-speed automatic;1gc1kwey5hf199863
+147;;;;1.4l dohc;;summit white;;4889;4,889;;$25,150;$21,047;hs511632;hs511632;6-speed automatic;3g1be6sm1hs511632
+148;van;3;rwd;vortec 6.0l v8 sfi flex fuel;silver ice metallic;silver ice metallic;medium pewter;942;942;cg23705;$79,900;$74,900;ch107587;ch107587;6-speed automatic hd with electronic overdrive;1gcwgbfg5h1107587
+149;;;;ecotec3 5.3l v8 flex fuel;;black;;16;16;;$54,275;$50,559;hg390849;hg390849;8-speed automatic with overdrive;3gcuksec1hg390849
+150;car;4;fwd;3.6l v6 di;quicksilver metallic;quicksilver metallic;ebony/ebony accents;6;6;4zb79;$41,575;$40,683;hu197826;hu197826;8-speed automatic;1g4zp5ss3hu197826
+151;van;3;rwd;vortec 6.0l v8 sfi flex fuel;silver ice metallic;silver ice metallic;medium pewter;15;15;cg23405;$74,900;$68,900;ch133834;ch133834;6-speed automatic hd with electronic overdrive;1gcwgafg2h1133834
+152;truck;4;4wd;ecotec3 5.3l v8;graphite metallic;graphite metallic;dark ash/jet black;3739;3,739;;$48,350;$47,397;ch241897;ch241897;6-speed automatic electronic with overdrive;3gcukrec1hg241897
+153;;;;2.5l 4-cylinder flex fuel;;black;;6493;6,493;;$31,640;$30,335;gu118767;gu118767;6-speed automatic;1g11e5sa6gu118767
+154;;;;ecotec 2.5l i4 dgi dohc;;summit white;;202;202;;$31,685;$30,363;h9165397;h9165397;6-speed automatic;2g1105sa7h9165397
+155;suv;4;fwd;ecotec 1.4l i4 smpi dohc turbocharged vvt;mosaic black metallic;mosaic black metallic;jet black;5;5;1ju76;$21,935;$18,117;hl278479;hl278479;6-speed automatic;3gncjksb3hl278479
+156;truck;4;4wd;v6;red hot;red hot;jet black/dark ash;6;6;;$34,880;$33,910;h1215058;h1215058;8-speed automatic;1gcgtben3h1215058
+157;van;3;rwd;vortec 6.0l v8 sfi flex fuel;summit white;summit white;medium pewter;8;8;cg23405;$35,185;$32,741;ch115015;ch115015;6-speed automatic hd with electronic overdrive;1gcwgafg8h1115015
+158;;;;7.0l v8;;red hot;;5,156;;;;;;g5110745a;6-speed manual;
+159;car;4;fwd;1.4l dohc;summit white;summit white;dark atmosphere/medium atmosphere;8;8;1br69;;$20,495;ch103190;ch103190;6-speed automatic;1g1bc5sm6h7103190
+160;;;;7.0l v8;;red hot;;5,156;;;;;;g5110745a;6-speed manual;
+161;car;4;fwd;1.4l dohc;lime metallic;lime metallic;jet black/white trim;1924;1,924;1ds48;$16,660;$15,386;ch619018;ch619018;cvt;kl8cd6sa6gc619018
+162;truck;4;4wd;duramax 6.6l v8 turbodiesel;butte red metallic;butte red metallic;cocoa/dune;5;5;;$64,695;$59,823;ch157298;ch157298;allison 1000 6-speed automatic;1gc4k0c85gf157298
+163;;;;ecotec3 5.3l v8;;black;;5;5;;$52,410;$45,300;ch182423;ch182423;6-speed automatic;3gcukrec0hg182423
+164;;;;duramax 6.6l v8 turbodiesel;;black;;78,944;;;;;;hf141982b;allison 1000 6-speed automatic;
+165;;;;ecotec3 6.2l v8;;black;;7;7;;$58,600;$57,097;ch323495;ch323495;8-speed automatic;3gcuksej0hg323495
+166;;;;duramax 6.6l v8 turbodiesel;;black;;78,944;;;;;;hf141982b;allison 1000 6-speed automatic;
+167;;;;ecotec3 5.3l v8 flex fuel;;summit white;;22;22;;$52,975;$46,711;hg303739;hg303739;6-speed automatic;3gcpcsec7hg303739
+168;;;;ecotec 1.8l i4 dohc vvt;;red hot;;56;56;;$22,725;$21,605;h4111534;h4111534;6-speed automatic;1g1jd5sh1h4111534
+169;;;;duramax 6.6l v8 turbodiesel;;black;;78,944;;;;;;hf141982b;allison 1000 6-speed automatic;
+170;car;4;fwd;3.6l v6 di;white frost tricoat;white frost tricoat;light neutral;6;6;4zb79;$42,175;$41,241;hu193008;hu193008;8-speed automatic;1g4zp5ss4hu193008
+171;;;;duramax 6.6l v8 turbodiesel;;black;;78,944;;;;;;hf141982b;allison 1000 6-speed automatic;
+172;truck;4;4wd;ecotec3 5.3l v8 flex fuel;black;black;dark ash/jet black;9;9;ck15753;$43,220;$40,596;hz232056;hz232056;6-speed automatic;1gcvknec2hz232056
+173;truck;4;4wd;ecotec3 6.2l v8;graphite metallic;graphite metallic;jet black;7;7;;$59,665;$53,054;hg352951;hg352951;8-speed automatic;3gcuksej2hg352951
+174;car;4;fwd;3.6l v6 di;pepperdust metallic;pepperdust metallic;light neutral;20;20;4zb79;$41,575;$40,683;hu204018;hu204018;8-speed automatic;1g4zp5ss9hu204018
+175;truck;4;4wd;ecotec3 5.3l v8 flex fuel;iridescent pearl tricoat;iridescent pearl tricoat;jet black;6;6;;$55,270;$51,489;hg375676;hg375676;8-speed automatic with overdrive;3gcuksec9hg375676
+176;suv;4;fwd;ecotec 1.4l i4 smpi dohc turbocharged vvt;ebony twilight metallic;ebony twilight metallic;ebony;6;6;4ju76;$27,795;$27,212;hb059060;hb059060;6-speed automatic;kl4cj1sb2hb059060
+177;car;4;fwd;1.4l dohc;silver ice metallic;silver ice metallic;jet black;3121;3,121;1bt69;$25,165;$21,159;h7256444;h7256444;6-speed automatic;1g1be5sm5h7256444
+178;;;;2.8l duramax turbodiesel;;black;;9;9;;$45,935;$45,445;ch243910;ch243910;6-speed automatic;1gcptde17h1243910
+179;car;4;fwd;ecotec 1.8l i4 dohc vvt;nightfall gray metallic;nightfall gray metallic;jet black/dark titanium;13;13;1ju69;$17,370;$16,375;j4102271;j4102271;6-speed automatic;1g1jb5sh0j4102271
+180;truck;4;4wd;ecotec3 6.2l v8;iridescent pearl tricoat;iridescent pearl tricoat;cocoa/dune;7;7;;;$57,770;ch114210;ch114210;8-speed automatic with overdrive;3gcuksej1jg114210
+181;truck;4;4wd;duramax 6.6l v8 turbodiesel;summit white;summit white;jet black;6;6;ck36043;;$49,828;ch118751;ch118751;allison 1000 6-speed automatic;1gb4kycyxjf118751
+182;;;;ecotec3 5.3l v8;;black;;2903;2,903;;;$57,589;ch381005;ch381005;6-speed automatic electronic with overdrive;1gnskbkcxhr381005
+183;;;;3.6l v6 24v vvt;;black clearcoat;;50392;50,392;;;$31,700;hr237887b;hr237887b;5-speed automatic;1c4hjwfg9fl701960
+184;truck;4;4wd;ecotec3 6.2l v8;deep ocean blue metallic;deep ocean blue metallic;dark ash/jet black;6;6;;$60,120;$58,480;ch321718;ch321718;8-speed automatic;3gcuksej6hg321718
+185;truck;2;rwd;v6;summit white;summit white;jet black/dark ash;8;8;12m53;;$28,260;ch100134;ch100134;8-speed automatic;1gchsben3j1100134
+186;;;;2.0l turbocharged;;garnet red tintcoat;;545;;;;;;ch134594;8-speed automatic;
+187;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+188;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+189;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+190;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+191;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+192;truck;4;rwd;ecotec3 5.3l v8 flex fuel;graphite metallic;graphite metallic;jet black;3572;3,572;;$47,530;$35,999;hg223634;hg223634;6-speed automatic;3gcpcrec8hg223634
+193;;;;2.0l turbocharged;;garnet red tintcoat;;545;;;;;;ch134594;8-speed automatic;
+194;;;;5.4l v8 sohc 24v ffv;;ingot silver metallic;;46,891;;;;;;rm195;6-speed automatic;
+195;;;;ecotec3 5.3l v8;;siren red tintcoat;;21;;;;;;ch172702;6-speed automatic;
+196;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+197;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+198;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+199;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+200;;;;ecotec3 5.3l v8;;siren red tintcoat;;21;;;;;;ch172702;6-speed automatic;
+201;;;;ecotec3 5.3l v8 flex fuel;;summit white;;6;6;;$54,275;$50,559;hg391855;hg391855;8-speed automatic with overdrive;3gcuksec1hg391855
+202;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+203;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+204;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+205;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+206;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+207;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+208;;;;1.5l dohc;;pepperdust metallic;;5;;;;;;jf133304;6-speed automatic;
+209;;;;ecotec3 5.3l v8 flex fuel;;white diamond tricoat;;24,982;;;;;;hr361615a;6-speed automatic electronic with overdrive;
+210;;;;1.5l dohc;;blue velvet metallic;;6;;;;;;jf112890;6-speed automatic;
+211;;;;1.5l dohc;;blue velvet metallic;;6;;;;;;jf112890;6-speed automatic;
+212;van;3;rwd;vortec 4.8l v8 sfi;summit white;summit white;medium pewter;8;8;cg23705;$35,920;$33,447;ch150706;ch150706;6-speed automatic hd with electronic overdrive;1gcwgbff5h1150706
+213;suv;4;fwd;ecotec 1.4l i4 smpi dohc turbocharged vvt;ebony twilight metallic;ebony twilight metallic;ebony;5;5;4jv76;$30,940;$30,312;hb086219;hb086219;6-speed automatic;kl4cjcsb0hb086219
+214;truck;4;4wd;ecotec3 5.3l v8;summit white;summit white;jet black;8069;8,069;ck15753;;$44,987;ch192397;ch192397;6-speed automatic;1gcvkrec5gz192397
+215;;;;ecotec 1.4l i4 smpi dohc turbocharged vvt;;gray metallic;;11;;;;;;jl209432;6-speed automatic;
+216;suv;4;fwd;1.5l dohc;nightfall gray metallic;nightfall gray metallic;medium ash gray;6;6;1xp26;$26,445;$25,813;j6140341;j6140341;6-speed automatic electronic with overdrive;2gnaxhev7j6140341
+217;;;;ecotec 1.4l i4 smpi dohc turbocharged vvt;;gray metallic;;11;;;;;;jl209432;6-speed automatic;
+218;;;;vortec 6.0l v8 sfi flex fuel vvt;;red hot;;5;;;;;;ch171773;6-speed automatic;
+219;suv;4;fwd;ecotec 1.4l i4 smpi dohc turbocharged vvt;graphite gray metallic;graphite gray metallic;ebony;5;5;4jv76;$30,940;$30,312;hb069600;hb069600;6-speed automatic;kl4cjcsb9hb069600
+220;;;;duramax 6.6l v8 turbodiesel;;summit white;;59,969;;;;;;hf230623a;allison 1000 6-speed automatic;
+221;;;;vortec 6.0l v8 sfi flex fuel vvt;;red hot;;5;;;;;;ch171773;6-speed automatic;
+222;;;;v8 supercharged;;long beach red metallic tintcoat;;53;;;;;;ch607822;8 speed paddle shift with automatic modes;
+223;;;;duramax 6.6l v8 turbodiesel;;summit white;;59,969;;;;;;hf230623a;allison 1000 6-speed automatic;
+224;;;;vortec 6.0l v8 sfi vvt;;summit white;;8,233;;;;;;ch113763;6-speed automatic;
+225;;;;vortec 6.0l v8 sfi vvt;;summit white;;8,233;;;;;;ch113763;6-speed automatic;
+226;;;;ecotec3 5.3l v8;;summit white;;5;;;;;;hr382329;6-speed automatic electronic with overdrive;
+227;;;;ecotec3 5.3l v8;;summit white;;5;;;;;;hr382329;6-speed automatic electronic with overdrive;
+228;car;4;fwd;1.5l dohc;blue velvet metallic;blue velvet metallic;jet black;7;7;1zd69;$26,895;$24,460;jf135917;jf135917;6-speed automatic;1g1zd5st3jf135917
+229;;;;duramax 6.6l v8 turbodiesel;;summit white;;59,969;;;;;;hf230623a;allison 1000 6-speed automatic;
+230;;;;duramax 6.6l v8 turbodiesel;;summit white;;59,969;;;;;;hf230623a;allison 1000 6-speed automatic;
+231;;;;3.6l v6 24v vvt;;bright white clearcoat;;45,425;;;;;;j0104352a;5-speed automatic;
+232;truck;4;4wd;ecotec3 5.3l v8 flex fuel;silver ice metallic;silver ice metallic;dark ash/jet black;4448;4,448;ck15753;$42,840;$33,999;hz260886;hz260886;6-speed automatic;1gcvkpec2hz260886
+233;;;;duramax 6.6l v8 turbodiesel;;summit white;;59,969;;;;;;hf230623a;allison 1000 6-speed automatic;
+234;;;;ecotec3 5.3l v8 flex fuel;;black;;10;10;;$47,035;$34,999;hg219043;hg219043;6-speed automatic;3gcpcrec9hg219043
+235;car;4;fwd;ecotec 1.8l i4 dohc vvt;summit white;summit white;jet black/dark titanium;12;12;1ju69;$17,370;$16,375;j4101911;j4101911;6-speed automatic;1g1jb5sh5j4101911
+236;;;;3.6l v6 dgi dohc vvt;;black;;21,123;;;;;;jt335;6-speed automatic with tapshift;
+237;;;;7.0l v8;;red hot;;5156;5,156;;;$46,000;g5110745a;g5110745a;6-speed manual;2g1fz1ee1f9700580
+238;suv;4;4wd;ecotec3 5.3l v8;summit white;summit white;cocoa/dune;3485;3,485;ck15906;$67,325;$61,999;hr373169;hr373169;6-speed automatic electronic with overdrive;1gnskhkc7hr373169
+239;car;4;fwd;3.6l v6 di;ebony twilight metallic;ebony twilight metallic;ebony/ebony accents;6;6;4zb79;$41,575;$40,683;hu169949;hu169949;8-speed automatic;1g4zp5ss0hu169949
+240;car;4;fwd;1.5l dohc;silver ice metallic;silver ice metallic;jet black;5;5;1zd69;$28,195;$25,675;jf114316;jf114316;6-speed automatic;1g1zd5st4jf114316
+241;truck;4;4wd;ecotec3 6.2l v8;silver ice metallic;silver ice metallic;jet black;3291;3,291;;$60,860;$47,199;hg351928;hg351928;8-speed automatic;3gcuksej2hg351928
+242;truck;4;4wd;ecotec3 5.3l v8 flex fuel;summit white;summit white;dark ash/jet black;3382;3,382;ck15753;$43,050;$33,699;hz225019;hz225019;6-speed automatic;1gcvknec5hz225019
+243;;;;ecotec3 5.3l v8 flex fuel;;summit white;;3391;3,391;;$47,530;$34,999;hg215153;hg215153;6-speed automatic;3gcpcrec7hg215153
+244;truck;4;4wd;vortec 6.0l v8 sfi flex fuel vvt;siren red tintcoat;siren red tintcoat;jet black;5;5;ck35953;$49,975;$43,986;ch247552;ch247552;6-speed automatic;1gc2kzeg7gz247552
+245;;;;v8 supercharged;;long beach red metallic tintcoat;;53;;;;;;ch607822;8 speed paddle shift with automatic modes;

@@ -1,0 +1,61 @@
+KeyCol;couleur;fermeture;fixations;homologation;marque;matière;nombre de points;réf.;taille;univers
+1;non renseigné;;;;redspec;acier;;661058;;sorties circuit, compétition
+2;;;;;powerflex;;;545pff60105;;compétition, sorties circuit
+3;;;;;goodridge;;;8114506d;;compétition, sorties circuit, véhicules historiques
+4;;;;;goodridge;;;8124506d;;compétition
+5;argent;;;;sparco;aluminium;;8sp03780an;;compétition
+6;;;a boulonner;;sparco;fe45;6 points;8sp723154;;compétition
+7;;;;;castrol;;;390221;;compétition, sorties circuit, véhicules historiques
+8;bleu;;;fia;sparco;;;8sp0011263s62az;62;compétition
+9;bleu;;;fia;sparco;;;8sp0011263s54az;54;compétition
+10;bleu;elastique;;fia;sparco;;;8sp00130410bm;10;compétition, véhicules historiques
+11;gris;;;;sparco;aluminium;;8sp03789an;;compétition, véhicules historiques
+12;;;a boulonner;;sparco;fe45;6 points;8sp723052;;compétition
+13;;;;;nc;;;11380-120-150;;compétition
+14;;;a souder;;sparco;crmo;multipoints;8sp753048s;;compétition
+15;;;a boulonner;;sparco;fe45;6 points;8sp723141;;compétition, véhicules historiques
+16;blanc;;;non homologué;omp;;;8ompkk03005020;;karting, sorties circuit
+17;;;;;nc;;;11360-160-001;;compétition
+18;;;;;goodridge;;;8124510d;;compétition
+19;noir;;;non homologué;sparco;;;8sp01008n;;compétition
+20;noir;;;;sparco;aluminium;;8sp03745ptn;;compétition
+21;;;;;sparco;peau retournée;;8sp015r368msn;;4x4
+22;;;a boulonner;;sparco;fe45;6 points;8sp723050;;compétition
+23;;;;;nc;;;11380-180-150;;compétition
+24;noir;;;;smiths;;;70001c078;;compétition, véhicules historiques
+25;;;;;goodridge;;;8110108d;;compétition
+26;;elastique;;non homologué;sparco;;;8sp002553;;karting, sorties circuit
+27;bleu;;;non homologué;sparco;;;8sp01008b;;compétition
+28;noir;lacets;;fia;omp;cuir;;8ompic78407946;46;véhicules historiques
+29;;;a boulonner;;sparco;fe45;multipoints;8sp713060;;compétition
+30;;;a boulonner;;sparco;fe45;6 points;8sp723161;;compétition
+31;;;a souder;;sparco;crmo;multipoints;8sp753060s;;compétition
+32;;;a souder;;sparco;crmo;multipoints;8sp753031s;;compétition
+33;;;;;sparco;peau retournée;;8sp015r375psn;;compétition
+34;;;;non homologué;redspec;;;632101;;véhicules historiques, sorties circuit, compétition, 4x4
+35;;;a souder;;sparco;crmo;multipoints;8sp753099s;;compétition
+36;;;;;goodridge;;;8129006d;;compétition
+37;;;;;nc;;;11075-160-150;;compétition
+38;;;;;goodridge;;;8124508d;;compétition
+39;noir;lacets;;fia;sparco;peau retournée;;8sp001241n41;41;compétition, véhicules historiques
+40;;;;;powerflex;;;545pff12104;;compétition, sorties circuit
+41;;;;;goodridge;;;8110112d;;compétition
+42;vert;;;;green filter;;;451k185;;compétition, sorties circuit
+43;noir;lacets;;fia;omp;cuir;;8ompic78407945;45;véhicules historiques
+44;noir;lacets;;fia;omp;peau retournée;;8ompic803e07137;37;compétition
+45;vert;;;cik-fia niveau 2;sparco;;;8sp002329nrvd140;38;karting, sorties circuit
+46;orange;;;cik-fia niveau 2;omp;;;8ompkk01723179160;42;karting
+47;marron;velcro;;fia;omp;cuir;;8ompic78201538;38;véhicules historiques
+48;noir;lacets;;fia;omp;cuir;;8ompic78407939;39;véhicules historiques
+49;bleu;lacets;;non homologué;omp;peau retournée / cuir;;8ompic81324132;32;sorties circuit, karting
+50;;;;;goodridge;;;8110106d;;compétition
+51;noir;velcro;;fia;sparco;;;8sp00130711nr;11;compétition
+52;;;a boulonner;;sparco;fe45;6 points;8sp723158;;compétition
+53;rouge;velcro;;fia;omp;peau retournée;;8ompic791e06145;45;compétition
+54;vert;;;;green filter;;;451k275;;compétition, sorties circuit
+55;;;a souder;;sparco;crmo;multipoints;8sp753040s;;compétition
+56;;;a souder;;sparco;crmo;multipoints;8sp753061s;;compétition
+57;;;;;goodridge;;;8110110d;;compétition
+58;rouge;;;non homologué;sparco;;;8sp01011r;;compétition
+59;;;a souder;;sparco;crmo;multipoints;8sp753057s;;compétition
+60;bleu;velcro;;non homologué;omp;simili cuir;;8ompic81224234;34;compétition, karting, sorties circuit

@@ -1,0 +1,16 @@
+KeyCol;colors;couleur;depth;forme;hauteur;height;largeur;materials;matière;pièce;poids;profondeur;room;style;weight;width
+1;brown;;;;;41.5 cm;;leather;;;;;bedroom, living room, office;classic;910 g;32.5 cm
+2;green;;23 cm;;;34 cm;;wicker;;;;;living room, office;rustique, country;380 g;43 cm
+3;;vert, brun;;;14.5 cm;;21 cm;;fibres naturelles, cuir;salle de bain;100 g;2.5 cm;;vintage;;
+4;;multicolore;;;29 cm;;42 cm;;fibres naturelles;cuisine;600 g;22 cm;;contemporain;;
+5;brown;;63 cm;;;68 cm;;leather, wood;;;;;living room, office;vintage;14.2 kg;71 cm
+6;;beige, noir;;carré;60 cm;;60 cm;;verre, bois;salon, cuisine, bureau, hall d'entrée;4.4 kg;6.5 cm;;bord de mer;;
+7;;beige, brun;;;16 cm;;45 cm;;coton, cuir;salle de bain;360 g;17 cm;;vintage;;
+8;;brun;;rectangle;41.5 cm;;32.5 cm;;cuir;salon, bureau, chambre;910 g;;;classique;;
+9;;vert;;;34 cm;;43 cm;;osier;salon, bureau;380 g;23 cm;;rustique, campagne;;
+10;green, brown;;2.5 cm;;;14.5 cm;;natural fibers, leather;;;;;bathroom;vintage;100 g;21 cm
+11;;brun;;rectangle;41.5 cm;;32.5 cm;;cuir;chambre, salon, bureau;910 g;;;classique;;
+12;brown;;;;;41.5 cm;;leather;;;;;bedroom, living room, office;classic;910 g;32.5 cm
+13;brown;;224 cm;;;50 cm;;céramique;;;;;hall d'entrée;rustique, vintage;1.5 kg;24 cm
+14;;vert;;;13 cm;;;;fibres naturelles;bureau, salon;100 g;;;vintage, classique;;
+15;multicoloured;;22 cm;;;29 cm;;natural fibers;;;;;kitchen;contemporary;600 g;42 cm

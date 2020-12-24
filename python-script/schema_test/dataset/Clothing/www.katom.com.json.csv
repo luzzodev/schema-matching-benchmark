@@ -1,0 +1,96 @@
+KeyCol;category;color;manufacturer;size;type;weight
+1;foodservice apparel;white pinstripe / black;chef revival;x-large;chef pants;1.00
+2;foodservice apparel;black;chef revival;;waist aprons;0.25
+3;foodservice apparel;black;chef revival;x-large;chef pants;1.25
+4;foodservice apparel;mint w/ black trim;chef revival;x-large;chef coats & shirts;0.95
+5;foodservice apparel;houndstooth;chef revival;medium;chef pants;1.15
+6;foodservice apparel;navy blue;chef revival;;bib aprons;0.40
+7;foodservice apparel;mint w/ black trim;chef revival;3x large;chef coats & shirts;1.20
+8;foodservice apparel;mint w/ black trim;chef revival;4x large;chef coats & shirts;1.35
+9;foodservice apparel;black;chef revival;;waist aprons;0.25
+10;foodservice apparel;houndstooth;chef revival;x-large;chef pants;1.20
+11;foodservice apparel;black;chef revival;x-small;chef pants;0.95
+12;foodservice apparel;tomato w/ black trim;chef revival;5x large;chef coats & shirts;1.35
+13;foodservice apparel;houndstooth;chef revival;x-large;chef pants;1.20
+14;foodservice apparel;black;chef revival;x-large;chef coats & shirts;1.00
+15;foodservice apparel;white;chef revival;;bib aprons;0.70
+16;foodservice apparel;black;chef revival;small;chef pants;1.15
+17;foodservice apparel;spice w/ black trim;chef revival;5x large;chef coats & shirts;1.45
+18;foodservice apparel;houndstooth;chef revival;x-small;chef pants;0.95
+19;foodservice apparel;spice w/ black trim;chef revival;4x large;chef coats & shirts;1.40
+20;foodservice apparel;black;chef revival;;waist aprons;0.30
+21;foodservice apparel;black;chef revival;4x large;chef coats & shirts;1.35
+22;foodservice apparel;white;chef revival;30;chef pants;1.00
+23;foodservice apparel;black;chef revival;3x large;chef coats & shirts;0.55
+24;foodservice apparel;black;chef revival;4x large;chef coats & shirts;1.00
+25;foodservice apparel;black;chef revival;x-small;chef coats & shirts;0.85
+26;foodservice apparel;houndstooth;chef revival;x-small;chef pants;0.85
+27;foodservice apparel;black;chef revival;2x large;chef coats & shirts;1.05
+28;foodservice apparel;white;intedge;3x-large;chef coats & shirts;0.65
+29;foodservice apparel;black;chef revival;2x large;chef pants;1.25
+30;foodservice apparel;white;chef revival;32;chef pants;1.05
+31;foodservice apparel;black;chef revival;x-large;chef pants;1.20
+32;foodservice apparel;black;chef revival;x-small;chef coats & shirts;0.85
+33;foodservice apparel;white;chef revival;42;chef pants;1.15
+34;foodservice apparel;white;chef revival;x-small;chef coats & shirts;0.35
+35;foodservice apparel;white;chef revival;large;chef coats & shirts;0.35
+36;foodservice apparel;navy blue;chef revival;;bib aprons;0.35
+37;foodservice apparel;white;chef revival;40;chef pants;1.20
+38;foodservice apparel;navy blue;chef revival;;waist aprons;0.25
+39;foodservice apparel;white;chef revival;x-large;chef coats & shirts;0.45
+40;foodservice apparel;white;chef revival;3x large;chef coats & shirts;0.55
+41;foodservice apparel;houndstooth;chef revival;large;chef pants;1.25
+42;foodservice apparel;white;chef revival;medium;chef coats & shirts;0.40
+43;foodservice apparel;spice w/ black trim;chef revival;3x large;chef coats & shirts;1.25
+44;foodservice apparel;black;chef revival;small;chef coats & shirts;1.05
+45;foodservice apparel;black;chef revival;x-large;chef coats & shirts;1.10
+46;foodservice apparel;black;chef revival;3x large;chef pants;1.35
+47;foodservice apparel;black;chef revival;2x large;chef coats & shirts;0.15
+48;foodservice apparel;houndstooth;chef revival;x-large;chef pants;1.05
+49;foodservice apparel;black;chef revival;4x large;chef pants;1.45
+50;foodservice apparel;black;chef revival;3x large;chef coats & shirts;1.30
+51;foodservice apparel;black;chef revival;5x large;chef coats & shirts;1.40
+52;foodservice apparel;hunter green;chef revival;;bib aprons;0.40
+53;foodservice apparel;black;chef revival;large;chef pants;1.25
+54;foodservice apparel;white;chef revival;;waist aprons;0.25
+55;foodservice apparel;black;chef revival;small;chef pants;0.85
+56;foodservice apparel;black;chef revival;;bib aprons;0.40
+57;foodservice apparel;mint w/ black trim;chef revival;5x large;chef coats & shirts;1.45
+58;foodservice apparel;black;chef revival;;waist aprons;0.50
+59;foodservice apparel;white;chef revival;small;chef coats & shirts;0.35
+60;foodservice apparel;black;chef revival;5x large;chef pants;1.35
+61;foodservice apparel;houndstooth;chef revival;small;chef pants;1.05
+62;foodservice apparel;black;chef revival;medium;chef coats & shirts;0.35
+63;foodservice apparel;tomato w/ black trim;chef revival;x-large;chef coats & shirts;1.05
+64;foodservice apparel;houndstooth;chef revival;x-small;chef pants;1.00
+65;foodservice apparel;white;chef revival;34;chef pants;1.10
+66;foodservice apparel;kelly green;chef revival;;waist aprons;0.25
+67;foodservice apparel;white pinstripe / black;chef revival;x-large;chef pants;1.20
+68;foodservice apparel;tomato w/ black trim;chef revival;3x large;chef coats & shirts;1.25
+69;foodservice apparel;black;chef revival;2x large;chef coats & shirts;1.30
+70;foodservice apparel;burgundy;chef revival;;bib aprons;0.40
+71;foodservice apparel;burgundy;chef revival;;waist aprons;0.25
+72;foodservice apparel;black;chef revival;medium;chef pants;0.95
+73;foodservice apparel;black;chef revival;x-small;chef coats & shirts;0.35
+74;foodservice apparel;tomato w/ black trim;chef revival;4x large;chef coats & shirts;1.35
+75;foodservice apparel;black;chef revival;x-large;chef coats & shirts;1.55
+76;foodservice apparel;black;chef revival;x-large;chef coats & shirts;1.25
+77;foodservice apparel;royal blue;chef revival;;waist aprons;0.15
+78;foodservice apparel;tomato w/ black trim;chef revival;2x large;chef coats & shirts;1.20
+79;foodservice apparel;hunter green;chef revival;;waist aprons;0.25
+80;foodservice apparel;black;chef revival;x-small;chef coats & shirts;0.85
+81;foodservice apparel;spice w/ black trim;chef revival;2x large;chef coats & shirts;0.90
+82;foodservice apparel;black;chef revival;5x large;chef coats & shirts;1.20
+83;foodservice apparel;black;chef revival;x-large;chef coats & shirts;0.70
+84;foodservice apparel;white;chef revival;36;chef pants;1.10
+85;foodservice apparel;white;intedge;2x large;chef coats & shirts;0.50
+86;foodservice apparel;black;chef revival;small;chef coats & shirts;0.35
+87;foodservice apparel;white;chef revival;2x large;chef coats & shirts;0.50
+88;foodservice apparel;black;chef revival;medium;chef pants;1.10
+89;foodservice apparel;black;chef revival;;bib aprons;0.45
+90;foodservice apparel;mint w/ black trim;chef revival;2x large;chef coats & shirts;1.20
+91;foodservice apparel;black;chef revival;medium;chef coats & shirts;1.05
+92;foodservice apparel;black;chef revival;3x large;chef coats & shirts;1.10
+93;foodservice apparel;black;chef revival;large;chef coats & shirts;1.30
+94;foodservice apparel;black;chef revival;;bib aprons;0.45
+95;foodservice apparel;white;chef revival;46;chef pants;1.30
